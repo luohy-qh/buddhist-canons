@@ -1,0 +1,433 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-07-04T04:02:22",
+  "source_count": 47,
+  "chunk_count": 209,
+  "max_chars": 4000,
+  "overlap_chars": 200,
+  "sources": [
+    {
+      "source_id": "035ff960d6f350012315768ae1ad1d90",
+      "source_path": "《心经》-般若波罗蜜多心经 (1卷)〖唐 玄奘法师译〗.txt",
+      "source_ref": "《心经》-般若波罗蜜多心经 (1卷)〖唐 玄奘法师译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\《心经》-般若波罗蜜多心经 (1卷)〖唐 玄奘法师译〗.txt",
+      "suffix": ".txt",
+      "chars": 1523,
+      "content_sha256": "7abfbba76e834efe635ebb34a002efd170ae2de0f8257d415dff1edb78a127a4"
+    },
+    {
+      "source_id": "6e498bdfad24be34c8b8c599bc4aa90d",
+      "source_path": "仁王护国般若波罗蜜多经 (2卷)〖唐 不空译〗.txt",
+      "source_ref": "仁王护国般若波罗蜜多经 (2卷)〖唐 不空译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\仁王护国般若波罗蜜多经 (2卷)〖唐 不空译〗.txt",
+      "suffix": ".txt",
+      "chars": 18135,
+      "content_sha256": "1ebb0745acc2411ef7976f9321a778c67e251f348755e9efb139164049a49ddf"
+    },
+    {
+      "source_id": "734f0381d8550e9b3935968a343f775a",
+      "source_path": "佛说了义般若波罗蜜多经 (1卷)〖宋 施护译〗.txt",
+      "source_ref": "佛说了义般若波罗蜜多经 (1卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说了义般若波罗蜜多经 (1卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 1519,
+      "content_sha256": "f5dec2c365a9a109d8c727ce373b43e80634d4274c84c69c10dbad76a6cd6bf7"
+    },
+    {
+      "source_id": "c14b7a858ac081e3f484f3e8954d21c4",
+      "source_path": "佛说五十颂圣般若波罗蜜经 (1卷)〖宋 施护译〗.txt",
+      "source_ref": "佛说五十颂圣般若波罗蜜经 (1卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说五十颂圣般若波罗蜜经 (1卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 1194,
+      "content_sha256": "fb875aebd1e2545ef89474e18db3f19d3b2416098be92f7beba202556459f5fd"
+    },
+    {
+      "source_id": "0c65d44a12d2675250ead2f23235f4ee",
+      "source_path": "佛说仁王般若波罗蜜经 (2卷)〖姚秦 鸠摩罗什译〗.txt",
+      "source_ref": "佛说仁王般若波罗蜜经 (2卷)〖姚秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说仁王般若波罗蜜经 (2卷)〖姚秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 14991,
+      "content_sha256": "7499658bf303027b093a076bdfb59ced6df4bb4faf0cb56aae74f1cf1ea74d06"
+    },
+    {
+      "source_id": "875e94c95053f2713eab7a6657499716",
+      "source_path": "佛说佛母出生三法藏般若波罗蜜多经 (25卷)〖宋 施护译〗.txt",
+      "source_ref": "佛说佛母出生三法藏般若波罗蜜多经 (25卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说佛母出生三法藏般若波罗蜜多经 (25卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 6977,
+      "content_sha256": "14bda5b033bd3503a8d63017972ceee5e968d8c2702fabe4334ca0e2302196c2"
+    },
+    {
+      "source_id": "6f9e7be938ba627f4496c0268bb152e6",
+      "source_path": "佛说佛母宝德藏般若波罗蜜经 (3卷)〖宋 法贤译〗.txt",
+      "source_ref": "佛说佛母宝德藏般若波罗蜜经 (3卷)〖宋 法贤译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说佛母宝德藏般若波罗蜜经 (3卷)〖宋 法贤译〗.txt",
+      "suffix": ".txt",
+      "chars": 12618,
+      "content_sha256": "704b7c06d388f4c21b9b47424405b242a1ab6ccb06a37e1762c9693cb2686c08"
+    },
+    {
+      "source_id": "917af6f7ddb23772888a697de15ac8d8",
+      "source_path": "佛说圣佛母小字般若波罗蜜多经 (1卷)〖宋 天息灾译〗.txt",
+      "source_ref": "佛说圣佛母小字般若波罗蜜多经 (1卷)〖宋 天息灾译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说圣佛母小字般若波罗蜜多经 (1卷)〖宋 天息灾译〗.txt",
+      "suffix": ".txt",
+      "chars": 2177,
+      "content_sha256": "e823d26b00dd6eeeb0d9dde57b547dd950d7f30d3a814ae993d7246d8ba23b7d"
+    },
+    {
+      "source_id": "9f8ea67673fa5f3d1c5cbc3d416e5148",
+      "source_path": "佛说圣佛母般若波罗蜜多经 (1卷)〖宋 施护译〗.txt",
+      "source_ref": "佛说圣佛母般若波罗蜜多经 (1卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说圣佛母般若波罗蜜多经 (1卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 1110,
+      "content_sha256": "b5768eb619fbbc19d2f0974ee59e2b3d7b36d1e92a058dc168555eb5bb34f25b"
+    },
+    {
+      "source_id": "47a7397341df209eb9715134ff4ab731",
+      "source_path": "佛说帝释般若波罗蜜多心经 (1卷)〖宋 施护译〗.txt",
+      "source_ref": "佛说帝释般若波罗蜜多心经 (1卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说帝释般若波罗蜜多心经 (1卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 2577,
+      "content_sha256": "6712edd763a02136440cfb6d1c3149538341c330fc424870fdb238dc0329666d"
+    },
+    {
+      "source_id": "3e3c47060a654f9312ecae58e4786cd5",
+      "source_path": "佛说开觉自性般若波罗蜜多经 (4卷)〖宋 惟净等译〗.txt",
+      "source_ref": "佛说开觉自性般若波罗蜜多经 (4卷)〖宋 惟净等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说开觉自性般若波罗蜜多经 (4卷)〖宋 惟净等译〗.txt",
+      "suffix": ".txt",
+      "chars": 16287,
+      "content_sha256": "a67fc436aa852df1a3419087e2435c4437858b8f63fa3e31a184d2cff5e096c9"
+    },
+    {
+      "source_id": "35dda193496eaa6adb6ea570d93c7270",
+      "source_path": "佛说最上根本大乐金刚不空三昧大教王经 (7卷)〖宋 法贤译〗.txt",
+      "source_ref": "佛说最上根本大乐金刚不空三昧大教王经 (7卷)〖宋 法贤译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说最上根本大乐金刚不空三昧大教王经 (7卷)〖宋 法贤译〗.txt",
+      "suffix": ".txt",
+      "chars": 5898,
+      "content_sha256": "26633e89e27bd132811fea16a5bb34e1cd2f775e4741c66eb5ec906edf7fc4ae"
+    },
+    {
+      "source_id": "56bd5d3f993d7e29e860cb98b339620c",
+      "source_path": "佛说濡首菩萨无上清净分卫经 (1卷)〖宋 翔公译〗.txt",
+      "source_ref": "佛说濡首菩萨无上清净分卫经 (1卷)〖宋 翔公译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说濡首菩萨无上清净分卫经 (1卷)〖宋 翔公译〗.txt",
+      "suffix": ".txt",
+      "chars": 15704,
+      "content_sha256": "1ca9dc865310bcdf94b67c28c61d3efba7df83ee2d89eeac1f857695a6cad00e"
+    },
+    {
+      "source_id": "413743b93b5b41a5c17eacb0e6786ad0",
+      "source_path": "佛说能断金刚般若波罗蜜多经 (1卷)〖唐 义净译〗.txt",
+      "source_ref": "佛说能断金刚般若波罗蜜多经 (1卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说能断金刚般若波罗蜜多经 (1卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 6851,
+      "content_sha256": "c2db0a4e4cfb6161c4db122b3c64051315b242225155e5218c979f0ffff71038"
+    },
+    {
+      "source_id": "199d3bf0afc68580dfbfbd648611db16",
+      "source_path": "佛说观想佛母般若波罗蜜多菩萨经 (1卷)〖宋 天息灾译〗.txt",
+      "source_ref": "佛说观想佛母般若波罗蜜多菩萨经 (1卷)〖宋 天息灾译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说观想佛母般若波罗蜜多菩萨经 (1卷)〖宋 天息灾译〗.txt",
+      "suffix": ".txt",
+      "chars": 1264,
+      "content_sha256": "a1763a6d05195d0aaf8e1d73dd2dbe111e31c85bdd48902d66f0975fd2209cd6"
+    },
+    {
+      "source_id": "0d0d63db9255ed720613e5beafdc1867",
+      "source_path": "佛说遍照般若波罗蜜经 (1卷)〖宋 施护译〗.txt",
+      "source_ref": "佛说遍照般若波罗蜜经 (1卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\佛说遍照般若波罗蜜经 (1卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 3908,
+      "content_sha256": "510bac09cca5b1b5a0ebdfa1e54c8dfd1a59b6d6a0d2d4c8ed0c5931c08a5fa0"
+    },
+    {
+      "source_id": "dc9ee3cd4fbdfa56ffc293f206562bfe",
+      "source_path": "光赞经 (10卷)〖西晋 竺法护译〗.txt",
+      "source_ref": "光赞经 (10卷)〖西晋 竺法护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\光赞经 (10卷)〖西晋 竺法护译〗.txt",
+      "suffix": ".txt",
+      "chars": 15644,
+      "content_sha256": "a7fb11725030dc6651bd2df8e1a75cbf958cd4090c17724ef862f95e3452dd1f"
+    },
+    {
+      "source_id": "c7b3e8f611aa1b0e4f53b9712974e315",
+      "source_path": "唐梵飜对字音般若波罗蜜多心经 (1卷)〖〗.txt",
+      "source_ref": "唐梵飜对字音般若波罗蜜多心经 (1卷)〖〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\唐梵飜对字音般若波罗蜜多心经 (1卷)〖〗.txt",
+      "suffix": ".txt",
+      "chars": 3519,
+      "content_sha256": "0c2ec195c7e331a316c299d7a39d396d8738eff5bf26d33e5549263c6e9ad9ad"
+    },
+    {
+      "source_id": "70f46d5c9457efcb13e7d4519320dcbf",
+      "source_path": "圣八千颂般若波罗蜜多一百八名真实圆义陀罗尼经 (1卷)〖宋 施护等译〗.txt",
+      "source_ref": "圣八千颂般若波罗蜜多一百八名真实圆义陀罗尼经 (1卷)〖宋 施护等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\圣八千颂般若波罗蜜多一百八名真实圆义陀罗尼经 (1卷)〖宋 施护等译〗.txt",
+      "suffix": ".txt",
+      "chars": 1833,
+      "content_sha256": "b6dc4c90495ee04e5f5395d8689dfa1a167413ecefbc997d51c33dfa1306a7ff"
+    },
+    {
+      "source_id": "383a622dfb0c2fbbef033112c6a4991a",
+      "source_path": "大乐金刚不空真实三么耶经 (1卷)〖唐 不空译〗.txt",
+      "source_ref": "大乐金刚不空真实三么耶经 (1卷)〖唐 不空译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\大乐金刚不空真实三么耶经 (1卷)〖唐 不空译〗.txt",
+      "suffix": ".txt",
+      "chars": 3789,
+      "content_sha256": "936cc58c4af57842711ea6c90796ce6590c9eb5a70bb6c7c96644e4ce84b5f13"
+    },
+    {
+      "source_id": "2802c7e50ac849bc68ce2ca55f06a940",
+      "source_path": "大乘理趣六波罗蜜多经 (10卷)〖唐 般若译〗.txt",
+      "source_ref": "大乘理趣六波罗蜜多经 (10卷)〖唐 般若译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\大乘理趣六波罗蜜多经 (10卷)〖唐 般若译〗.txt",
+      "suffix": ".txt",
+      "chars": 8473,
+      "content_sha256": "a7d30c0a5c16ebdb9c3673a75335708668ff2356a28d634fca906e9a13b58ef8"
+    },
+    {
+      "source_id": "07cc95c14bb4a489c4924ee0740e54c5",
+      "source_path": "大明度经 (6卷)〖吴 支谦译〗.txt",
+      "source_ref": "大明度经 (6卷)〖吴 支谦译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\大明度经 (6卷)〖吴 支谦译〗.txt",
+      "suffix": ".txt",
+      "chars": 9077,
+      "content_sha256": "bdbf7a77b8e27019d37fb49c713933a54a3ad32b2fe8254f9d7cb4f86746c2cb"
+    },
+    {
+      "source_id": "d6d10c93cf42733e84df6838e5fd5649",
+      "source_path": "大般若波罗蜜多经 (600卷) (第1-100卷).txt",
+      "source_ref": "大般若波罗蜜多经 (600卷) (第1-100卷).txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\大般若波罗蜜多经 (600卷) (第1-100卷).txt",
+      "suffix": ".txt",
+      "chars": 8556,
+      "content_sha256": "b869c8246283a2b12ad450802f0876d5188cc23e0978a756f5add5ca1bde4610"
+    },
+    {
+      "source_id": "ebd6a81f3b92b9574e380d997d6c9831",
+      "source_path": "大般若波罗蜜多经 (600卷) (第101-200卷).txt",
+      "source_ref": "大般若波罗蜜多经 (600卷) (第101-200卷).txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\大般若波罗蜜多经 (600卷) (第101-200卷).txt",
+      "suffix": ".txt",
+      "chars": 9031,
+      "content_sha256": "b2b679aebeab3d778d20c6b73bd3859140df6536e0ead2b6c8f4e338e1cc27f2"
+    },
+    {
+      "source_id": "3ba0484f3515556800b4663ab6db19e7",
+      "source_path": "大般若波罗蜜多经 (600卷) (第201-300卷).txt",
+      "source_ref": "大般若波罗蜜多经 (600卷) (第201-300卷).txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\大般若波罗蜜多经 (600卷) (第201-300卷).txt",
+      "suffix": ".txt",
+      "chars": 9260,
+      "content_sha256": "b4261b4676e4403757da1a1661c638d157d7bb01196e34fb86aee3d47abb420e"
+    },
+    {
+      "source_id": "a5670463a7f30c09ff84fe7e296e94b5",
+      "source_path": "大般若波罗蜜多经 (600卷) (第301-400卷).txt",
+      "source_ref": "大般若波罗蜜多经 (600卷) (第301-400卷).txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\大般若波罗蜜多经 (600卷) (第301-400卷).txt",
+      "suffix": ".txt",
+      "chars": 8675,
+      "content_sha256": "1f46da9c8a59a3243fe29b52c02db4befd9cd66832a3a5aa829c5fa1adab52a5"
+    },
+    {
+      "source_id": "96fe7284b8f5bf3b6cebe6918df81cbe",
+      "source_path": "大般若波罗蜜多经 (600卷) (第401-500卷).txt",
+      "source_ref": "大般若波罗蜜多经 (600卷) (第401-500卷).txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\大般若波罗蜜多经 (600卷) (第401-500卷).txt",
+      "suffix": ".txt",
+      "chars": 10706,
+      "content_sha256": "34835c05f3ca154e763c43c2e977c9a18f399d30b4d0e64562064c74d3857d02"
+    },
+    {
+      "source_id": "d0c92e771cba6197aaf24a6d6098f819",
+      "source_path": "大般若波罗蜜多经 (600卷) (第501-600卷).txt",
+      "source_ref": "大般若波罗蜜多经 (600卷) (第501-600卷).txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\大般若波罗蜜多经 (600卷) (第501-600卷).txt",
+      "suffix": ".txt",
+      "chars": 9494,
+      "content_sha256": "379ddd22ce66defb29f4bcfdef2625852c52338fc357f1c625af4575665b8fab"
+    },
+    {
+      "source_id": "5398d1b8c20305445f3ecf84388d7f78",
+      "source_path": "实相般若波罗蜜经 (1卷)〖唐 菩提流志译〗.txt",
+      "source_ref": "实相般若波罗蜜经 (1卷)〖唐 菩提流志译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\实相般若波罗蜜经 (1卷)〖唐 菩提流志译〗.txt",
+      "suffix": ".txt",
+      "chars": 3934,
+      "content_sha256": "aed5999e611febc43ee69ccfcd84875551124eff7dd06b19454cb3db6a7a6820"
+    },
+    {
+      "source_id": "90d48c0523bea48a81d805fbe4790426",
+      "source_path": "小品般若波罗蜜经 (10卷)〖后秦 鸠摩罗什译〗.txt",
+      "source_ref": "小品般若波罗蜜经 (10卷)〖后秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\小品般若波罗蜜经 (10卷)〖后秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 8809,
+      "content_sha256": "9ee0e9e4bab636d6d54c19ad3d3294e81a42931229f099325aca81207aa2ccd5"
+    },
+    {
+      "source_id": "aa55cc32016d5d405fbf453ca0cf4a96",
+      "source_path": "摩诃般若波罗蜜大明咒经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "source_ref": "摩诃般若波罗蜜大明咒经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\摩诃般若波罗蜜大明咒经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 638,
+      "content_sha256": "2f86bb38412aab9bef6a04bd3309fb916409f812179449716c73ff045bb1affc"
+    },
+    {
+      "source_id": "de24487b23ff0127ad0aab587bd7642d",
+      "source_path": "摩诃般若波罗蜜经 (27卷)〖后秦 鸠摩罗什译〗.txt",
+      "source_ref": "摩诃般若波罗蜜经 (27卷)〖后秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\摩诃般若波罗蜜经 (27卷)〖后秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 13651,
+      "content_sha256": "8cbb0d544a4acd45c6794318052d6aad4b1214ae81a5431f71fe299a90f92bab"
+    },
+    {
+      "source_id": "3c1f3af239605c57d19d889c774b9091",
+      "source_path": "摩诃般若钞经 (5卷)〖前秦 昙摩蜱共竺佛念译〗.txt",
+      "source_ref": "摩诃般若钞经 (5卷)〖前秦 昙摩蜱共竺佛念译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\摩诃般若钞经 (5卷)〖前秦 昙摩蜱共竺佛念译〗.txt",
+      "suffix": ".txt",
+      "chars": 9215,
+      "content_sha256": "3c17337cff9f9395759df61a746e550b9309e375071cf1cf982504991fdf12b9"
+    },
+    {
+      "source_id": "2949b243eb67cd121ab59484794894e8",
+      "source_path": "放光般若经 (20卷)〖西晋 无罗叉译〗.txt",
+      "source_ref": "放光般若经 (20卷)〖西晋 无罗叉译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\放光般若经 (20卷)〖西晋 无罗叉译〗.txt",
+      "suffix": ".txt",
+      "chars": 11346,
+      "content_sha256": "79cc3e3eb1fbd7874c590809bcab1e0e785ff146349ca378c4c45e1341cdddfc"
+    },
+    {
+      "source_id": "30274397dc4120633e7baf5f4ac8abb6",
+      "source_path": "文殊师利所说摩诃般若波罗蜜经 (2卷)〖梁 曼陀罗仙译〗.txt",
+      "source_ref": "文殊师利所说摩诃般若波罗蜜经 (2卷)〖梁 曼陀罗仙译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\文殊师利所说摩诃般若波罗蜜经 (2卷)〖梁 曼陀罗仙译〗.txt",
+      "suffix": ".txt",
+      "chars": 11650,
+      "content_sha256": "b8a73161448930497a8ca802dd90e7d2df09b430e3c7d418cf59ff137494f8f8"
+    },
+    {
+      "source_id": "111d7f6e388419a492b11ef6f5f99620",
+      "source_path": "文殊师利所说般若波罗蜜经 (1卷)〖梁 僧伽娑罗译〗.txt",
+      "source_ref": "文殊师利所说般若波罗蜜经 (1卷)〖梁 僧伽娑罗译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\文殊师利所说般若波罗蜜经 (1卷)〖梁 僧伽娑罗译〗.txt",
+      "suffix": ".txt",
+      "chars": 13075,
+      "content_sha256": "ec67d3ed9d3316fcd49e5a1ff5b179455f300e21d9e3214f47aa1e04c8d32788"
+    },
+    {
+      "source_id": "2fa31d404de69a96d37ec312aaa37c56",
+      "source_path": "普遍智藏般若波罗蜜多心经 (1卷)〖唐 法月重译〗.txt",
+      "source_ref": "普遍智藏般若波罗蜜多心经 (1卷)〖唐 法月重译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\普遍智藏般若波罗蜜多心经 (1卷)〖唐 法月重译〗.txt",
+      "suffix": ".txt",
+      "chars": 1047,
+      "content_sha256": "0f6485581afcb76991c55cffb142b877aeddf1a3fd1f2a7969f6050a7b694c89"
+    },
+    {
+      "source_id": "c9f4c728577680a3cefe1c44dec0997a",
+      "source_path": "胜天王般若波罗蜜经 (7卷)〖陈 月婆首那译〗.txt",
+      "source_ref": "胜天王般若波罗蜜经 (7卷)〖陈 月婆首那译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\胜天王般若波罗蜜经 (7卷)〖陈 月婆首那译〗.txt",
+      "suffix": ".txt",
+      "chars": 12249,
+      "content_sha256": "a978cfbc15c51d1c7132973d8f920af7d100af858fd8badaa787b036b78c47d2"
+    },
+    {
+      "source_id": "17221689ae38b78df4ad225e1817531b",
+      "source_path": "般若波罗蜜多心经 (1卷)〖唐 智慧轮译〗.txt",
+      "source_ref": "般若波罗蜜多心经 (1卷)〖唐 智慧轮译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\般若波罗蜜多心经 (1卷)〖唐 智慧轮译〗.txt",
+      "suffix": ".txt",
+      "chars": 967,
+      "content_sha256": "37d3cdf71e2f3041ebb400aa7f5bebf5fb42fbdc7f0ffa5e7bd7ae2dd19a8ec7"
+    },
+    {
+      "source_id": "00351f1087ad696905d6dff2c5983f42",
+      "source_path": "般若波罗蜜多心经 (1卷)〖唐 法成译〗.txt",
+      "source_ref": "般若波罗蜜多心经 (1卷)〖唐 法成译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\般若波罗蜜多心经 (1卷)〖唐 法成译〗.txt",
+      "suffix": ".txt",
+      "chars": 943,
+      "content_sha256": "22225100849f6d35bd72bdfe18c8a046c458bfb8b8949a2cbd08b3b9739a8479"
+    },
+    {
+      "source_id": "de3278a7c63ebd257927a15119c37b63",
+      "source_path": "般若波罗蜜多心经 (1卷)〖唐 般若共利言等译〗.txt",
+      "source_ref": "般若波罗蜜多心经 (1卷)〖唐 般若共利言等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\般若波罗蜜多心经 (1卷)〖唐 般若共利言等译〗.txt",
+      "suffix": ".txt",
+      "chars": 967,
+      "content_sha256": "08f671119a89501cb4c51ac53372fba23d9164e3e0260ce9f641ba5dc5c59bee"
+    },
+    {
+      "source_id": "3bf67a2df6c7c2c1e15fe703d304a91e",
+      "source_path": "道行般若经 (10卷)〖后汉 支娄迦谶译〗.txt",
+      "source_ref": "道行般若经 (10卷)〖后汉 支娄迦谶译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\道行般若经 (10卷)〖后汉 支娄迦谶译〗.txt",
+      "suffix": ".txt",
+      "chars": 10559,
+      "content_sha256": "2f54aedea732789647156b4ed221358f39a5b384b4c776dd45cfcf7c0781859e"
+    },
+    {
+      "source_id": "83de5a1c7d6048e32810923315d8d011",
+      "source_path": "金刚能断般若波罗蜜经 (1卷)〖隋 芨多译〗.txt",
+      "source_ref": "金刚能断般若波罗蜜经 (1卷)〖隋 芨多译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\金刚能断般若波罗蜜经 (1卷)〖隋 芨多译〗.txt",
+      "suffix": ".txt",
+      "chars": 9639,
+      "content_sha256": "1ec98f94b21e94a9d450335865380579d6fb12eae65fa1d0b15a10336d65828e"
+    },
+    {
+      "source_id": "f46cbc3b02467abc0badffe59569d426",
+      "source_path": "金刚般若波罗蜜经 (1卷)〖元魏 菩提流支译〗.txt",
+      "source_ref": "金刚般若波罗蜜经 (1卷)〖元魏 菩提流支译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\金刚般若波罗蜜经 (1卷)〖元魏 菩提流支译〗.txt",
+      "suffix": ".txt",
+      "chars": 8124,
+      "content_sha256": "48484d813f9f12083d0d86c070f4691c6d6cae1c4b3714f7eac95dcd17210471"
+    },
+    {
+      "source_id": "5c61b435dc31ad44ae827a33f3f5b27a",
+      "source_path": "金刚般若波罗蜜经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "source_ref": "金刚般若波罗蜜经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\金刚般若波罗蜜经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 6876,
+      "content_sha256": "b07e3ab0bba8532da3d46fb3e6f2817c16b961bd527908d1244c8505decaaf19"
+    },
+    {
+      "source_id": "c7bd8ec46ac3cbb7ba734bfc8dc2e21e",
+      "source_path": "金刚般若波罗蜜经 (1卷)〖陈 真谛译〗.txt",
+      "source_ref": "金刚般若波罗蜜经 (1卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\金刚般若波罗蜜经 (1卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 8584,
+      "content_sha256": "f31e2ed9b28897fa268ea3e3a655c6db6159d8b220f9e7a4475092fc37f11323"
+    },
+    {
+      "source_id": "c493a50fd5f9510aa3f8b05440bbf5a5",
+      "source_path": "金刚顶瑜伽理趣般若经 (1卷)〖唐 金刚智译〗.txt",
+      "source_ref": "金刚顶瑜伽理趣般若经 (1卷)〖唐 金刚智译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\金刚顶瑜伽理趣般若经 (1卷)〖唐 金刚智译〗.txt",
+      "suffix": ".txt",
+      "chars": 5074,
+      "content_sha256": "c32e0f9a26f1dbf85d937858ddf2e9e23fe09528efc84d523fe27938e1612a33"
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+[
+  {
+    "source_id": "035ff960d6f350012315768ae1ad1d90",
+    "source_path": "《心经》-般若波罗蜜多心经 (1卷)〖唐 玄奘法师译〗.txt",
+    "source_ref": "《心经》-般若波罗蜜多心经 (1卷)〖唐 玄奘法师译〗.txt",
+    "chunk_count": 3,
+    "card_count": 22,
+    "card_types": {
+      "quote": 11,
+      "diagnostic": 1,
+      "concept": 7,
+      "workflow": 1,
+      "case": 1,
+      "boundary": 1
+    }
+  },
+  {
+    "source_id": "6e498bdfad24be34c8b8c599bc4aa90d",
+    "source_path": "仁王护国般若波罗蜜多经 (2卷)〖唐 不空译〗.txt",
+    "source_ref": "仁王护国般若波罗蜜多经 (2卷)〖唐 不空译〗.txt",
+    "chunk_count": 7,
+    "card_count": 63,
+    "card_types": {
+      "quote": 22,
+      "boundary": 8,
+      "concept": 15,
+      "method": 7,
+      "task": 1,
+      "workflow": 2,
+      "diagnostic": 3,
+      "case": 3,
+      "rubric": 1,
+      "failure_mode": 1
+    }
+  },
+  {
+    "source_id": "734f0381d8550e9b3935968a343f775a",
+    "source_path": "佛说了义般若波罗蜜多经 (1卷)〖宋 施护译〗.txt",
+    "source_ref": "佛说了义般若波罗蜜多经 (1卷)〖宋 施护译〗.txt",
+    "chunk_count": 3,
+    "card_count": 14,
+    "card_types": {
+      "quote": 2,
+      "boundary": 2,
+      "concept": 3,
+      "method": 5,
+      "workflow": 1,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "c14b7a858ac081e3f484f3e8954d21c4",
+    "source_path": "佛说五十颂圣般若波罗蜜经 (1卷)〖宋 施护译〗.txt",
+    "source_ref": "佛说五十颂圣般若波罗蜜经 (1卷)〖宋 施护译〗.txt",
+    "chunk_count": 3,
+    "card_count": 22,
+    "card_types": {
+      "quote": 19,
+      "boundary": 3
+    }
+  },
+  {
+    "source_id": "0c65d44a12d2675250ead2f23235f4ee",
+    "source_path": "佛说仁王般若波罗蜜经 (2卷)〖姚秦 鸠摩罗什译〗.txt",
+    "source_ref": "佛说仁王般若波罗蜜经 (2卷)〖姚秦 鸠摩罗什译〗.txt",
+    "chunk_count": 6,
+    "card_count": 54,
+    "card_types": {
+      "quote": 14,
+      "concept": 12,
+      "boundary": 8,
+      "case": 5,
+      "method": 9,
+      "diagnostic": 2,
+      "workflow": 1,
+      "task": 1,
+      "failure_mode": 1,
+      "open_question": 1
+    }
+  },
+  {
+    "source_id": "875e94c95053f2713eab7a6657499716",
+    "source_path": "佛说佛母出生三法藏般若波罗蜜多经 (25卷)〖宋 施护译〗.txt",
+    "source_ref": "佛说佛母出生三法藏般若波罗蜜多经 (25卷)〖宋 施护译〗.txt",
+    "chunk_count": 4,
+    "card_count": 25,
+    "card_types": {
+      "quote": 3,
+      "boundary": 4,
+      "concept": 12,
+      "method": 5,
+      "diagnostic": 1
+    }
+  },
+  {
+    "source_id": "6f9e7be938ba627f4496c0268bb152e6",
+    "source_path": "佛说佛母宝德藏般若波罗蜜经 (3卷)〖宋 法贤译〗.txt",
+    "source_ref": "佛说佛母宝德藏般若波罗蜜经 (3卷)〖宋 法贤译〗.txt",
+    "chunk_count": 6,
+    "card_count": 51,
+    "card_types": {
+      "quote": 13,
+      "boundary": 5,
+      "diagnostic": 5,
+      "concept": 7,
+      "method": 5,
+      "case": 4,
+      "failure_mode": 5,
+      "open_question": 1,
+      "template": 2,
+      "workflow": 2,
+      "transfer": 1,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "917af6f7ddb23772888a697de15ac8d8",
+    "source_path": "佛说圣佛母小字般若波罗蜜多经 (1卷)〖宋 天息灾译〗.txt",
+    "source_ref": "佛说圣佛母小字般若波罗蜜多经 (1卷)〖宋 天息灾译〗.txt",
+    "chunk_count": 3,
+    "card_count": 16,
+    "card_types": {
+      "concept": 3,
+      "quote": 9,
+      "boundary": 3,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "9f8ea67673fa5f3d1c5cbc3d416e5148",
+    "source_path": "佛说圣佛母般若波罗蜜多经 (1卷)〖宋 施护译〗.txt",
+    "source_ref": "佛说圣佛母般若波罗蜜多经 (1卷)〖宋 施护译〗.txt",
+    "chunk_count": 3,
+    "card_count": 27,
+    "card_types": {
+      "quote": 17,
+      "concept": 3,
+      "boundary": 3,
+      "task": 1,
+      "method": 2,
+      "case": 1
+    }
+  },
+  {
+    "source_id": "47a7397341df209eb9715134ff4ab731",
+    "source_path": "佛说帝释般若波罗蜜多心经 (1卷)〖宋 施护译〗.txt",
+    "source_ref": "佛说帝释般若波罗蜜多心经 (1卷)〖宋 施护译〗.txt",
+    "chunk_count": 3,
+    "card_count": 19,
+    "card_types": {
+      "quote": 9,
+      "boundary": 2,
+      "concept": 5,
+      "task": 2,
+      "method": 1
+    }
+  },
+  {
+    "source_id": "3e3c47060a654f9312ecae58e4786cd5",
+    "source_path": "佛说开觉自性般若波罗蜜多经 (4卷)〖宋 惟净等译〗.txt",
+    "source_ref": "佛说开觉自性般若波罗蜜多经 (4卷)〖宋 惟净等译〗.txt",
+    "chunk_count": 7,
+    "card_count": 64,
+    "card_types": {
+      "quote": 7,
+      "boundary": 10,
+      "concept": 35,
+      "method": 10,
+      "diagnostic": 2
+    }
+  },
+  {
+    "source_id": "35dda193496eaa6adb6ea570d93c7270",
+    "source_path": "佛说最上根本大乐金刚不空三昧大教王经 (7卷)〖宋 法贤译〗.txt",
+    "source_ref": "佛说最上根本大乐金刚不空三昧大教王经 (7卷)〖宋 法贤译〗.txt",
+    "chunk_count": 4,
+    "card_count": 28,
+    "card_types": {
+      "quote": 5,
+      "boundary": 3,
+      "concept": 1,
+      "method": 15,
+      "workflow": 2,
+      "task": 1,
+      "rubric": 1
+    }
+  },
+  {
+    "source_id": "56bd5d3f993d7e29e860cb98b339620c",
+    "source_path": "佛说濡首菩萨无上清净分卫经 (1卷)〖宋 翔公译〗.txt",
+    "source_ref": "佛说濡首菩萨无上清净分卫经 (1卷)〖宋 翔公译〗.txt",
+    "chunk_count": 7,
+    "card_count": 60,
+    "card_types": {
+      "quote": 18,
+      "boundary": 8,
+      "case": 6,
+      "concept": 13,
+      "diagnostic": 2,
+      "method": 7,
+      "workflow": 1,
+      "template": 1,
+      "transfer": 1,
+      "failure_mode": 1,
+      "open_question": 1,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "413743b93b5b41a5c17eacb0e6786ad0",
+    "source_path": "佛说能断金刚般若波罗蜜多经 (1卷)〖唐 义净译〗.txt",
+    "source_ref": "佛说能断金刚般若波罗蜜多经 (1卷)〖唐 义净译〗.txt",
+    "chunk_count": 4,
+    "card_count": 26,
+    "card_types": {
+      "quote": 15,
+      "concept": 9,
+      "boundary": 1,
+      "case": 1
+    }
+  },
+  {
+    "source_id": "199d3bf0afc68580dfbfbd648611db16",
+    "source_path": "佛说观想佛母般若波罗蜜多菩萨经 (1卷)〖宋 天息灾译〗.txt",
+    "source_ref": "佛说观想佛母般若波罗蜜多菩萨经 (1卷)〖宋 天息灾译〗.txt",
+    "chunk_count": 3,
+    "card_count": 16,
+    "card_types": {
+      "quote": 5,
+      "case": 6,
+      "boundary": 2,
+      "workflow": 2,
+      "concept": 1
+    }
+  },
+  {
+    "source_id": "0d0d63db9255ed720613e5beafdc1867",
+    "source_path": "佛说遍照般若波罗蜜经 (1卷)〖宋 施护译〗.txt",
+    "source_ref": "佛说遍照般若波罗蜜经 (1卷)〖宋 施护译〗.txt",
+    "chunk_count": 3,
+    "card_count": 15,
+    "card_types": {
+      "quote": 4,
+      "concept": 5,
+      "task": 5,
+      "case": 1
+    }
+  },
+  {
+    "source_id": "dc9ee3cd4fbdfa56ffc293f206562bfe",
+    "source_path": "光赞经 (10卷)〖西晋 竺法护译〗.txt",
+    "source_ref": "光赞经 (10卷)〖西晋 竺法护译〗.txt",
+    "chunk_count": 7,
+    "card_count": 55,
+    "card_types": {
+      "quote": 21,
+      "boundary": 2,
+      "concept": 7,
+      "case": 6,
+      "method": 18,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "c7b3e8f611aa1b0e4f53b9712974e315",
+    "source_path": "唐梵飜对字音般若波罗蜜多心经 (1卷)〖〗.txt",
+    "source_ref": "唐梵飜对字音般若波罗蜜多心经 (1卷)〖〗.txt",
+    "chunk_count": 3,
+    "card_count": 16,
+    "card_types": {
+      "quote": 8,
+      "case": 3,
+      "boundary": 2,
+      "method": 1,
+      "concept": 1,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "70f46d5c9457efcb13e7d4519320dcbf",
+    "source_path": "圣八千颂般若波罗蜜多一百八名真实圆义陀罗尼经 (1卷)〖宋 施护等译〗.txt",
+    "source_ref": "圣八千颂般若波罗蜜多一百八名真实圆义陀罗尼经 (1卷)〖宋 施护等译〗.txt",
+    "chunk_count": 3,
+    "card_count": 10,
+    "card_types": {
+      "quote": 4,
+      "concept": 2,
+      "case": 1,
+      "task": 2,
+      "boundary": 1
+    }
+  },
+  {
+    "source_id": "383a622dfb0c2fbbef033112c6a4991a",
+    "source_path": "大乐金刚不空真实三么耶经 (1卷)〖唐 不空译〗.txt",
+    "source_ref": "大乐金刚不空真实三么耶经 (1卷)〖唐 不空译〗.txt",
+    "chunk_count": 3,
+    "card_count": 15,
+    "card_types": {
+      "quote": 3,
+      "boundary": 1,
+      "concept": 4,
+      "case": 4,
+      "task": 1,
+      "method": 2
+    }
+  },
+  {
+    "source_id": "2802c7e50ac849bc68ce2ca55f06a940",
+    "source_path": "大乘理趣六波罗蜜多经 (10卷)〖唐 般若译〗.txt",
+    "source_ref": "大乘理趣六波罗蜜多经 (10卷)〖唐 般若译〗.txt",
+    "chunk_count": 5,
+    "card_count": 39,
+    "card_types": {
+      "quote": 8,
+      "boundary": 6,
+      "concept": 11,
+      "method": 2,
+      "task": 1,
+      "case": 7,
+      "workflow": 2,
+      "diagnostic": 1,
+      "open_question": 1
+    }
+  },
+  {
+    "source_id": "07cc95c14bb4a489c4924ee0740e54c5",
+    "source_path": "大明度经 (6卷)〖吴 支谦译〗.txt",
+    "source_ref": "大明度经 (6卷)〖吴 支谦译〗.txt",
+    "chunk_count": 5,
+    "card_count": 40,
+    "card_types": {
+      "quote": 19,
+      "boundary": 4,
+      "concept": 11,
+      "method": 4,
+      "case": 2
+    }
+  },
+  {
+    "source_id": "d6d10c93cf42733e84df6838e5fd5649",
+    "source_path": "大般若波罗蜜多经 (600卷) (第1-100卷).txt",
+    "source_ref": "大般若波罗蜜多经 (600卷) (第1-100卷).txt",
+    "chunk_count": 5,
+    "card_count": 38,
+    "card_types": {
+      "quote": 12,
+      "boundary": 6,
+      "case": 9,
+      "diagnostic": 2,
+      "concept": 4,
+      "method": 2,
+      "workflow": 2,
+      "transfer": 1
+    }
+  },
+  {
+    "source_id": "ebd6a81f3b92b9574e380d997d6c9831",
+    "source_path": "大般若波罗蜜多经 (600卷) (第101-200卷).txt",
+    "source_ref": "大般若波罗蜜多经 (600卷) (第101-200卷).txt",
+    "chunk_count": 5,
+    "card_count": 51,
+    "card_types": {
+      "quote": 21,
+      "concept": 3,
+      "case": 4,
+      "boundary": 2,
+      "workflow": 5,
+      "open_question": 1,
+      "diagnostic": 1,
+      "method": 14
+    }
+  },
+  {
+    "source_id": "3ba0484f3515556800b4663ab6db19e7",
+    "source_path": "大般若波罗蜜多经 (600卷) (第201-300卷).txt",
+    "source_ref": "大般若波罗蜜多经 (600卷) (第201-300卷).txt",
+    "chunk_count": 5,
+    "card_count": 50,
+    "card_types": {
+      "quote": 15,
+      "boundary": 1,
+      "concept": 33,
+      "method": 1
+    }
+  },
+  {
+    "source_id": "a5670463a7f30c09ff84fe7e296e94b5",
+    "source_path": "大般若波罗蜜多经 (600卷) (第301-400卷).txt",
+    "source_ref": "大般若波罗蜜多经 (600卷) (第301-400卷).txt",
+    "chunk_count": 5,
+    "card_count": 29,
+    "card_types": {
+      "quote": 14,
+      "boundary": 2,
+      "concept": 6,
+      "method": 3,
+      "case": 4
+    }
+  },
+  {
+    "source_id": "96fe7284b8f5bf3b6cebe6918df81cbe",
+    "source_path": "大般若波罗蜜多经 (600卷) (第401-500卷).txt",
+    "source_ref": "大般若波罗蜜多经 (600卷) (第401-500卷).txt",
+    "chunk_count": 5,
+    "card_count": 51,
+    "card_types": {
+      "quote": 26,
+      "concept": 4,
+      "case": 16,
+      "boundary": 2,
+      "task": 1,
+      "method": 2
+    }
+  },
+  {
+    "source_id": "d0c92e771cba6197aaf24a6d6098f819",
+    "source_path": "大般若波罗蜜多经 (600卷) (第501-600卷).txt",
+    "source_ref": "大般若波罗蜜多经 (600卷) (第501-600卷).txt",
+    "chunk_count": 5,
+    "card_count": 44,
+    "card_types": {
+      "quote": 6,
+      "boundary": 4,
+      "concept": 12,
+      "case": 9,
+      "method": 3,
+      "open_question": 1,
+      "diagnostic": 2,
+      "task": 3,
+      "workflow": 1,
+      "rubric": 1,
+      "template": 1,
+      "transfer": 1
+    }
+  },
+  {
+    "source_id": "5398d1b8c20305445f3ecf84388d7f78",
+    "source_path": "实相般若波罗蜜经 (1卷)〖唐 菩提流志译〗.txt",
+    "source_ref": "实相般若波罗蜜经 (1卷)〖唐 菩提流志译〗.txt",
+    "chunk_count": 3,
+    "card_count": 13,
+    "card_types": {
+      "quote": 3,
+      "boundary": 5,
+      "method": 3,
+      "case": 2
+    }
+  },
+  {
+    "source_id": "90d48c0523bea48a81d805fbe4790426",
+    "source_path": "小品般若波罗蜜经 (10卷)〖后秦 鸠摩罗什译〗.txt",
+    "source_ref": "小品般若波罗蜜经 (10卷)〖后秦 鸠摩罗什译〗.txt",
+    "chunk_count": 5,
+    "card_count": 49,
+    "card_types": {
+      "quote": 30,
+      "boundary": 3,
+      "concept": 12,
+      "method": 3,
+      "case": 1
+    }
+  },
+  {
+    "source_id": "aa55cc32016d5d405fbf453ca0cf4a96",
+    "source_path": "摩诃般若波罗蜜大明咒经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+    "source_ref": "摩诃般若波罗蜜大明咒经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+    "chunk_count": 3,
+    "card_count": 13,
+    "card_types": {
+      "quote": 8,
+      "case": 1,
+      "boundary": 1,
+      "concept": 2,
+      "method": 1
+    }
+  },
+  {
+    "source_id": "de24487b23ff0127ad0aab587bd7642d",
+    "source_path": "摩诃般若波罗蜜经 (27卷)〖后秦 鸠摩罗什译〗.txt",
+    "source_ref": "摩诃般若波罗蜜经 (27卷)〖后秦 鸠摩罗什译〗.txt",
+    "chunk_count": 6,
+    "card_count": 51,
+    "card_types": {
+      "quote": 9,
+      "boundary": 3,
+      "concept": 26,
+      "method": 6,
+      "case": 3,
+      "workflow": 1,
+      "task": 2,
+      "failure_mode": 1
+    }
+  },
+  {
+    "source_id": "3c1f3af239605c57d19d889c774b9091",
+    "source_path": "摩诃般若钞经 (5卷)〖前秦 昙摩蜱共竺佛念译〗.txt",
+    "source_ref": "摩诃般若钞经 (5卷)〖前秦 昙摩蜱共竺佛念译〗.txt",
+    "chunk_count": 5,
+    "card_count": 44,
+    "card_types": {
+      "quote": 23,
+      "case": 3,
+      "concept": 11,
+      "task": 1,
+      "open_question": 1,
+      "method": 3,
+      "diagnostic": 1,
+      "boundary": 1
+    }
+  },
+  {
+    "source_id": "2949b243eb67cd121ab59484794894e8",
+    "source_path": "放光般若经 (20卷)〖西晋 无罗叉译〗.txt",
+    "source_ref": "放光般若经 (20卷)〖西晋 无罗叉译〗.txt",
+    "chunk_count": 5,
+    "card_count": 38,
+    "card_types": {
+      "quote": 6,
+      "boundary": 3,
+      "method": 14,
+      "concept": 7,
+      "case": 5,
+      "workflow": 1,
+      "diagnostic": 2
+    }
+  },
+  {
+    "source_id": "30274397dc4120633e7baf5f4ac8abb6",
+    "source_path": "文殊师利所说摩诃般若波罗蜜经 (2卷)〖梁 曼陀罗仙译〗.txt",
+    "source_ref": "文殊师利所说摩诃般若波罗蜜经 (2卷)〖梁 曼陀罗仙译〗.txt",
+    "chunk_count": 5,
+    "card_count": 40,
+    "card_types": {
+      "quote": 10,
+      "boundary": 4,
+      "concept": 15,
+      "method": 9,
+      "case": 1,
+      "diagnostic": 1
+    }
+  },
+  {
+    "source_id": "111d7f6e388419a492b11ef6f5f99620",
+    "source_path": "文殊师利所说般若波罗蜜经 (1卷)〖梁 僧伽娑罗译〗.txt",
+    "source_ref": "文殊师利所说般若波罗蜜经 (1卷)〖梁 僧伽娑罗译〗.txt",
+    "chunk_count": 6,
+    "card_count": 53,
+    "card_types": {
+      "quote": 19,
+      "boundary": 6,
+      "diagnostic": 2,
+      "concept": 15,
+      "method": 1,
+      "case": 5,
+      "task": 4,
+      "template": 1
+    }
+  },
+  {
+    "source_id": "2fa31d404de69a96d37ec312aaa37c56",
+    "source_path": "普遍智藏般若波罗蜜多心经 (1卷)〖唐 法月重译〗.txt",
+    "source_ref": "普遍智藏般若波罗蜜多心经 (1卷)〖唐 法月重译〗.txt",
+    "chunk_count": 3,
+    "card_count": 21,
+    "card_types": {
+      "quote": 12,
+      "case": 2,
+      "boundary": 2,
+      "concept": 3,
+      "method": 1,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "c9f4c728577680a3cefe1c44dec0997a",
+    "source_path": "胜天王般若波罗蜜经 (7卷)〖陈 月婆首那译〗.txt",
+    "source_ref": "胜天王般若波罗蜜经 (7卷)〖陈 月婆首那译〗.txt",
+    "chunk_count": 6,
+    "card_count": 52,
+    "card_types": {
+      "quote": 16,
+      "boundary": 5,
+      "case": 3,
+      "concept": 15,
+      "method": 4,
+      "diagnostic": 4,
+      "workflow": 2,
+      "template": 2,
+      "open_question": 1
+    }
+  },
+  {
+    "source_id": "17221689ae38b78df4ad225e1817531b",
+    "source_path": "般若波罗蜜多心经 (1卷)〖唐 智慧轮译〗.txt",
+    "source_ref": "般若波罗蜜多心经 (1卷)〖唐 智慧轮译〗.txt",
+    "chunk_count": 3,
+    "card_count": 15,
+    "card_types": {
+      "quote": 4,
+      "boundary": 1,
+      "method": 3,
+      "concept": 7
+    }
+  },
+  {
+    "source_id": "00351f1087ad696905d6dff2c5983f42",
+    "source_path": "般若波罗蜜多心经 (1卷)〖唐 法成译〗.txt",
+    "source_ref": "般若波罗蜜多心经 (1卷)〖唐 法成译〗.txt",
+    "chunk_count": 3,
+    "card_count": 25,
+    "card_types": {
+      "quote": 18,
+      "concept": 4,
+      "method": 3
+    }
+  },
+  {
+    "source_id": "de3278a7c63ebd257927a15119c37b63",
+    "source_path": "般若波罗蜜多心经 (1卷)〖唐 般若共利言等译〗.txt",
+    "source_ref": "般若波罗蜜多心经 (1卷)〖唐 般若共利言等译〗.txt",
+    "chunk_count": 3,
+    "card_count": 22,
+    "card_types": {
+      "quote": 18,
+      "concept": 2,
+      "method": 2
+    }
+  },
+  {
+    "source_id": "3bf67a2df6c7c2c1e15fe703d304a91e",
+    "source_path": "道行般若经 (10卷)〖后汉 支娄迦谶译〗.txt",
+    "source_ref": "道行般若经 (10卷)〖后汉 支娄迦谶译〗.txt",
+    "chunk_count": 5,
+    "card_count": 46,
+    "card_types": {
+      "quote": 17,
+      "boundary": 5,
+      "case": 4,
+      "diagnostic": 3,
+      "concept": 10,
+      "method": 6,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "83de5a1c7d6048e32810923315d8d011",
+    "source_path": "金刚能断般若波罗蜜经 (1卷)〖隋 芨多译〗.txt",
+    "source_ref": "金刚能断般若波罗蜜经 (1卷)〖隋 芨多译〗.txt",
+    "chunk_count": 5,
+    "card_count": 40,
+    "card_types": {
+      "quote": 20,
+      "boundary": 3,
+      "concept": 10,
+      "case": 2,
+      "method": 3,
+      "task": 1,
+      "diagnostic": 1
+    }
+  },
+  {
+    "source_id": "f46cbc3b02467abc0badffe59569d426",
+    "source_path": "金刚般若波罗蜜经 (1卷)〖元魏 菩提流支译〗.txt",
+    "source_ref": "金刚般若波罗蜜经 (1卷)〖元魏 菩提流支译〗.txt",
+    "chunk_count": 5,
+    "card_count": 49,
+    "card_types": {
+      "quote": 17,
+      "case": 3,
+      "task": 2,
+      "open_question": 1,
+      "boundary": 6,
+      "concept": 13,
+      "method": 6,
+      "diagnostic": 1
+    }
+  },
+  {
+    "source_id": "5c61b435dc31ad44ae827a33f3f5b27a",
+    "source_path": "金刚般若波罗蜜经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+    "source_ref": "金刚般若波罗蜜经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+    "chunk_count": 4,
+    "card_count": 39,
+    "card_types": {
+      "quote": 19,
+      "concept": 9,
+      "method": 4,
+      "boundary": 2,
+      "case": 4,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "c7bd8ec46ac3cbb7ba734bfc8dc2e21e",
+    "source_path": "金刚般若波罗蜜经 (1卷)〖陈 真谛译〗.txt",
+    "source_ref": "金刚般若波罗蜜经 (1卷)〖陈 真谛译〗.txt",
+    "chunk_count": 5,
+    "card_count": 39,
+    "card_types": {
+      "quote": 16,
+      "boundary": 3,
+      "concept": 9,
+      "method": 3,
+      "diagnostic": 2,
+      "case": 4,
+      "workflow": 1,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "c493a50fd5f9510aa3f8b05440bbf5a5",
+    "source_path": "金刚顶瑜伽理趣般若经 (1卷)〖唐 金刚智译〗.txt",
+    "source_ref": "金刚顶瑜伽理趣般若经 (1卷)〖唐 金刚智译〗.txt",
+    "chunk_count": 4,
+    "card_count": 27,
+    "card_types": {
+      "quote": 14,
+      "concept": 5,
+      "method": 1,
+      "boundary": 4,
+      "case": 3
+    }
+  }
+]

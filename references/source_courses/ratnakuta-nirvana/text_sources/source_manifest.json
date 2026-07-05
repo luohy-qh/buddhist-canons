@@ -1,0 +1,343 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-07-04T04:27:23",
+  "source_count": 37,
+  "chunk_count": 221,
+  "max_chars": 4000,
+  "overlap_chars": 200,
+  "sources": [
+    {
+      "source_id": "7ed90e6a6e25786287ead92daefc55d2",
+      "source_path": "《普门品》经---佛说普门品经 (1卷)〖西晋 竺法护译〗.txt",
+      "source_ref": "《普门品》经---佛说普门品经 (1卷)〖西晋 竺法护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\《普门品》经---佛说普门品经 (1卷)〖西晋 竺法护译〗.txt",
+      "suffix": ".txt",
+      "chars": 11945,
+      "content_sha256": "afa8dc5f66d4d18527ebfda6e40e8d806ea9a575fe252afedcb93650ba1c99a8"
+    },
+    {
+      "source_id": "a796aabb9706c298b6c913594b60d0a9",
+      "source_path": "中阴经 (2卷)〖姚秦 竺佛念译〗.txt",
+      "source_ref": "中阴经 (2卷)〖姚秦 竺佛念译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\中阴经 (2卷)〖姚秦 竺佛念译〗.txt",
+      "suffix": ".txt",
+      "chars": 16025,
+      "content_sha256": "66850f139c1d371aa82babe52391288a5037a909f8de5c2d533fcba8fc57552d"
+    },
+    {
+      "source_id": "a2eeb0dfc3a84b1a88e2fc8102501103",
+      "source_path": "佛临涅槃记法住经 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "佛临涅槃记法住经 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛临涅槃记法住经 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 2215,
+      "content_sha256": "2f3c537cc8dbd57b9a50bf93796ab6bf349032d473fbac8a8c610610df6d0a88"
+    },
+    {
+      "source_id": "3cda0d24a8fc90e9eaaf3837b1b6fd7c",
+      "source_path": "佛入涅槃密迹金刚力士哀恋经 (1卷)〖失译〗.txt",
+      "source_ref": "佛入涅槃密迹金刚力士哀恋经 (1卷)〖失译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛入涅槃密迹金刚力士哀恋经 (1卷)〖失译〗.txt",
+      "suffix": ".txt",
+      "chars": 3212,
+      "content_sha256": "95b1a70453abc5f26f00b8d835e2eabf03dbe8e4bb8507494816efccf2b5a06e"
+    },
+    {
+      "source_id": "65802ffa9c42453f7632c44b043e710e",
+      "source_path": "佛垂般涅槃略说教诫经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "source_ref": "佛垂般涅槃略说教诫经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛垂般涅槃略说教诫经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 2962,
+      "content_sha256": "c2d15de1c2da4c0be06b8ec5c76d751d2a59da81cc14ac6ba92275cddd339866"
+    },
+    {
+      "source_id": "10c3244f0ccfb01f7289e1f1146fa165",
+      "source_path": "佛灭度后棺敛葬送经 (1卷)〖失译〗.txt",
+      "source_ref": "佛灭度后棺敛葬送经 (1卷)〖失译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛灭度后棺敛葬送经 (1卷)〖失译〗.txt",
+      "suffix": ".txt",
+      "chars": 1751,
+      "content_sha256": "f69f0eab6c032e65c3ecd0ce69c3d3dd520dfa0d2eb12e8249576a647fe64f09"
+    },
+    {
+      "source_id": "f25b9d5027f11528164a8aaa8fc454d5",
+      "source_path": "佛说大乘十法经 (1卷)〖梁 僧伽婆罗译〗.txt",
+      "source_ref": "佛说大乘十法经 (1卷)〖梁 僧伽婆罗译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛说大乘十法经 (1卷)〖梁 僧伽婆罗译〗.txt",
+      "suffix": ".txt",
+      "chars": 11388,
+      "content_sha256": "1ede79f20cdc077f002d7bb93f9699b373cfa22000287caff0a3156a62a90389"
+    },
+    {
+      "source_id": "830c4ec44026639f811b2b87484ad0c3",
+      "source_path": "佛说大乘菩萨藏正法经 (40卷)〖宋 法护等译〗.txt",
+      "source_ref": "佛说大乘菩萨藏正法经 (40卷)〖宋 法护等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛说大乘菩萨藏正法经 (40卷)〖宋 法护等译〗.txt",
+      "suffix": ".txt",
+      "chars": 3604,
+      "content_sha256": "f680ea548b532098ef647535a039de48ceb3079f3eae73ed1465ac7d0d38469c"
+    },
+    {
+      "source_id": "f717c4d6d28b709d213e2b45c149b60e",
+      "source_path": "佛说大般泥洹经 (6卷)〖东晋 法显译〗.txt",
+      "source_ref": "佛说大般泥洹经 (6卷)〖东晋 法显译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛说大般泥洹经 (6卷)〖东晋 法显译〗.txt",
+      "suffix": ".txt",
+      "chars": 12663,
+      "content_sha256": "a6649da40b2a1f41f17f6ea17d365e52067c33db1b8c0178891bfcf2fa0b7dcb"
+    },
+    {
+      "source_id": "c36469d3109d6547993f8d88650ce8b3",
+      "source_path": "佛说如幻三摩地无量印法门经 (3卷)〖宋 施护等译〗.txt",
+      "source_ref": "佛说如幻三摩地无量印法门经 (3卷)〖宋 施护等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛说如幻三摩地无量印法门经 (3卷)〖宋 施护等译〗.txt",
+      "suffix": ".txt",
+      "chars": 10381,
+      "content_sha256": "f1bc2e007b32ffa6e10b6021310391ca016baf0d5e5c55307d3436678ca5d81d"
+    },
+    {
+      "source_id": "855ccdb5a80c07498834fb103d365b06",
+      "source_path": "佛说如来不思议秘密大乘经 (20卷)〖宋 法护译〗.txt",
+      "source_ref": "佛说如来不思议秘密大乘经 (20卷)〖宋 法护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛说如来不思议秘密大乘经 (20卷)〖宋 法护译〗.txt",
+      "suffix": ".txt",
+      "chars": 4259,
+      "content_sha256": "2b9dd9596fb1b7148d923e33cb4ca55130e07d68fb6ddd7662da2fbbe6fe1b7d"
+    },
+    {
+      "source_id": "4d1d94ee84a1deada8dd0739317d932f",
+      "source_path": "佛说当来变经 (1卷)〖西晋 竺法护译〗.txt",
+      "source_ref": "佛说当来变经 (1卷)〖西晋 竺法护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛说当来变经 (1卷)〖西晋 竺法护译〗.txt",
+      "suffix": ".txt",
+      "chars": 1246,
+      "content_sha256": "b9d0b82d0b16777a0deead5f57d6250edb8ed37aeef82b4f0784714d84a8f073"
+    },
+    {
+      "source_id": "ec4e4f39b8fbd9c0bf93b80e24f26a85",
+      "source_path": "佛说护国尊者所问大乘经 (4卷)〖宋 施护译〗.txt",
+      "source_ref": "佛说护国尊者所问大乘经 (4卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛说护国尊者所问大乘经 (4卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 20082,
+      "content_sha256": "37a68b93ee9ff1a83de2fb017e50f7d1e48ade330a4b3477ed916c3bc3d425f8"
+    },
+    {
+      "source_id": "72a7fe5f0687e0cefa5056b7e329cbc1",
+      "source_path": "佛说方等般泥洹经 (2卷)〖西晋 竺法护译〗.txt",
+      "source_ref": "佛说方等般泥洹经 (2卷)〖西晋 竺法护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛说方等般泥洹经 (2卷)〖西晋 竺法护译〗.txt",
+      "suffix": ".txt",
+      "chars": 24041,
+      "content_sha256": "c6c36a28c748f9b9b3c79cb7bbd3ba375e494ad9f4bb81055b4a6051a18508e3"
+    },
+    {
+      "source_id": "1a61bb3ac12fb88af77b8621f2ac4c60",
+      "source_path": "佛说普门品经 (1卷)〖西晋 竺法护译〗 (注：与上文略有不同).txt",
+      "source_ref": "佛说普门品经 (1卷)〖西晋 竺法护译〗 (注：与上文略有不同).txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛说普门品经 (1卷)〖西晋 竺法护译〗 (注：与上文略有不同).txt",
+      "suffix": ".txt",
+      "chars": 6208,
+      "content_sha256": "c39add9d7dabccdf00a40be79eb6953be7940ad2e121ea28454ca829432a0686"
+    },
+    {
+      "source_id": "6c04813233f08047a55e430d0fe68a67",
+      "source_path": "佛说法灭尽经 (1卷)〖失译〗.txt",
+      "source_ref": "佛说法灭尽经 (1卷)〖失译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛说法灭尽经 (1卷)〖失译〗.txt",
+      "suffix": ".txt",
+      "chars": 1203,
+      "content_sha256": "c5d2caac31d4fdf83b29e40f6178772f7b4f16b1e80eb1359460ed056d64ad17"
+    },
+    {
+      "source_id": "422e354122147709af468e14d317d06f",
+      "source_path": "佛说胞胎经 (1卷)〖西晋 竺法护译〗.txt",
+      "source_ref": "佛说胞胎经 (1卷)〖西晋 竺法护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\佛说胞胎经 (1卷)〖西晋 竺法护译〗.txt",
+      "suffix": ".txt",
+      "chars": 8087,
+      "content_sha256": "63701c4668456f74011973a586a72ae0f8cc7899893b46f0bcafa3bf25f879b0"
+    },
+    {
+      "source_id": "93bb289b222800d9c76e78875570b9c8",
+      "source_path": "后出阿弥陀佛偈 (1卷)〖失译〗.txt",
+      "source_ref": "后出阿弥陀佛偈 (1卷)〖失译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\后出阿弥陀佛偈 (1卷)〖失译〗.txt",
+      "suffix": ".txt",
+      "chars": 593,
+      "content_sha256": "a9f23daf4031b628b1c9e5a8bdb4b8f947af6b7b5562478f40e41bd21e3f8f73"
+    },
+    {
+      "source_id": "c11b85c58de6b0191226bf781323a7f0",
+      "source_path": "四童子三昧经 (3卷)〖隋 阇那崛多译〗.txt",
+      "source_ref": "四童子三昧经 (3卷)〖隋 阇那崛多译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\四童子三昧经 (3卷)〖隋 阇那崛多译〗.txt",
+      "suffix": ".txt",
+      "chars": 23639,
+      "content_sha256": "7217e833397c141aab1c962ccd45efa9d2c5fcf1d5272e87ad64dd4520dab408"
+    },
+    {
+      "source_id": "817596c4aec2c3c1c91848f1feae1dd1",
+      "source_path": "大云无想经 (9卷)〖姚秦 竺佛念译〗.txt",
+      "source_ref": "大云无想经 (9卷)〖姚秦 竺佛念译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\大云无想经 (9卷)〖姚秦 竺佛念译〗.txt",
+      "suffix": ".txt",
+      "chars": 5937,
+      "content_sha256": "ee6ae31a0a8e7314c2b5d8a86a0c644fbe69a0c63b4ea43bb55e5de4ec7aba16"
+    },
+    {
+      "source_id": "59025eca49b15d6458b8173d1b33e4a5",
+      "source_path": "大圣文殊师利菩萨佛刹功德庄严经 (3卷)〖唐 不空译〗.txt",
+      "source_ref": "大圣文殊师利菩萨佛刹功德庄严经 (3卷)〖唐 不空译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\大圣文殊师利菩萨佛刹功德庄严经 (3卷)〖唐 不空译〗.txt",
+      "suffix": ".txt",
+      "chars": 26006,
+      "content_sha256": "dceac3a4d166696fb1c8ea01cf7aa856637718737a6a61b11d4191542bc2e430"
+    },
+    {
+      "source_id": "4e2f3673ad68c5a2035866c4c13203d3",
+      "source_path": "大宝积经 (120卷)〖唐 菩提流志译并合〗.txt",
+      "source_ref": "大宝积经 (120卷)〖唐 菩提流志译并合〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\大宝积经 (120卷)〖唐 菩提流志译并合〗.txt",
+      "suffix": ".txt",
+      "chars": 10038,
+      "content_sha256": "f22be456a2923c583b1f767d42f169a7e7a683a53f5b01eba39302d191e7d3d7"
+    },
+    {
+      "source_id": "84fefce543ec4b2fea3e1d18b1544086",
+      "source_path": "大悲经 (5卷)〖高齐 那连提耶舍译〗.txt",
+      "source_ref": "大悲经 (5卷)〖高齐 那连提耶舍译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\大悲经 (5卷)〖高齐 那连提耶舍译〗.txt",
+      "suffix": ".txt",
+      "chars": 45051,
+      "content_sha256": "5220a38811ecbdb42352a67511f47d2920717616188d03b6c18186aa92aa1d5f"
+    },
+    {
+      "source_id": "9619aee9a41969857139b5f891d2aeb6",
+      "source_path": "大方广三戒经 (3卷)〖北凉 昙无谶译〗.txt",
+      "source_ref": "大方广三戒经 (3卷)〖北凉 昙无谶译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\大方广三戒经 (3卷)〖北凉 昙无谶译〗.txt",
+      "suffix": ".txt",
+      "chars": 27955,
+      "content_sha256": "25ca0a609f175caf14d351c60c4276d453486e6570e4b6b51c47ccd4d3656613"
+    },
+    {
+      "source_id": "17d73da116f00a85a76e7abd48d9d599",
+      "source_path": "大方等无想经 (6卷)〖北凉 昙无谶译〗.txt",
+      "source_ref": "大方等无想经 (6卷)〖北凉 昙无谶译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\大方等无想经 (6卷)〖北凉 昙无谶译〗.txt",
+      "suffix": ".txt",
+      "chars": 47045,
+      "content_sha256": "7a692cc354d12a82f88093f042ff99c5f47fa90cacdece01ab83f24c06755614"
+    },
+    {
+      "source_id": "c15219392a8fa765be4a6057cdcf96ae",
+      "source_path": "大般涅槃经 (36卷)〖宋 慧严等依泥洹经加之〗.txt",
+      "source_ref": "大般涅槃经 (36卷)〖宋 慧严等依泥洹经加之〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\大般涅槃经 (36卷)〖宋 慧严等依泥洹经加之〗.txt",
+      "suffix": ".txt",
+      "chars": 10201,
+      "content_sha256": "8aceb70e32bce9d7243e5454f8d33780507281c958cfc7adb849c9fbbe2ec7cc"
+    },
+    {
+      "source_id": "e1d70cd0f4062fed4043d1ad95b93c81",
+      "source_path": "大般涅槃经后分 (2卷)〖唐 若那跋陀罗译〗.txt",
+      "source_ref": "大般涅槃经后分 (2卷)〖唐 若那跋陀罗译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\大般涅槃经后分 (2卷)〖唐 若那跋陀罗译〗.txt",
+      "suffix": ".txt",
+      "chars": 20530,
+      "content_sha256": "4e9df405ab8e93010eb51acb72b07895fb7908b733b6633a53d596cd8153500d"
+    },
+    {
+      "source_id": "45051af967dc2d3e0d3a3fbecc8fd50c",
+      "source_path": "摩诃摩耶经 (2卷)〖萧齐 昙译〗.txt",
+      "source_ref": "摩诃摩耶经 (2卷)〖萧齐 昙译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\摩诃摩耶经 (2卷)〖萧齐 昙译〗.txt",
+      "suffix": ".txt",
+      "chars": 15310,
+      "content_sha256": "ace4a30f47b7a5c8d48979e13b4e9947380ec0871fdad0316a21349bcee73b1f"
+    },
+    {
+      "source_id": "ac707f50503616155e494db1b7f50956",
+      "source_path": "文殊师利佛土严净经 (2卷)〖西晋 竺法护译〗.txt",
+      "source_ref": "文殊师利佛土严净经 (2卷)〖西晋 竺法护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\文殊师利佛土严净经 (2卷)〖西晋 竺法护译〗.txt",
+      "suffix": ".txt",
+      "chars": 17815,
+      "content_sha256": "98157fd0b6b15c2ad26e46c67e3a7a38441f2876fea5fdbabfb231a3ad7a84d7"
+    },
+    {
+      "source_id": "d99fd1bcd0aafc13855588a65c2782be",
+      "source_path": "父子合集经 (20卷)〖宋 日称等译〗.txt",
+      "source_ref": "父子合集经 (20卷)〖宋 日称等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\父子合集经 (20卷)〖宋 日称等译〗.txt",
+      "suffix": ".txt",
+      "chars": 4809,
+      "content_sha256": "0e3e461c38953f19390f7b2abe7801841b6db2d4adad183cb35d14b41984ca3b"
+    },
+    {
+      "source_id": "a28e0498a4e5bf011cf8bf3cc2a35ce2",
+      "source_path": "等集众德三昧经 (3卷)〖西晋 竺法护译〗.txt",
+      "source_ref": "等集众德三昧经 (3卷)〖西晋 竺法护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\等集众德三昧经 (3卷)〖西晋 竺法护译〗.txt",
+      "suffix": ".txt",
+      "chars": 25730,
+      "content_sha256": "7a09138668331ac7986a19488b11ea7afb3dbc450bf6ccfeb606b328971abadb"
+    },
+    {
+      "source_id": "d874fca85452944497de367c5bbd4f14",
+      "source_path": "般泥洹后灌腊经 (1卷)〖西晋 竺法护译〗.txt",
+      "source_ref": "般泥洹后灌腊经 (1卷)〖西晋 竺法护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\般泥洹后灌腊经 (1卷)〖西晋 竺法护译〗.txt",
+      "suffix": ".txt",
+      "chars": 729,
+      "content_sha256": "f0fcc2b5a6062b9a379d6349c33bad38f6487562373f0e16dba6e72fe0385252"
+    },
+    {
+      "source_id": "a810dcf6f28a120f454bb64be0367237",
+      "source_path": "莲华面经 (2卷)〖隋 那连提耶舍译〗.txt",
+      "source_ref": "莲华面经 (2卷)〖隋 那连提耶舍译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\莲华面经 (2卷)〖隋 那连提耶舍译〗.txt",
+      "suffix": ".txt",
+      "chars": 11478,
+      "content_sha256": "81fba460c76782072e090f63843ae74a8d65b56b1a6fd1fe9ee17859f2a1cb7b"
+    },
+    {
+      "source_id": "8055dda4dfde2579951551a77d9f8338",
+      "source_path": "菩萨从兜术天降神母胎说广普经 (7卷)〖姚秦 竺佛念译〗.txt",
+      "source_ref": "菩萨从兜术天降神母胎说广普经 (7卷)〖姚秦 竺佛念译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\菩萨从兜术天降神母胎说广普经 (7卷)〖姚秦 竺佛念译〗.txt",
+      "suffix": ".txt",
+      "chars": 8873,
+      "content_sha256": "caed7ffe3d2333eb9bd7474dd78c94d77cc30a4d39abb7c2c15f3daa2dfa1496"
+    },
+    {
+      "source_id": "8e9d5cf8fa4b3ca802d5571ae3f26707",
+      "source_path": "迦叶赴佛般涅槃经 (1卷)〖东晋 竺昙无兰译〗.txt",
+      "source_ref": "迦叶赴佛般涅槃经 (1卷)〖东晋 竺昙无兰译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\迦叶赴佛般涅槃经 (1卷)〖东晋 竺昙无兰译〗.txt",
+      "suffix": ".txt",
+      "chars": 1350,
+      "content_sha256": "ea71f4061a344692f38e167e71d7e2582ff87700252e9f17d6396f8c2362bf20"
+    },
+    {
+      "source_id": "95d378960c4b47c30b614d859dc8238d",
+      "source_path": "阿閦佛国经 (2卷)〖后汉 支娄迦谶译〗.txt",
+      "source_ref": "阿閦佛国经 (2卷)〖后汉 支娄迦谶译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\阿閦佛国经 (2卷)〖后汉 支娄迦谶译〗.txt",
+      "suffix": ".txt",
+      "chars": 20585,
+      "content_sha256": "5ccac252bd60ce3b85e366f852f319817f0c769dcbe48f52f05452f1a264e51b"
+    },
+    {
+      "source_id": "83b083820ef517466b2581268d6501f9",
+      "source_path": "集一切福德三昧经 (3卷)〖姚秦 鸠摩罗什译〗.txt",
+      "source_ref": "集一切福德三昧经 (3卷)〖姚秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\宝积部·涅槃部\\集一切福德三昧经 (3卷)〖姚秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 25646,
+      "content_sha256": "9d6c25c7b483762b2c880a66b6a4fb27e8ca509c086f6e27f2bd3c121818650d"
+    }
+  ]
+}

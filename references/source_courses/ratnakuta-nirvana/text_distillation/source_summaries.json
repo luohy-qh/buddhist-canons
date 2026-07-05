@@ -1,0 +1,617 @@
+[
+  {
+    "source_id": "7ed90e6a6e25786287ead92daefc55d2",
+    "source_path": "《普门品》经---佛说普门品经 (1卷)〖西晋 竺法护译〗.txt",
+    "source_ref": "《普门品》经---佛说普门品经 (1卷)〖西晋 竺法护译〗.txt",
+    "chunk_count": 6,
+    "card_count": 57,
+    "card_types": {
+      "quote": 11,
+      "boundary": 4,
+      "task": 3,
+      "concept": 27,
+      "method": 7,
+      "case": 2,
+      "diagnostic": 1,
+      "transfer": 1,
+      "open_question": 1
+    }
+  },
+  {
+    "source_id": "a796aabb9706c298b6c913594b60d0a9",
+    "source_path": "中阴经 (2卷)〖姚秦 竺佛念译〗.txt",
+    "source_ref": "中阴经 (2卷)〖姚秦 竺佛念译〗.txt",
+    "chunk_count": 7,
+    "card_count": 63,
+    "card_types": {
+      "quote": 27,
+      "boundary": 5,
+      "concept": 8,
+      "method": 8,
+      "case": 9,
+      "diagnostic": 3,
+      "task": 1,
+      "open_question": 1,
+      "failure_mode": 1
+    }
+  },
+  {
+    "source_id": "a2eeb0dfc3a84b1a88e2fc8102501103",
+    "source_path": "佛临涅槃记法住经 (1卷)〖唐 玄奘译〗.txt",
+    "source_ref": "佛临涅槃记法住经 (1卷)〖唐 玄奘译〗.txt",
+    "chunk_count": 3,
+    "card_count": 16,
+    "card_types": {
+      "quote": 3,
+      "boundary": 2,
+      "case": 10,
+      "diagnostic": 1
+    }
+  },
+  {
+    "source_id": "3cda0d24a8fc90e9eaaf3837b1b6fd7c",
+    "source_path": "佛入涅槃密迹金刚力士哀恋经 (1卷)〖失译〗.txt",
+    "source_ref": "佛入涅槃密迹金刚力士哀恋经 (1卷)〖失译〗.txt",
+    "chunk_count": 3,
+    "card_count": 18,
+    "card_types": {
+      "concept": 1,
+      "boundary": 1,
+      "quote": 16
+    }
+  },
+  {
+    "source_id": "65802ffa9c42453f7632c44b043e710e",
+    "source_path": "佛垂般涅槃略说教诫经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+    "source_ref": "佛垂般涅槃略说教诫经 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+    "chunk_count": 3,
+    "card_count": 15,
+    "card_types": {
+      "quote": 3,
+      "boundary": 2,
+      "case": 4,
+      "concept": 1,
+      "method": 5
+    }
+  },
+  {
+    "source_id": "10c3244f0ccfb01f7289e1f1146fa165",
+    "source_path": "佛灭度后棺敛葬送经 (1卷)〖失译〗.txt",
+    "source_ref": "佛灭度后棺敛葬送经 (1卷)〖失译〗.txt",
+    "chunk_count": 3,
+    "card_count": 17,
+    "card_types": {
+      "quote": 5,
+      "boundary": 3,
+      "case": 5,
+      "method": 2,
+      "concept": 1,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "f25b9d5027f11528164a8aaa8fc454d5",
+    "source_path": "佛说大乘十法经 (1卷)〖梁 僧伽婆罗译〗.txt",
+    "source_ref": "佛说大乘十法经 (1卷)〖梁 僧伽婆罗译〗.txt",
+    "chunk_count": 5,
+    "card_count": 49,
+    "card_types": {
+      "quote": 8,
+      "concept": 22,
+      "workflow": 1,
+      "method": 3,
+      "case": 11,
+      "boundary": 3,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "830c4ec44026639f811b2b87484ad0c3",
+    "source_path": "佛说大乘菩萨藏正法经 (40卷)〖宋 法护等译〗.txt",
+    "source_ref": "佛说大乘菩萨藏正法经 (40卷)〖宋 法护等译〗.txt",
+    "chunk_count": 3,
+    "card_count": 18,
+    "card_types": {
+      "concept": 6,
+      "boundary": 3,
+      "quote": 7,
+      "case": 1,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "f717c4d6d28b709d213e2b45c149b60e",
+    "source_path": "佛说大般泥洹经 (6卷)〖东晋 法显译〗.txt",
+    "source_ref": "佛说大般泥洹经 (6卷)〖东晋 法显译〗.txt",
+    "chunk_count": 6,
+    "card_count": 51,
+    "card_types": {
+      "case": 11,
+      "quote": 23,
+      "concept": 7,
+      "boundary": 6,
+      "task": 3,
+      "method": 1
+    }
+  },
+  {
+    "source_id": "c36469d3109d6547993f8d88650ce8b3",
+    "source_path": "佛说如幻三摩地无量印法门经 (3卷)〖宋 施护等译〗.txt",
+    "source_ref": "佛说如幻三摩地无量印法门经 (3卷)〖宋 施护等译〗.txt",
+    "chunk_count": 5,
+    "card_count": 36,
+    "card_types": {
+      "quote": 15,
+      "concept": 7,
+      "method": 1,
+      "case": 8,
+      "task": 1,
+      "boundary": 4
+    }
+  },
+  {
+    "source_id": "855ccdb5a80c07498834fb103d365b06",
+    "source_path": "佛说如来不思议秘密大乘经 (20卷)〖宋 法护译〗.txt",
+    "source_ref": "佛说如来不思议秘密大乘经 (20卷)〖宋 法护译〗.txt",
+    "chunk_count": 4,
+    "card_count": 18,
+    "card_types": {
+      "quote": 6,
+      "boundary": 3,
+      "concept": 1,
+      "method": 7,
+      "case": 1
+    }
+  },
+  {
+    "source_id": "4d1d94ee84a1deada8dd0739317d932f",
+    "source_path": "佛说当来变经 (1卷)〖西晋 竺法护译〗.txt",
+    "source_ref": "佛说当来变经 (1卷)〖西晋 竺法护译〗.txt",
+    "chunk_count": 3,
+    "card_count": 11,
+    "card_types": {
+      "quote": 7,
+      "concept": 2,
+      "task": 1,
+      "boundary": 1
+    }
+  },
+  {
+    "source_id": "ec4e4f39b8fbd9c0bf93b80e24f26a85",
+    "source_path": "佛说护国尊者所问大乘经 (4卷)〖宋 施护译〗.txt",
+    "source_ref": "佛说护国尊者所问大乘经 (4卷)〖宋 施护译〗.txt",
+    "chunk_count": 8,
+    "card_count": 63,
+    "card_types": {
+      "quote": 16,
+      "boundary": 5,
+      "concept": 15,
+      "case": 13,
+      "diagnostic": 1,
+      "failure_mode": 3,
+      "open_question": 2,
+      "method": 3,
+      "transfer": 1,
+      "task": 3,
+      "workflow": 1
+    }
+  },
+  {
+    "source_id": "72a7fe5f0687e0cefa5056b7e329cbc1",
+    "source_path": "佛说方等般泥洹经 (2卷)〖西晋 竺法护译〗.txt",
+    "source_ref": "佛说方等般泥洹经 (2卷)〖西晋 竺法护译〗.txt",
+    "chunk_count": 9,
+    "card_count": 87,
+    "card_types": {
+      "quote": 29,
+      "boundary": 8,
+      "task": 3,
+      "case": 17,
+      "concept": 20,
+      "open_question": 2,
+      "template": 1,
+      "method": 6,
+      "workflow": 1
+    }
+  },
+  {
+    "source_id": "1a61bb3ac12fb88af77b8621f2ac4c60",
+    "source_path": "佛说普门品经 (1卷)〖西晋 竺法护译〗 (注：与上文略有不同).txt",
+    "source_ref": "佛说普门品经 (1卷)〖西晋 竺法护译〗 (注：与上文略有不同).txt",
+    "chunk_count": 4,
+    "card_count": 32,
+    "card_types": {
+      "quote": 3,
+      "boundary": 2,
+      "diagnostic": 1,
+      "concept": 17,
+      "method": 2,
+      "case": 7
+    }
+  },
+  {
+    "source_id": "6c04813233f08047a55e430d0fe68a67",
+    "source_path": "佛说法灭尽经 (1卷)〖失译〗.txt",
+    "source_ref": "佛说法灭尽经 (1卷)〖失译〗.txt",
+    "chunk_count": 3,
+    "card_count": 33,
+    "card_types": {
+      "quote": 23,
+      "case": 9,
+      "diagnostic": 1
+    }
+  },
+  {
+    "source_id": "422e354122147709af468e14d317d06f",
+    "source_path": "佛说胞胎经 (1卷)〖西晋 竺法护译〗.txt",
+    "source_ref": "佛说胞胎经 (1卷)〖西晋 竺法护译〗.txt",
+    "chunk_count": 5,
+    "card_count": 39,
+    "card_types": {
+      "quote": 8,
+      "boundary": 4,
+      "concept": 7,
+      "case": 9,
+      "workflow": 3,
+      "method": 2,
+      "diagnostic": 3,
+      "failure_mode": 1,
+      "task": 1,
+      "open_question": 1
+    }
+  },
+  {
+    "source_id": "93bb289b222800d9c76e78875570b9c8",
+    "source_path": "后出阿弥陀佛偈 (1卷)〖失译〗.txt",
+    "source_ref": "后出阿弥陀佛偈 (1卷)〖失译〗.txt",
+    "chunk_count": 3,
+    "card_count": 14,
+    "card_types": {
+      "quote": 3,
+      "boundary": 1,
+      "concept": 2,
+      "case": 5,
+      "method": 1,
+      "diagnostic": 1,
+      "task": 1
+    }
+  },
+  {
+    "source_id": "c11b85c58de6b0191226bf781323a7f0",
+    "source_path": "四童子三昧经 (3卷)〖隋 阇那崛多译〗.txt",
+    "source_ref": "四童子三昧经 (3卷)〖隋 阇那崛多译〗.txt",
+    "chunk_count": 9,
+    "card_count": 79,
+    "card_types": {
+      "quote": 42,
+      "boundary": 5,
+      "concept": 4,
+      "method": 2,
+      "case": 14,
+      "task": 7,
+      "diagnostic": 2,
+      "open_question": 2,
+      "rubric": 1
+    }
+  },
+  {
+    "source_id": "817596c4aec2c3c1c91848f1feae1dd1",
+    "source_path": "大云无想经 (9卷)〖姚秦 竺佛念译〗.txt",
+    "source_ref": "大云无想经 (9卷)〖姚秦 竺佛念译〗.txt",
+    "chunk_count": 4,
+    "card_count": 32,
+    "card_types": {
+      "quote": 8,
+      "boundary": 4,
+      "concept": 5,
+      "case": 3,
+      "task": 2,
+      "method": 3,
+      "workflow": 2,
+      "diagnostic": 1,
+      "transfer": 1,
+      "template": 1,
+      "failure_mode": 1,
+      "open_question": 1
+    }
+  },
+  {
+    "source_id": "59025eca49b15d6458b8173d1b33e4a5",
+    "source_path": "大圣文殊师利菩萨佛刹功德庄严经 (3卷)〖唐 不空译〗.txt",
+    "source_ref": "大圣文殊师利菩萨佛刹功德庄严经 (3卷)〖唐 不空译〗.txt",
+    "chunk_count": 9,
+    "card_count": 98,
+    "card_types": {
+      "quote": 21,
+      "boundary": 13,
+      "concept": 13,
+      "method": 21,
+      "task": 6,
+      "diagnostic": 3,
+      "case": 15,
+      "open_question": 2,
+      "failure_mode": 2,
+      "workflow": 1,
+      "transfer": 1
+    }
+  },
+  {
+    "source_id": "4e2f3673ad68c5a2035866c4c13203d3",
+    "source_path": "大宝积经 (120卷)〖唐 菩提流志译并合〗.txt",
+    "source_ref": "大宝积经 (120卷)〖唐 菩提流志译并合〗.txt",
+    "chunk_count": 5,
+    "card_count": 38,
+    "card_types": {
+      "quote": 12,
+      "case": 4,
+      "diagnostic": 2,
+      "boundary": 4,
+      "workflow": 2,
+      "concept": 4,
+      "template": 1,
+      "failure_mode": 2,
+      "method": 7
+    }
+  },
+  {
+    "source_id": "84fefce543ec4b2fea3e1d18b1544086",
+    "source_path": "大悲经 (5卷)〖高齐 那连提耶舍译〗.txt",
+    "source_ref": "大悲经 (5卷)〖高齐 那连提耶舍译〗.txt",
+    "chunk_count": 14,
+    "card_count": 135,
+    "card_types": {
+      "quote": 45,
+      "boundary": 13,
+      "concept": 18,
+      "case": 25,
+      "diagnostic": 10,
+      "method": 5,
+      "workflow": 4,
+      "template": 3,
+      "task": 8,
+      "open_question": 2,
+      "failure_mode": 1,
+      "rubric": 1
+    }
+  },
+  {
+    "source_id": "9619aee9a41969857139b5f891d2aeb6",
+    "source_path": "大方广三戒经 (3卷)〖北凉 昙无谶译〗.txt",
+    "source_ref": "大方广三戒经 (3卷)〖北凉 昙无谶译〗.txt",
+    "chunk_count": 10,
+    "card_count": 108,
+    "card_types": {
+      "quote": 36,
+      "boundary": 12,
+      "concept": 18,
+      "diagnostic": 11,
+      "case": 5,
+      "method": 12,
+      "workflow": 3,
+      "failure_mode": 4,
+      "task": 4,
+      "rubric": 1,
+      "template": 1,
+      "transfer": 1
+    }
+  },
+  {
+    "source_id": "17d73da116f00a85a76e7abd48d9d599",
+    "source_path": "大方等无想经 (6卷)〖北凉 昙无谶译〗.txt",
+    "source_ref": "大方等无想经 (6卷)〖北凉 昙无谶译〗.txt",
+    "chunk_count": 15,
+    "card_count": 161,
+    "card_types": {
+      "case": 23,
+      "quote": 62,
+      "boundary": 13,
+      "concept": 46,
+      "method": 10,
+      "task": 2,
+      "open_question": 1,
+      "diagnostic": 3,
+      "failure_mode": 1
+    }
+  },
+  {
+    "source_id": "c15219392a8fa765be4a6057cdcf96ae",
+    "source_path": "大般涅槃经 (36卷)〖宋 慧严等依泥洹经加之〗.txt",
+    "source_ref": "大般涅槃经 (36卷)〖宋 慧严等依泥洹经加之〗.txt",
+    "chunk_count": 5,
+    "card_count": 35,
+    "card_types": {
+      "quote": 12,
+      "concept": 5,
+      "case": 12,
+      "boundary": 4,
+      "task": 1,
+      "diagnostic": 1
+    }
+  },
+  {
+    "source_id": "e1d70cd0f4062fed4043d1ad95b93c81",
+    "source_path": "大般涅槃经后分 (2卷)〖唐 若那跋陀罗译〗.txt",
+    "source_ref": "大般涅槃经后分 (2卷)〖唐 若那跋陀罗译〗.txt",
+    "chunk_count": 8,
+    "card_count": 76,
+    "card_types": {
+      "quote": 28,
+      "boundary": 7,
+      "concept": 6,
+      "case": 24,
+      "workflow": 3,
+      "method": 2,
+      "template": 1,
+      "task": 3,
+      "failure_mode": 1,
+      "diagnostic": 1
+    }
+  },
+  {
+    "source_id": "45051af967dc2d3e0d3a3fbecc8fd50c",
+    "source_path": "摩诃摩耶经 (2卷)〖萧齐 昙译〗.txt",
+    "source_ref": "摩诃摩耶经 (2卷)〖萧齐 昙译〗.txt",
+    "chunk_count": 6,
+    "card_count": 61,
+    "card_types": {
+      "quote": 32,
+      "boundary": 4,
+      "task": 2,
+      "rubric": 1,
+      "case": 10,
+      "concept": 4,
+      "method": 3,
+      "workflow": 3,
+      "diagnostic": 1,
+      "open_question": 1
+    }
+  },
+  {
+    "source_id": "ac707f50503616155e494db1b7f50956",
+    "source_path": "文殊师利佛土严净经 (2卷)〖西晋 竺法护译〗.txt",
+    "source_ref": "文殊师利佛土严净经 (2卷)〖西晋 竺法护译〗.txt",
+    "chunk_count": 7,
+    "card_count": 63,
+    "card_types": {
+      "quote": 28,
+      "concept": 9,
+      "method": 14,
+      "case": 3,
+      "boundary": 4,
+      "diagnostic": 1,
+      "open_question": 1,
+      "workflow": 2,
+      "rubric": 1
+    }
+  },
+  {
+    "source_id": "d99fd1bcd0aafc13855588a65c2782be",
+    "source_path": "父子合集经 (20卷)〖宋 日称等译〗.txt",
+    "source_ref": "父子合集经 (20卷)〖宋 日称等译〗.txt",
+    "chunk_count": 4,
+    "card_count": 36,
+    "card_types": {
+      "quote": 28,
+      "boundary": 2,
+      "case": 2,
+      "concept": 2,
+      "diagnostic": 1,
+      "template": 1
+    }
+  },
+  {
+    "source_id": "a28e0498a4e5bf011cf8bf3cc2a35ce2",
+    "source_path": "等集众德三昧经 (3卷)〖西晋 竺法护译〗.txt",
+    "source_ref": "等集众德三昧经 (3卷)〖西晋 竺法护译〗.txt",
+    "chunk_count": 9,
+    "card_count": 89,
+    "card_types": {
+      "quote": 17,
+      "boundary": 15,
+      "case": 6,
+      "open_question": 1,
+      "concept": 10,
+      "task": 6,
+      "workflow": 4,
+      "method": 23,
+      "diagnostic": 4,
+      "failure_mode": 3
+    }
+  },
+  {
+    "source_id": "d874fca85452944497de367c5bbd4f14",
+    "source_path": "般泥洹后灌腊经 (1卷)〖西晋 竺法护译〗.txt",
+    "source_ref": "般泥洹后灌腊经 (1卷)〖西晋 竺法护译〗.txt",
+    "chunk_count": 3,
+    "card_count": 13,
+    "card_types": {
+      "quote": 5,
+      "concept": 1,
+      "method": 3,
+      "boundary": 3,
+      "diagnostic": 1
+    }
+  },
+  {
+    "source_id": "a810dcf6f28a120f454bb64be0367237",
+    "source_path": "莲华面经 (2卷)〖隋 那连提耶舍译〗.txt",
+    "source_ref": "莲华面经 (2卷)〖隋 那连提耶舍译〗.txt",
+    "chunk_count": 5,
+    "card_count": 49,
+    "card_types": {
+      "quote": 29,
+      "boundary": 8,
+      "case": 5,
+      "concept": 1,
+      "diagnostic": 2,
+      "task": 1,
+      "workflow": 1,
+      "method": 1,
+      "rubric": 1
+    }
+  },
+  {
+    "source_id": "8055dda4dfde2579951551a77d9f8338",
+    "source_path": "菩萨从兜术天降神母胎说广普经 (7卷)〖姚秦 竺佛念译〗.txt",
+    "source_ref": "菩萨从兜术天降神母胎说广普经 (7卷)〖姚秦 竺佛念译〗.txt",
+    "chunk_count": 5,
+    "card_count": 39,
+    "card_types": {
+      "quote": 8,
+      "boundary": 3,
+      "case": 16,
+      "concept": 8,
+      "method": 2,
+      "task": 2
+    }
+  },
+  {
+    "source_id": "8e9d5cf8fa4b3ca802d5571ae3f26707",
+    "source_path": "迦叶赴佛般涅槃经 (1卷)〖东晋 竺昙无兰译〗.txt",
+    "source_ref": "迦叶赴佛般涅槃经 (1卷)〖东晋 竺昙无兰译〗.txt",
+    "chunk_count": 3,
+    "card_count": 14,
+    "card_types": {
+      "quote": 3,
+      "boundary": 2,
+      "case": 8,
+      "method": 1
+    }
+  },
+  {
+    "source_id": "95d378960c4b47c30b614d859dc8238d",
+    "source_path": "阿閦佛国经 (2卷)〖后汉 支娄迦谶译〗.txt",
+    "source_ref": "阿閦佛国经 (2卷)〖后汉 支娄迦谶译〗.txt",
+    "chunk_count": 8,
+    "card_count": 75,
+    "card_types": {
+      "quote": 25,
+      "boundary": 14,
+      "concept": 9,
+      "method": 6,
+      "case": 12,
+      "diagnostic": 4,
+      "task": 2,
+      "workflow": 1,
+      "template": 1,
+      "transfer": 1
+    }
+  },
+  {
+    "source_id": "83b083820ef517466b2581268d6501f9",
+    "source_path": "集一切福德三昧经 (3卷)〖姚秦 鸠摩罗什译〗.txt",
+    "source_ref": "集一切福德三昧经 (3卷)〖姚秦 鸠摩罗什译〗.txt",
+    "chunk_count": 9,
+    "card_count": 85,
+    "card_types": {
+      "quote": 24,
+      "task": 1,
+      "concept": 20,
+      "case": 4,
+      "boundary": 9,
+      "method": 19,
+      "diagnostic": 5,
+      "workflow": 3
+    }
+  }
+]

@@ -1,0 +1,577 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-07-04T02:37:33",
+  "source_count": 63,
+  "chunk_count": 341,
+  "max_chars": 4000,
+  "overlap_chars": 200,
+  "sources": [
+    {
+      "source_id": "67f98a3a271fa10eb60474a688f7c976",
+      "source_path": "三无性论 (2卷)〖陈 真谛译〗.txt",
+      "source_ref": "三无性论 (2卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\三无性论 (2卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 18408,
+      "content_sha256": "6ca75c781b0d6b8e94c6011f35c4b4c7ef951858a39693ddb8b9c626d66739b7"
+    },
+    {
+      "source_id": "af064231f1d0b0bba973d67b317f3151",
+      "source_path": "业成就论 (1卷)〖元魏 毗目智仙译〗.txt",
+      "source_ref": "业成就论 (1卷)〖元魏 毗目智仙译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\业成就论 (1卷)〖元魏 毗目智仙译〗.txt",
+      "suffix": ".txt",
+      "chars": 6022,
+      "content_sha256": "0035e7341be2a8600c8f4636941dac363b05d500c49c792d9ee1a8c57173143e"
+    },
+    {
+      "source_id": "a010f4825c36acdbd7f12477734e1d48",
+      "source_path": "中论 (4卷)〖姚秦 鸠摩罗什译〗.txt",
+      "source_ref": "中论 (4卷)〖姚秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\中论 (4卷)〖姚秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 10423,
+      "content_sha256": "082db1b568a8aa787ddbaa914de1fdb7708f2b627cd9767b928c8c9c13d4106b"
+    },
+    {
+      "source_id": "4f51433c1ebe7e297ac38460f95fb89e",
+      "source_path": "中边分别论 (2卷)〖陈 真谛译〗.txt",
+      "source_ref": "中边分别论 (2卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\中边分别论 (2卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 19464,
+      "content_sha256": "c5c69482ebeb8205bb5a9820fa6424d2d1c6227e2316f97aa95e14535963629c"
+    },
+    {
+      "source_id": "1206eb45b863b3e7c1d324f6ea5bca49",
+      "source_path": "佛性论 (4卷)〖陈 真谛译〗.txt",
+      "source_ref": "佛性论 (4卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\佛性论 (4卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 43831,
+      "content_sha256": "306dd4c6b89db35f2756c4699f02240df4784acdbc4ab40b25b0ac45d4e148cc"
+    },
+    {
+      "source_id": "79f383ce7700e8a4459ed44589fa74d8",
+      "source_path": "六十颂如理论 (1卷)〖宋 施护译〗.txt",
+      "source_ref": "六十颂如理论 (1卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\六十颂如理论 (1卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 2049,
+      "content_sha256": "e01c537c1b1392e837f139d23022d6542e3fbca8bf423471386c13d362042d5e"
+    },
+    {
+      "source_id": "f3625314a2bdfc3b4da6aea9eb68ee84",
+      "source_path": "六门教授习定论 (1卷)〖唐 义净译〗.txt",
+      "source_ref": "六门教授习定论 (1卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\六门教授习定论 (1卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 4997,
+      "content_sha256": "08fdd2575a59e015a19f986bd7df25904b746dd47fbd888665581d775d717c28"
+    },
+    {
+      "source_id": "6fcff8cd444c9f17f830361a6875569d",
+      "source_path": "决定藏论 (3卷)〖梁 真谛译〗.txt",
+      "source_ref": "决定藏论 (3卷)〖梁 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\决定藏论 (3卷)〖梁 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 28095,
+      "content_sha256": "2867757f71f38877f2401f5f95cbc3af1bdc6fb9ade752cfd192ba2572a5ace5"
+    },
+    {
+      "source_id": "ea7874a299c855b241b4fcaacfefee9d",
+      "source_path": "十二门论 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "source_ref": "十二门论 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\十二门论 (1卷)〖姚秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 13238,
+      "content_sha256": "7bf58c95f3e01c62b87e002fb9d726e7862586cedccac6bb19bb3d72ee4c01f4"
+    },
+    {
+      "source_id": "33f7a990b7d401dff1e468427a381eab",
+      "source_path": "十八空论 (1卷)〖陈 真谛译〗.txt",
+      "source_ref": "十八空论 (1卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\十八空论 (1卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 10478,
+      "content_sha256": "f65fba6ebe957c35ffdcec777cee06503f82c47b76773b84c77eed5c6eda5639"
+    },
+    {
+      "source_id": "babeba86519e0a1c88deafba2c1367a1",
+      "source_path": "取因假设论 (1卷)〖唐 义净译〗.txt",
+      "source_ref": "取因假设论 (1卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\取因假设论 (1卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 4515,
+      "content_sha256": "2b3f89011121ec2e842c77c1590a754356dd4b3d33633f5072d9512ebef7e6a6"
+    },
+    {
+      "source_id": "17faa167aa82fad58ae41803c7cc80d3",
+      "source_path": "唯识三十论颂 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "唯识三十论颂 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\唯识三十论颂 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 1956,
+      "content_sha256": "a7ea4e5577eab4be9c36d886a97cebaeb22d8a28b24ad5886b38493b4c52500f"
+    },
+    {
+      "source_id": "03d77975abe7b3ce2fd5217e1064ea10",
+      "source_path": "唯识二十论 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "唯识二十论 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\唯识二十论 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 4427,
+      "content_sha256": "ef07beaa5d06dc7033495adaa60f76c7edffab847d9f2c4d649584efbba1bee1"
+    },
+    {
+      "source_id": "22e1970d75d945e1c01a362811275204",
+      "source_path": "唯识论 (1卷)〖后魏 瞿昙般若流支译〗.txt",
+      "source_ref": "唯识论 (1卷)〖后魏 瞿昙般若流支译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\唯识论 (1卷)〖后魏 瞿昙般若流支译〗.txt",
+      "suffix": ".txt",
+      "chars": 9973,
+      "content_sha256": "12210ef5e143224ff6d455df9243b483efa090f82a8dd75054e5165d849e629d"
+    },
+    {
+      "source_id": "5a2392fdd861aa6be051a325f57e2148",
+      "source_path": "壹输卢迦论 (1卷)〖后魏 瞿昙般若留支译〗.txt",
+      "source_ref": "壹输卢迦论 (1卷)〖后魏 瞿昙般若留支译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\壹输卢迦论 (1卷)〖后魏 瞿昙般若留支译〗.txt",
+      "suffix": ".txt",
+      "chars": 1683,
+      "content_sha256": "54edae084fe45ef94da858219a477da23eea15a25f2ed88b69cc4f8ac4fb032c"
+    },
+    {
+      "source_id": "550771e05a005d1a077a0812841a4f73",
+      "source_path": "大丈夫论 (2卷)〖北凉 道泰译〗.txt",
+      "source_ref": "大丈夫论 (2卷)〖北凉 道泰译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大丈夫论 (2卷)〖北凉 道泰译〗.txt",
+      "suffix": ".txt",
+      "chars": 17444,
+      "content_sha256": "4c93f7c7043815214e92ae62f0ad6b91165d14d3b7def2b6b9f7ab1a6d32a523"
+    },
+    {
+      "source_id": "7590254b5dd02b3bfff703810e549a5a",
+      "source_path": "大乘中观释论 (9卷)〖安 惟净等译〗.txt",
+      "source_ref": "大乘中观释论 (9卷)〖安 惟净等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘中观释论 (9卷)〖安 惟净等译〗.txt",
+      "suffix": ".txt",
+      "chars": 31056,
+      "content_sha256": "e74519367fb4ab62e790de173e13afbbca54b88b8bf9c7a42bd3d6330981f653"
+    },
+    {
+      "source_id": "a1b123c8b6d6f14a61406a66339e8c51",
+      "source_path": "大乘二十颂论 (1卷)〖宋 施护译〗.txt",
+      "source_ref": "大乘二十颂论 (1卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘二十颂论 (1卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 907,
+      "content_sha256": "6eae52254e927527ffbfd490c3dc22de4f98ef71238facb11253868469fe3ebe"
+    },
+    {
+      "source_id": "c82cd2a8364471306adc356a4930587c",
+      "source_path": "大乘五蕴论 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "大乘五蕴论 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘五蕴论 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 3856,
+      "content_sha256": "39f87e00003770a0f73efe532484e6861ef3a7e5570385f21aa0015dfac5fff7"
+    },
+    {
+      "source_id": "da87874fc505430938fa8f944a1328a8",
+      "source_path": "大乘唯识论 (1卷)〖陈 真谛译〗.txt",
+      "source_ref": "大乘唯识论 (1卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘唯识论 (1卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 6234,
+      "content_sha256": "9caacbd8999810304049ef63a02eade6afe2ea83f9c5c8cb23f9aecf8c2f0ebd"
+    },
+    {
+      "source_id": "1246f3c10b192ed98aa92cc52c8b4bc0",
+      "source_path": "大乘广五蕴论 (1卷)〖唐 地婆诃罗译〗.txt",
+      "source_ref": "大乘广五蕴论 (1卷)〖唐 地婆诃罗译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘广五蕴论 (1卷)〖唐 地婆诃罗译〗.txt",
+      "suffix": ".txt",
+      "chars": 7267,
+      "content_sha256": "e56b210ab96026494fb1149d31665be712b86f824e5c74f0dd26c0b946ce10ca"
+    },
+    {
+      "source_id": "d9666ef745ec7e47946e9bd288c0ef28",
+      "source_path": "大乘广百论释论 (10卷)〖唐 玄奘译〗.txt",
+      "source_ref": "大乘广百论释论 (10卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘广百论释论 (10卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 7923,
+      "content_sha256": "49f65c1f48b9d73d5a50e37736975a16ccaed147359dd01e213e86615e322032"
+    },
+    {
+      "source_id": "0ba1e58ae2b5d1df506fb6b6dfc698f5",
+      "source_path": "大乘庄严经论 (13卷)〖唐 波罗颇蜜多罗译〗.txt",
+      "source_ref": "大乘庄严经论 (13卷)〖唐 波罗颇蜜多罗译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘庄严经论 (13卷)〖唐 波罗颇蜜多罗译〗.txt",
+      "suffix": ".txt",
+      "chars": 9136,
+      "content_sha256": "13448a72bdee883b001cfaad4703f671ae73befe35bc61943a3665e9e1055667"
+    },
+    {
+      "source_id": "0cd487012e2c1f8e0aee736397c6dafc",
+      "source_path": "大乘成业论 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "大乘成业论 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘成业论 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 8533,
+      "content_sha256": "f5200ef73fe788beaf56e00c74dde6b9bb40b234cce25a181c764e411205377c"
+    },
+    {
+      "source_id": "9350c3604efd258e1070f4a17fbb05ae",
+      "source_path": "大乘掌珍论 (2卷)〖唐 玄奘译〗.txt",
+      "source_ref": "大乘掌珍论 (2卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘掌珍论 (2卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 16489,
+      "content_sha256": "4a5a0ec067d8805d906923c597217f3bc27e70de3e3cda5c26cc2445d7d1a439"
+    },
+    {
+      "source_id": "8300f8de4c5c6659335ea9ee921d5f6b",
+      "source_path": "大乘法界无差别论 (1卷)〖唐 提云般若等译〗.txt",
+      "source_ref": "大乘法界无差别论 (1卷)〖唐 提云般若等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘法界无差别论 (1卷)〖唐 提云般若等译〗.txt",
+      "suffix": ".txt",
+      "chars": 3537,
+      "content_sha256": "a6845993a92c29939c9b100d6261b3bd4300fd82ddd42887cc416d9d886df45b"
+    },
+    {
+      "source_id": "f0f1d5ecef4f0ae5b3762abeb9f81aa8",
+      "source_path": "大乘法界无差别论 (1卷)〖唐 提云般若译〗.txt",
+      "source_ref": "大乘法界无差别论 (1卷)〖唐 提云般若译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘法界无差别论 (1卷)〖唐 提云般若译〗.txt",
+      "suffix": ".txt",
+      "chars": 3469,
+      "content_sha256": "4a5144fb93c0443a18df2157314e9b2d3a29edc5aca16b0a77d0edce5b15ff1e"
+    },
+    {
+      "source_id": "edf570bcae026738141cd2778f4ce827",
+      "source_path": "大乘百法明门论 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "大乘百法明门论 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘百法明门论 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 893,
+      "content_sha256": "502c8c10bd47e2d4c9d2c86e2b05de0b34a01075faf5bc8d57f57201cb55e39b"
+    },
+    {
+      "source_id": "e3f30178b21d3adf1af5b80e4c495039",
+      "source_path": "大乘破有论 (1卷)〖宋 施护译〗.txt",
+      "source_ref": "大乘破有论 (1卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘破有论 (1卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 881,
+      "content_sha256": "b961a4702297ef7c94a0380899b62e23bdf2f8df6b72f44b38dbb21bd45b4453"
+    },
+    {
+      "source_id": "05f08f10cf11e2c73cbe3d3ecd8ecab2",
+      "source_path": "大乘阿毗达磨杂集论 (16卷)〖唐 玄奘译〗.txt",
+      "source_ref": "大乘阿毗达磨杂集论 (16卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘阿毗达磨杂集论 (16卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 9018,
+      "content_sha256": "bcf4d6676cd69d0dceb70d5e68da3481bcca7b857899067b8caae0d783eba437"
+    },
+    {
+      "source_id": "09b8149710adc348a6663818f799ccd1",
+      "source_path": "大乘阿毗达磨集论 (7卷)〖唐 玄奘译〗.txt",
+      "source_ref": "大乘阿毗达磨集论 (7卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\大乘阿毗达磨集论 (7卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 48472,
+      "content_sha256": "ba5c48190381566a5e5518d2ab3765b24c2c592b2b3f38bd168aa58366805d4d"
+    },
+    {
+      "source_id": "a0b83c1aefc701c7e289c88203de7dd1",
+      "source_path": "广百论本 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "广百论本 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\广百论本 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 5556,
+      "content_sha256": "ad507ba0e9b143c24ca7676546bc1b6b0b4d5789258ccdd080da1491e7666940"
+    },
+    {
+      "source_id": "617b723657cd483592b666a5ad06aa4e",
+      "source_path": "成唯识宝生论 (5卷)〖唐 义净译〗.txt",
+      "source_ref": "成唯识宝生论 (5卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\成唯识宝生论 (5卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 31600,
+      "content_sha256": "1cf4cebad07d3e52e93a808ca319ee268e0a2e597a2753862e3ee331fc7b6cd9"
+    },
+    {
+      "source_id": "fd7df209b539393a2060b7db26a2e2ed",
+      "source_path": "成唯识论 (10卷)〖唐 玄奘译〗.txt",
+      "source_ref": "成唯识论 (10卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\成唯识论 (10卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 7628,
+      "content_sha256": "70075fbe9fd857eae72597054a4edaf98f2766fddc8ff51873b15a690c6018b1"
+    },
+    {
+      "source_id": "2110bead9068ba62c0942a84239fc459",
+      "source_path": "掌中论 (1卷)〖唐 义净译〗.txt",
+      "source_ref": "掌中论 (1卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\掌中论 (1卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 1294,
+      "content_sha256": "bb5365b228e9ba92ed05f72bf3ba34b3fb56a55e2ec3a1fbea86061bd60a8fa8"
+    },
+    {
+      "source_id": "54f35db590c2b978ae1c1c5361d9702c",
+      "source_path": "摄大乘论 (2卷)〖后魏 佛陀扇多译〗.txt",
+      "source_ref": "摄大乘论 (2卷)〖后魏 佛陀扇多译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\摄大乘论 (2卷)〖后魏 佛陀扇多译〗.txt",
+      "suffix": ".txt",
+      "chars": 23471,
+      "content_sha256": "bcb5a75a3a2f5019a363627a7e3d7f8cda0b5204e9fedeb2be9b3c9d1fb209a9"
+    },
+    {
+      "source_id": "8bd0efa0e23593e4fe12345ac80e60a9",
+      "source_path": "摄大乘论 (3卷)〖陈 真谛译〗.txt",
+      "source_ref": "摄大乘论 (3卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\摄大乘论 (3卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 30933,
+      "content_sha256": "d2731afb357721e0881aaa04a82a45471ab16fcb7de355edc2e8fd108786f2f1"
+    },
+    {
+      "source_id": "f404a62379aa6760cedb34ab215f8a03",
+      "source_path": "摄大乘论本 (3卷)〖唐 玄奘译〗.txt",
+      "source_ref": "摄大乘论本 (3卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\摄大乘论本 (3卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 28471,
+      "content_sha256": "f16856879c9bb4c0f02ccda10544b1be4fdb132b6aeef9d751ada1eb74b1ebb4"
+    },
+    {
+      "source_id": "e6fe6e60110c37a6e8c95f101fec1fbc",
+      "source_path": "摄大乘论释 (10卷)〖唐 玄奘译〗.txt",
+      "source_ref": "摄大乘论释 (10卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\摄大乘论释 (10卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 8776,
+      "content_sha256": "db859a7c2beab6dc9acb6cbbb13dece4317b6fe4658e5465c21d1c378a6f5e1a"
+    },
+    {
+      "source_id": "db651bcfa9679cc2966a1d790694dc95",
+      "source_path": "摄大乘论释 (15卷)〖陈 真谛译〗.txt",
+      "source_ref": "摄大乘论释 (15卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\摄大乘论释 (15卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 12749,
+      "content_sha256": "f3cd52c3ec367bf15ab9345cb64f62e8fd1daf7a4dec109b7c94c20f78b172f1"
+    },
+    {
+      "source_id": "616b5251958fcecbc7b8b44b93419598",
+      "source_path": "摄大乘论释论 (10卷)〖隋 笈多共行炬等译〗.txt",
+      "source_ref": "摄大乘论释论 (10卷)〖隋 笈多共行炬等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\摄大乘论释论 (10卷)〖隋 笈多共行炬等译〗.txt",
+      "suffix": ".txt",
+      "chars": 8277,
+      "content_sha256": "12333321dbdc0092a7901c5ddc9e679bf2aa5c3cd548404865238d03527cee11"
+    },
+    {
+      "source_id": "c9d85fd5a5ed37de61524704740843d9",
+      "source_path": "无相思尘论 (1卷)〖陈 真谛译〗.txt",
+      "source_ref": "无相思尘论 (1卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\无相思尘论 (1卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 1616,
+      "content_sha256": "493ac2de9d440b8f0411c003533056226792fe7d4e68b7e791101b7659373542"
+    },
+    {
+      "source_id": "5d87a07cd919fdc058e1efca835c9924",
+      "source_path": "显扬圣教论 (20卷)〖唐 玄奘译〗.txt",
+      "source_ref": "显扬圣教论 (20卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\显扬圣教论 (20卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 8447,
+      "content_sha256": "998e02e37e89b5f62195b35d40f5df20019739ecbf5ddd3dc223805bdacfab09"
+    },
+    {
+      "source_id": "d3b0ef62d8c094842ba34dba67adf669",
+      "source_path": "显扬圣教论颂 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "显扬圣教论颂 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\显扬圣教论颂 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 6908,
+      "content_sha256": "c5bbd524ddfb31f0fe005269fc0fe3a070e1bd0f44f1149fa55941d004d8b564"
+    },
+    {
+      "source_id": "e3ee32c881c32b476fed3257d5c828d6",
+      "source_path": "显识论 (1卷)〖陈 真谛译〗.txt",
+      "source_ref": "显识论 (1卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\显识论 (1卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 6562,
+      "content_sha256": "76f90931aa83fcda54fa71c1662e480e0a55535e9f1594ada9f5ed5017e57fb2"
+    },
+    {
+      "source_id": "9c8c4d1b4b2a449751c18ef0c8c80a99",
+      "source_path": "王法正理论 (1卷)〖陈 玄奘译〗.txt",
+      "source_ref": "王法正理论 (1卷)〖陈 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\王法正理论 (1卷)〖陈 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 8288,
+      "content_sha256": "1ce2c020311459dbf209da174c006318dfdc46f0a1afd6100d1fdb9d1add961b"
+    },
+    {
+      "source_id": "6361ecfac68fd138ecb6beba34fb266d",
+      "source_path": "瑜伽师地论 (100卷)〖唐 玄奘译〗.txt",
+      "source_ref": "瑜伽师地论 (100卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\瑜伽师地论 (100卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 9107,
+      "content_sha256": "587319fc1de0cfa0017687793667e61fb8ad774792529ae4b7d3ae74110cd900"
+    },
+    {
+      "source_id": "35fcc253c7c4df71fcf0a3add8391fd4",
+      "source_path": "瑜伽师地论释 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "瑜伽师地论释 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\瑜伽师地论释 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 8643,
+      "content_sha256": "18e89b60e669cf9b9b1f19df6551497652f187d54703578074d262ff66ff6e0b"
+    },
+    {
+      "source_id": "d95b77d72cdfdfa258a9fcbe10e26a6d",
+      "source_path": "百字论 (1卷)〖后魏 菩提流支译〗.txt",
+      "source_ref": "百字论 (1卷)〖后魏 菩提流支译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\百字论 (1卷)〖后魏 菩提流支译〗.txt",
+      "suffix": ".txt",
+      "chars": 4426,
+      "content_sha256": "b9e01b97bbb16fc8c5c3c40d74d4721778ec927bd0ad595a1c711ec956dd7619"
+    },
+    {
+      "source_id": "c05067bf0b74dc4844e48811dc291790",
+      "source_path": "百论 (2卷)〖姚秦 鸠摩罗什译〗.txt",
+      "source_ref": "百论 (2卷)〖姚秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\百论 (2卷)〖姚秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 24594,
+      "content_sha256": "abb775b1e163e5d2e4aaa71dd87bcf6c1fd3f732e44ac3b12e60ba8a6f4616c9"
+    },
+    {
+      "source_id": "30d877fbf5cc243fd54d0df05942ef59",
+      "source_path": "究竟一乘宝性论 (4卷)〖后魏 勒那摩提译〗.txt",
+      "source_ref": "究竟一乘宝性论 (4卷)〖后魏 勒那摩提译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\究竟一乘宝性论 (4卷)〖后魏 勒那摩提译〗.txt",
+      "suffix": ".txt",
+      "chars": 11698,
+      "content_sha256": "bd690ec89d839ec91355f9184048ec6ed82fb3d7763ff61fa5377f8010f0833a"
+    },
+    {
+      "source_id": "fdadf6d7f22bc32cb99be47239ebe811",
+      "source_path": "般若灯论释 (15卷)〖唐 波罗颇蜜多罗译〗.txt",
+      "source_ref": "般若灯论释 (15卷)〖唐 波罗颇蜜多罗译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\般若灯论释 (15卷)〖唐 波罗颇蜜多罗译〗.txt",
+      "suffix": ".txt",
+      "chars": 8474,
+      "content_sha256": "6000a0442ca34f6389822eb52b05f005514fcb2a8e47ff3e75daa977479c823a"
+    },
+    {
+      "source_id": "b5240a165ca1c44d3bbfe9b09bd62030",
+      "source_path": "菩萨善戒经 (1卷)〖刘宋 求那跋摩译〗.txt",
+      "source_ref": "菩萨善戒经 (1卷)〖刘宋 求那跋摩译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\菩萨善戒经 (1卷)〖刘宋 求那跋摩译〗.txt",
+      "suffix": ".txt",
+      "chars": 7433,
+      "content_sha256": "0be840bcade8a6a850042a8a6aeb43ac5d082485f25e0c3835c701c8017f9558"
+    },
+    {
+      "source_id": "68391f72e90175478135d2ee146a5eda",
+      "source_path": "菩萨善戒经 (9卷)〖刘宋 求那跋摩译〗.txt",
+      "source_ref": "菩萨善戒经 (9卷)〖刘宋 求那跋摩译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\菩萨善戒经 (9卷)〖刘宋 求那跋摩译〗.txt",
+      "suffix": ".txt",
+      "chars": 13800,
+      "content_sha256": "5e7e9c0d336a9e6730b8d654500cc8baca6fd9fb88f329dda80c86685bc9d0ce"
+    },
+    {
+      "source_id": "c4316b227bb32f060e081db2c8ed20f0",
+      "source_path": "菩萨地持经 (10卷)〖北凉 昙无谶译〗.txt",
+      "source_ref": "菩萨地持经 (10卷)〖北凉 昙无谶译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\菩萨地持经 (10卷)〖北凉 昙无谶译〗.txt",
+      "suffix": ".txt",
+      "chars": 9272,
+      "content_sha256": "277298b21277e90d4a900289f9a101bd9393fb06288f2ec9143683484c019aaf"
+    },
+    {
+      "source_id": "52130c656210d3f8b9abc57c32e57c4a",
+      "source_path": "观总相论颂 (1卷)〖唐 义净译〗.txt",
+      "source_ref": "观总相论颂 (1卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\观总相论颂 (1卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 520,
+      "content_sha256": "0c3ed54c536c3f04e89936580bb6ae5e1495188482c5c40f246cbe5d419325f1"
+    },
+    {
+      "source_id": "1c73bfc7efd044d5d5829725bc7b8ecd",
+      "source_path": "观所缘缘论 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "观所缘缘论 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\观所缘缘论 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 1280,
+      "content_sha256": "e3ce744bb48620190dc6a3a09dc022270b866843c4844800ee9d33b4906993a5"
+    },
+    {
+      "source_id": "5b888f87450542d1f4ef67955b25c0f3",
+      "source_path": "观所缘论释 (1卷)〖唐 义净译〗.txt",
+      "source_ref": "观所缘论释 (1卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\观所缘论释 (1卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 5147,
+      "content_sha256": "3c733f52a5b61a6ace1ca58a46781941d636309b0935331f4241d5744c0c8229"
+    },
+    {
+      "source_id": "37eaeaa245e3db3aabeedc05a1256498",
+      "source_path": "解卷论 (1卷)〖陈 真谛译〗.txt",
+      "source_ref": "解卷论 (1卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\解卷论 (1卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 1213,
+      "content_sha256": "462a6bceee1fe81000815a8aac06021bf3d1440f78ff007f742176bfcc7fa81e"
+    },
+    {
+      "source_id": "6056efbb873d36dad207d65dee257ce1",
+      "source_path": "转识论 (1卷)〖陈 真谛译〗.txt",
+      "source_ref": "转识论 (1卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\转识论 (1卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 3582,
+      "content_sha256": "51a23441a23cfd408a20d3e1c40fceadb4972061506485dd6fbe3ca5af2a2747"
+    },
+    {
+      "source_id": "d4d64308e83afeae88d743b0f7f2104c",
+      "source_path": "辩中边论 (3卷)〖唐 玄奘译〗.txt",
+      "source_ref": "辩中边论 (3卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\辩中边论 (3卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 19582,
+      "content_sha256": "e7b832cd5faba5d2ac92c65dd6a163814e2f2fa7413438d894a07a0d6f9e8e21"
+    },
+    {
+      "source_id": "add349f6d0668e44956cd88f2cf53e21",
+      "source_path": "辩中边论颂 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "辩中边论颂 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\辩中边论颂 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 3220,
+      "content_sha256": "3c7c6008de771dd5c6378785af91fdee5b84b8bee38081fa7b149ce9896d3846"
+    },
+    {
+      "source_id": "4055bf4e329bb2c5c70d0b4506a03282",
+      "source_path": "顺中论义入大般若波罗蜜经初品法门 (2卷)〖元魏 瞿昙般若流支译〗.txt",
+      "source_ref": "顺中论义入大般若波罗蜜经初品法门 (2卷)〖元魏 瞿昙般若流支译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\顺中论义入大般若波罗蜜经初品法门 (2卷)〖元魏 瞿昙般若流支译〗.txt",
+      "suffix": ".txt",
+      "chars": 17505,
+      "content_sha256": "f56ac97df410ade1ba277d09ce4ad52bf973a6d5d7b6522b668ee9abf6216f97"
+    }
+  ]
+}

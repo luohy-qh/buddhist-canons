@@ -1,0 +1,631 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-07-04T09:57:11",
+  "source_count": 69,
+  "chunk_count": 349,
+  "max_chars": 4000,
+  "overlap_chars": 200,
+  "sources": [
+    {
+      "source_id": "88c3d6cd97835cae4f05e12188a23431",
+      "source_path": "一百五十赞佛颂 (1卷)〖唐 义净译〗.txt",
+      "source_ref": "一百五十赞佛颂 (1卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\一百五十赞佛颂 (1卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 4270,
+      "content_sha256": "e22c439f5d67d614370c15ce4f21c5e2d7a33407de62e8c228ad84f78c39740d"
+    },
+    {
+      "source_id": "c66ae11119ac9a0834f39f0c8ada30cf",
+      "source_path": "七佛赞呗伽他 (1卷)〖宋 法天译〗.txt",
+      "source_ref": "七佛赞呗伽他 (1卷)〖宋 法天译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\七佛赞呗伽他 (1卷)〖宋 法天译〗.txt",
+      "suffix": ".txt",
+      "chars": 1879,
+      "content_sha256": "75f97fa3b8a1a88075125f3cda2ac807273f071f61902670db31f1c1df5a8803"
+    },
+    {
+      "source_id": "dbc08aa03072bd8ac8f2e5af4539661a",
+      "source_path": "三弥底部论 (3卷)〖失译〗.txt",
+      "source_ref": "三弥底部论 (3卷)〖失译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\三弥底部论 (3卷)〖失译〗.txt",
+      "suffix": ".txt",
+      "chars": 15484,
+      "content_sha256": "c15d8d0876562dde472e9a768ad2ecc34403d373c76aa349e2c29ea1e54e5e43"
+    },
+    {
+      "source_id": "e32892973e3e172e190abe32408e8d18",
+      "source_path": "三身梵赞 (1卷)〖宋 法贤译〗.txt",
+      "source_ref": "三身梵赞 (1卷)〖宋 法贤译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\三身梵赞 (1卷)〖宋 法贤译〗.txt",
+      "suffix": ".txt",
+      "chars": 1251,
+      "content_sha256": "363eb9d4ec8f1259e70c327f55fa585ee7e42116a1ff78dd9b3a33570afc5b96"
+    },
+    {
+      "source_id": "fba31f064e53d9099ac216b1aa378253",
+      "source_path": "事师法五十颂 (1卷)〖宋 日称等译〗.txt",
+      "source_ref": "事师法五十颂 (1卷)〖宋 日称等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\事师法五十颂 (1卷)〖宋 日称等译〗.txt",
+      "suffix": ".txt",
+      "chars": 1628,
+      "content_sha256": "5a4b1b2b6f755a12a613f8554fe4f5061a9e8a7f54af21af6e9a7f561d38a5dd"
+    },
+    {
+      "source_id": "48df0376322ac1983490f9529c77d834",
+      "source_path": "佛一百八名赞 (1卷)〖宋 法天译〗.txt",
+      "source_ref": "佛一百八名赞 (1卷)〖宋 法天译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\佛一百八名赞 (1卷)〖宋 法天译〗.txt",
+      "suffix": ".txt",
+      "chars": 1325,
+      "content_sha256": "6673718644c55df0229b89c47a1f3924e76f6551d2dcb402a231221684ba9504"
+    },
+    {
+      "source_id": "a9e0143199efd5efa447e02f803f7a1e",
+      "source_path": "佛三身赞 (1卷)〖宋 法贤译〗.txt",
+      "source_ref": "佛三身赞 (1卷)〖宋 法贤译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\佛三身赞 (1卷)〖宋 法贤译〗.txt",
+      "suffix": ".txt",
+      "chars": 528,
+      "content_sha256": "4a2270fc459b1d33321444b379ebfd9ea265f3172db17e2b72d3308af8446851"
+    },
+    {
+      "source_id": "a6fcb11afb2e2b89ea2ecc8dad5c590d",
+      "source_path": "佛吉祥德赞 (3卷)〖宋 施护译〗.txt",
+      "source_ref": "佛吉祥德赞 (3卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\佛吉祥德赞 (3卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 9967,
+      "content_sha256": "def40db8ce1cc75956fcd26c73a93c5834068173ddb96f911c06334855024490"
+    },
+    {
+      "source_id": "17c0698dd18280d2d770f244a53252b2",
+      "source_path": "佛说八大灵塔名号经 (1卷)〖宋 法贤译〗.txt",
+      "source_ref": "佛说八大灵塔名号经 (1卷)〖宋 法贤译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\佛说八大灵塔名号经 (1卷)〖宋 法贤译〗.txt",
+      "suffix": ".txt",
+      "chars": 845,
+      "content_sha256": "c1811d1305bb0d4f25b9b1674839e1aab09496ff4427fee29eb8929f191abf22"
+    },
+    {
+      "source_id": "0db3decdfbacbd1a2f76a2b995cb374a",
+      "source_path": "佛说立世阿毗昙论 (10卷)〖陈 真谛译〗.txt",
+      "source_ref": "佛说立世阿毗昙论 (10卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\佛说立世阿毗昙论 (10卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 8569,
+      "content_sha256": "542a403e42e5629b21921efe9381ac71af8c07bdf0a1006ecb9829a13b20314d"
+    },
+    {
+      "source_id": "1a6726e25a18525594fc5deecf4b525d",
+      "source_path": "入大乘论 (2卷)〖北凉 道泰等译〗.txt",
+      "source_ref": "入大乘论 (2卷)〖北凉 道泰等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\入大乘论 (2卷)〖北凉 道泰等译〗.txt",
+      "suffix": ".txt",
+      "chars": 22093,
+      "content_sha256": "3aca70e00c3aedb91dd8be87efc04399d1cbaf2c42c9e3b9e8b0fc9d5f91e841"
+    },
+    {
+      "source_id": "c4e959557a9d1544e21992af9f61c7a3",
+      "source_path": "八大灵塔梵赞 (1卷)〖宋 法贤译〗.txt",
+      "source_ref": "八大灵塔梵赞 (1卷)〖宋 法贤译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\八大灵塔梵赞 (1卷)〖宋 法贤译〗.txt",
+      "suffix": ".txt",
+      "chars": 1525,
+      "content_sha256": "3cbd34a1c8dcfaaf43da2b3831b724996db5261648f1fb099f19ffbd2aacb731"
+    },
+    {
+      "source_id": "417e85991591ceb26bae3c6f7588196f",
+      "source_path": "劝发诸王要偈 (1卷)〖宋 僧伽跋摩译〗.txt",
+      "source_ref": "劝发诸王要偈 (1卷)〖宋 僧伽跋摩译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\劝发诸王要偈 (1卷)〖宋 僧伽跋摩译〗.txt",
+      "suffix": ".txt",
+      "chars": 3776,
+      "content_sha256": "757d416e93f9193ff90f7c7ec0e66eb31e9d072261e9010525557b4a222f186c"
+    },
+    {
+      "source_id": "28dc69afa63dca8aecc2ea68be94dcdb",
+      "source_path": "十二因缘论 (1卷)〖后魏 菩提流支译〗.txt",
+      "source_ref": "十二因缘论 (1卷)〖后魏 菩提流支译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\十二因缘论 (1卷)〖后魏 菩提流支译〗.txt",
+      "suffix": ".txt",
+      "chars": 1880,
+      "content_sha256": "3a8d614f9ad0c27ab8153ebb70ec4434968696a189143ead726d7d0a8dd56503"
+    },
+    {
+      "source_id": "79fabea266707a06e7f714bf48af5fb2",
+      "source_path": "发菩提心经论 (2卷)〖后秦 鸠摩罗什译〗.txt",
+      "source_ref": "发菩提心经论 (2卷)〖后秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\发菩提心经论 (2卷)〖后秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 14062,
+      "content_sha256": "70c750f9d18c217373bac6837d662a1593be04e899eb1524f35e85daeec4fbd3"
+    },
+    {
+      "source_id": "b8f81997584442b9ae6fd6a4f8768d35",
+      "source_path": "四谛论 (4卷)〖陈 真谛译〗.txt",
+      "source_ref": "四谛论 (4卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\四谛论 (4卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 40197,
+      "content_sha256": "a59df0ca99cabdd89b9d6fb8f36f6eacbc5f3fcfd5417416c77a27f17431bbba"
+    },
+    {
+      "source_id": "9760b1664ffe9c6a866aefaa4679372a",
+      "source_path": "回诤论 (1卷)〖后魏 毗目智仙共瞿昙流支译〗.txt",
+      "source_ref": "回诤论 (1卷)〖后魏 毗目智仙共瞿昙流支译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\回诤论 (1卷)〖后魏 毗目智仙共瞿昙流支译〗.txt",
+      "suffix": ".txt",
+      "chars": 13883,
+      "content_sha256": "d870149fc0a06626a7ca454bad4a613c44492892100fc7ac1a671872717747f5"
+    },
+    {
+      "source_id": "01f8b3d7ff1a66ab4ad278bbd28b3403",
+      "source_path": "因明入正理论 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "因明入正理论 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\因明入正理论 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 3527,
+      "content_sha256": "eb150c05845fe9d79f37e3a5e42d483c64ddfc54221f0a16bcf3fe82754515f6"
+    },
+    {
+      "source_id": "8ef02988deb5e573feab65c5cfa1ebc5",
+      "source_path": "因明正理门论 (1卷)〖唐 义净译〗.txt",
+      "source_ref": "因明正理门论 (1卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\因明正理门论 (1卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 8078,
+      "content_sha256": "f453bd37546eb78e75ae67cc1108a72365d522b87ce84aec9d390cff8ad9e968"
+    },
+    {
+      "source_id": "5ea114f757637752a595c7a63a726195",
+      "source_path": "因明正理门论本 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "因明正理门论本 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\因明正理门论本 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 7686,
+      "content_sha256": "a5f0894de6a408959a52cede62428540bec5836c4546d0011328b7aaa69827c7"
+    },
+    {
+      "source_id": "b2feb95ead1ebe5849984e2c2d382260",
+      "source_path": "因缘心论颂.因缘心论释 (1卷)〖〗.txt",
+      "source_ref": "因缘心论颂.因缘心论释 (1卷)〖〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\因缘心论颂.因缘心论释 (1卷)〖〗.txt",
+      "suffix": ".txt",
+      "chars": 1745,
+      "content_sha256": "8111183c7a62ca5c93e0f9ae97defcfdd1857e81dddb60062d34e1d67c8e860b"
+    },
+    {
+      "source_id": "9eec0993ddef75a844f02005babb226f",
+      "source_path": "大乘宝要义论 (10卷)〖宋 法护等译〗.txt",
+      "source_ref": "大乘宝要义论 (10卷)〖宋 法护等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\大乘宝要义论 (10卷)〖宋 法护等译〗.txt",
+      "suffix": ".txt",
+      "chars": 41043,
+      "content_sha256": "7210bc7f9f5b4c2cdd4415271ced89f4834e96510c19a3f0b49cc47a35e1a4b0"
+    },
+    {
+      "source_id": "1e337c82075a8de12400b4649aa44b05",
+      "source_path": "大乘缘生论 (1卷)〖唐 不空译〗.txt",
+      "source_ref": "大乘缘生论 (1卷)〖唐 不空译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\大乘缘生论 (1卷)〖唐 不空译〗.txt",
+      "suffix": ".txt",
+      "chars": 5376,
+      "content_sha256": "f70b03565d3f3796846acfbd315642771acb8debcefb3d5d0493e5035841bbf1"
+    },
+    {
+      "source_id": "042fb04906a1652e6a6072757bf99d83",
+      "source_path": "大乘起信论 (1卷)〖梁 真谛译〗.txt",
+      "source_ref": "大乘起信论 (1卷)〖梁 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\大乘起信论 (1卷)〖梁 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 12944,
+      "content_sha256": "3a027879af33c4292467a5ccc0e513e30b63adf9d807dbfe8b337df46f35fafd"
+    },
+    {
+      "source_id": "91a17d3a01f7f656a38b0a491cb8c87e",
+      "source_path": "大乘起信论 (2卷)〖唐 实叉难陀译〗.txt",
+      "source_ref": "大乘起信论 (2卷)〖唐 实叉难陀译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\大乘起信论 (2卷)〖唐 实叉难陀译〗.txt",
+      "suffix": ".txt",
+      "chars": 13402,
+      "content_sha256": "79777d4f8e9358b472ac1ea061fea4f3fcb8a61e2a4afe3aba7e965776ff1c5f"
+    },
+    {
+      "source_id": "a89149886b119b51bb1741c868a66c81",
+      "source_path": "大乘集菩萨学论 (25卷)〖宋 法护等译〗.txt",
+      "source_ref": "大乘集菩萨学论 (25卷)〖宋 法护等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\大乘集菩萨学论 (25卷)〖宋 法护等译〗.txt",
+      "suffix": ".txt",
+      "chars": 4936,
+      "content_sha256": "a7c5e3fcda88be8cc34fa4d6100de0513346ffc2cc248473ae88e64bd336771b"
+    },
+    {
+      "source_id": "88646870a0ba9cb35169131943b06f18",
+      "source_path": "大宗地玄文本论 (20卷)〖陈 真谛译〗.txt",
+      "source_ref": "大宗地玄文本论 (20卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\大宗地玄文本论 (20卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 34641,
+      "content_sha256": "d8dc3b1be59510859716ada372762bc1e5161999d5272058a43bf5aade54b267"
+    },
+    {
+      "source_id": "42914e7dc9c7e0c9d292f57bb5c03d3b",
+      "source_path": "如实论反质难品 (1卷)〖陈真 谛译〗.txt",
+      "source_ref": "如实论反质难品 (1卷)〖陈真 谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\如实论反质难品 (1卷)〖陈真 谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 12435,
+      "content_sha256": "2c34c8d75f418dfccf7e76bbb450cfd1c13e93bdc97b93b8b9fce9e8539a2c5d"
+    },
+    {
+      "source_id": "d5b897f422b214d8f37ec8e1baf9eb9c",
+      "source_path": "宝行王正论 (1卷)〖陈 真谛译〗.txt",
+      "source_ref": "宝行王正论 (1卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\宝行王正论 (1卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 13667,
+      "content_sha256": "ea0cc2c1763861977f2bca895af9a3ef0b523fe3fa0526e85fad6bb92686a89f"
+    },
+    {
+      "source_id": "7e59643d3bb20b79f31a5699e9048a97",
+      "source_path": "宾头卢突罗阇为优陀延王说法经 (1卷)〖刘宋 求那跋陀罗译〗.txt",
+      "source_ref": "宾头卢突罗阇为优陀延王说法经 (1卷)〖刘宋 求那跋陀罗译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\宾头卢突罗阇为优陀延王说法经 (1卷)〖刘宋 求那跋陀罗译〗.txt",
+      "suffix": ".txt",
+      "chars": 4269,
+      "content_sha256": "f9816a52ec5d03d80f2b4c16a0886a8d1fd5465dea1ce157a200f645f7869228"
+    },
+    {
+      "source_id": "027decdb74c5400a64abe8836329c6a2",
+      "source_path": "密宗道次第广论.txt",
+      "source_ref": "密宗道次第广论.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\密宗道次第广论.txt",
+      "suffix": ".txt",
+      "chars": 11026,
+      "content_sha256": "e38d11c7d2c9a8664afca19b76aa63d747dff76a4dfcc22fa05c6977b13d7a50"
+    },
+    {
+      "source_id": "4d4c4864f09fa0028ccb139c6ea791a8",
+      "source_path": "密迹力士大权神王经偈颂 (1卷)〖元 管主八撰〗.txt",
+      "source_ref": "密迹力士大权神王经偈颂 (1卷)〖元 管主八撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\密迹力士大权神王经偈颂 (1卷)〖元 管主八撰〗.txt",
+      "suffix": ".txt",
+      "chars": 9016,
+      "content_sha256": "94cd42654822321b5ba7da765e74141ac76d96bb16425139f2c4ba51bd0044c6"
+    },
+    {
+      "source_id": "fc1973c7a518edac93bcdbd207e204d7",
+      "source_path": "尼乾子问无我义经 (1卷)〖宋 日称译〗.txt",
+      "source_ref": "尼乾子问无我义经 (1卷)〖宋 日称译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\尼乾子问无我义经 (1卷)〖宋 日称译〗.txt",
+      "suffix": ".txt",
+      "chars": 1504,
+      "content_sha256": "1013cc8bebe128cdc6f863eec08083f1f0324bc9c8bcf825f09fff55e43b6ded"
+    },
+    {
+      "source_id": "18f6aae3e22b09566e8c01ce0894a47c",
+      "source_path": "广大发愿颂 (1卷)〖宋 施护等译〗.txt",
+      "source_ref": "广大发愿颂 (1卷)〖宋 施护等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\广大发愿颂 (1卷)〖宋 施护等译〗.txt",
+      "suffix": ".txt",
+      "chars": 898,
+      "content_sha256": "d1dc29be15f4484d6cd78767d03d1d6c55209b00a66011a3f7cbd5645e452bdd"
+    },
+    {
+      "source_id": "26b57b095722c39405848ad7818fc34c",
+      "source_path": "广释菩提心论 (4卷)〖宋 施护译〗.txt",
+      "source_ref": "广释菩提心论 (4卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\广释菩提心论 (4卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 14695,
+      "content_sha256": "bd1ddf201f60c9199692e7bc2bd29962d7b00645e2444838877a7c8ce908d774"
+    },
+    {
+      "source_id": "df1f57d119c2b322085934579791622d",
+      "source_path": "彰所知论 (2卷)〖元 沙罗巴译〗.txt",
+      "source_ref": "彰所知论 (2卷)〖元 沙罗巴译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\彰所知论 (2卷)〖元 沙罗巴译〗.txt",
+      "suffix": ".txt",
+      "chars": 22111,
+      "content_sha256": "ed65ed46daa7889d7ac12a7c49fe7dc7993aac92764c6a628f14131e7c12c3a2"
+    },
+    {
+      "source_id": "536338fef191fa358acd9e27491088c1",
+      "source_path": "成实论 (16卷)〖姚秦 鸠摩罗什译〗.txt",
+      "source_ref": "成实论 (16卷)〖姚秦 鸠摩罗什译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\成实论 (16卷)〖姚秦 鸠摩罗什译〗.txt",
+      "suffix": ".txt",
+      "chars": 13294,
+      "content_sha256": "674d63c668835a8a07a32cd4e227a3253c521ce5eee9924b17edf04c9676c640"
+    },
+    {
+      "source_id": "6df5e46800d143ae2dc732a4fa0b0c89",
+      "source_path": "手杖论 (1卷)〖唐 义净译〗.txt",
+      "source_ref": "手杖论 (1卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\手杖论 (1卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 3354,
+      "content_sha256": "dfb2305f11b332e24f030a9678fafa8fc090908e3ace8c865dd25b0ea4d316a5"
+    },
+    {
+      "source_id": "1ecb7fcb81767a631d8e20a11e03cef1",
+      "source_path": "提婆菩萨破楞伽经中外道小乘四宗论 (1卷)〖后魏 菩提流支译〗.txt",
+      "source_ref": "提婆菩萨破楞伽经中外道小乘四宗论 (1卷)〖后魏 菩提流支译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\提婆菩萨破楞伽经中外道小乘四宗论 (1卷)〖后魏 菩提流支译〗.txt",
+      "suffix": ".txt",
+      "chars": 2845,
+      "content_sha256": "8a2a966fb69639c73f4281b7c840a9d3bdca18cfb4000b21e4587caf27ed3423"
+    },
+    {
+      "source_id": "eea900809bf378c5e3c3dda712c2726a",
+      "source_path": "提婆菩萨释楞伽经中外道小乘涅槃论 (2卷)〖后魏 菩提流支译〗.txt",
+      "source_ref": "提婆菩萨释楞伽经中外道小乘涅槃论 (2卷)〖后魏 菩提流支译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\提婆菩萨释楞伽经中外道小乘涅槃论 (2卷)〖后魏 菩提流支译〗.txt",
+      "suffix": ".txt",
+      "chars": 2742,
+      "content_sha256": "39232432528109b4ad0cfd3008398287a6cad095cfe4e45f719911dd29404d4b"
+    },
+    {
+      "source_id": "a610b93ab021de0950b83f9eb3f95410",
+      "source_path": "揵稚梵赞 (1卷)〖宋 法贤译〗.txt",
+      "source_ref": "揵稚梵赞 (1卷)〖宋 法贤译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\揵稚梵赞 (1卷)〖宋 法贤译〗.txt",
+      "suffix": ".txt",
+      "chars": 5963,
+      "content_sha256": "ecf24f75b5995b139a4fcf41b9e792f49ac130c85bd28b9a901e3686e6ba4a59"
+    },
+    {
+      "source_id": "81a0407d4e0247834823761581445a16",
+      "source_path": "方便心论 (1卷)〖后魏 吉迦夜译〗.txt",
+      "source_ref": "方便心论 (1卷)〖后魏 吉迦夜译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\方便心论 (1卷)〖后魏 吉迦夜译〗.txt",
+      "suffix": ".txt",
+      "chars": 8941,
+      "content_sha256": "da5e496ee431ac090685befb602b79af72665755fe1bbec79f6465d9b4e0078d"
+    },
+    {
+      "source_id": "e74c5ca8e616f3cf9185e961029b2722",
+      "source_path": "止观门论颂 (1卷)〖唐 义净译〗.txt",
+      "source_ref": "止观门论颂 (1卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\止观门论颂 (1卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 2242,
+      "content_sha256": "2502e547cd1c136ef61ae4746eea6eddbd887076832ce56a28976606e10ec9f9"
+    },
+    {
+      "source_id": "60e3b3bf8db9adf712c495f5eda0c3b6",
+      "source_path": "现观庄严论.txt",
+      "source_ref": "现观庄严论.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\现观庄严论.txt",
+      "suffix": ".txt",
+      "chars": 7007,
+      "content_sha256": "b5f8250fdd78b8ca45483ce3f84b6edcbb2b96fe629ae5fb2b35ba289768abf8"
+    },
+    {
+      "source_id": "89e73a6524eb8ff2b1a48df2ff965560",
+      "source_path": "福盖正行所集经 (12卷)〖宋 日称等译〗.txt",
+      "source_ref": "福盖正行所集经 (12卷)〖宋 日称等译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\福盖正行所集经 (12卷)〖宋 日称等译〗.txt",
+      "suffix": ".txt",
+      "chars": 42458,
+      "content_sha256": "d9b6dbf32520a2e5ba73419d54cd54fb5d96372af088c3ead2fa3af36248ed44"
+    },
+    {
+      "source_id": "e230f9cb36a6d1d4572298f093268c5b",
+      "source_path": "缘生论 (1卷)〖隋 达磨笈多译〗.txt",
+      "source_ref": "缘生论 (1卷)〖隋 达磨笈多译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\缘生论 (1卷)〖隋 达磨笈多译〗.txt",
+      "suffix": ".txt",
+      "chars": 5985,
+      "content_sha256": "290b5369703118db80732950938061759cb36e7e90a8a400c20767a49f567f8a"
+    },
+    {
+      "source_id": "a19f4140b56ef02306d99bd8d001185a",
+      "source_path": "胜军化世百瑜伽他经 (1卷)〖宋 天息灾译〗.txt",
+      "source_ref": "胜军化世百瑜伽他经 (1卷)〖宋 天息灾译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\胜军化世百瑜伽他经 (1卷)〖宋 天息灾译〗.txt",
+      "suffix": ".txt",
+      "chars": 3598,
+      "content_sha256": "b9cae7e32a0f8350a530355ddaaa2f19c8ce82abfd583a5a3b6d8e9b99f7c8b7"
+    },
+    {
+      "source_id": "58c88c81f076d7c534255ffa837eec4f",
+      "source_path": "菩提心离相论 (1卷)〖宋 施护译〗.txt",
+      "source_ref": "菩提心离相论 (1卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\菩提心离相论 (1卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 4078,
+      "content_sha256": "67bbd52de735c9ee5d88438054d8889dddb8bb6028e70d4a237f87ad1581ade7"
+    },
+    {
+      "source_id": "b42aedbd84585f14c6878b9f7821ffbe",
+      "source_path": "菩提心观释 (1卷)〖宋 法天译〗.txt",
+      "source_ref": "菩提心观释 (1卷)〖宋 法天译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\菩提心观释 (1卷)〖宋 法天译〗.txt",
+      "suffix": ".txt",
+      "chars": 1500,
+      "content_sha256": "f15218b2c38dd9c08a1663459182521be1892c2053dff680da2f2481102bf40e"
+    },
+    {
+      "source_id": "ee3af1f642a5babfa08561afe6f79103",
+      "source_path": "菩提行经 (4卷)〖宋 天息灾译〗.txt",
+      "source_ref": "菩提行经 (4卷)〖宋 天息灾译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\菩提行经 (4卷)〖宋 天息灾译〗.txt",
+      "suffix": ".txt",
+      "chars": 21033,
+      "content_sha256": "0e257fad57920a100fb46f70e4f1e091db094e1c580dc68d2fa997b50cd07359"
+    },
+    {
+      "source_id": "abfd56d7802b8440d8807bfea8a25c0e",
+      "source_path": "菩提资粮论 (6卷)〖隋 达磨笈多译〗.txt",
+      "source_ref": "菩提资粮论 (6卷)〖隋 达磨笈多译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\菩提资粮论 (6卷)〖隋 达磨笈多译〗.txt",
+      "suffix": ".txt",
+      "chars": 35164,
+      "content_sha256": "4725c9ed18fbfaf1f3151e7cdff6bfd3ab1db92ac5aff82210f6dd8a706acb48"
+    },
+    {
+      "source_id": "3c1ec2e3f730a5e0547fcd886b89e876",
+      "source_path": "菩提道次第广论---全文.txt",
+      "source_ref": "菩提道次第广论---全文.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\菩提道次第广论---全文.txt",
+      "suffix": ".txt",
+      "chars": 23455,
+      "content_sha256": "f0d52b44bd6472a6e45b0a2b260f191d71fe81aaa6146b788f8d4622e1110d55"
+    },
+    {
+      "source_id": "b922da2b5c3ba6f706cb753c1ce014c4",
+      "source_path": "解脱道论 (12卷)〖梁 僧伽婆罗译〗.txt",
+      "source_ref": "解脱道论 (12卷)〖梁 僧伽婆罗译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\解脱道论 (12卷)〖梁 僧伽婆罗译〗.txt",
+      "suffix": ".txt",
+      "chars": 8124,
+      "content_sha256": "c2a03647d31c95a943f2ab21d79238a951d7a439a6507adc8d6a4dc2f6c5383e"
+    },
+    {
+      "source_id": "5b32d5ac291f39386409e5ac56a26f8e",
+      "source_path": "请宾头卢法 (1卷)〖刘宋 慧简译〗.txt",
+      "source_ref": "请宾头卢法 (1卷)〖刘宋 慧简译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\请宾头卢法 (1卷)〖刘宋 慧简译〗.txt",
+      "suffix": ".txt",
+      "chars": 957,
+      "content_sha256": "c0116b48d5f000405c7c61b574358a26a0fd6802a5fe0347d4c0805ef2f88dfa"
+    },
+    {
+      "source_id": "b95f55c406cbc21862bb662a9e8d9e3d",
+      "source_path": "诸教决定名义论 (1卷)〖宋 施护译〗.txt",
+      "source_ref": "诸教决定名义论 (1卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\诸教决定名义论 (1卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 2153,
+      "content_sha256": "87ba2791aeea0eebaa109f87b583f85f817a3a93b65429df5e62b9cff9ef0312"
+    },
+    {
+      "source_id": "15a616e3390cef66d59bf40017033658",
+      "source_path": "贤圣集伽陀一百颂 (1卷)〖宋 天息灾译〗.txt",
+      "source_ref": "贤圣集伽陀一百颂 (1卷)〖宋 天息灾译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\贤圣集伽陀一百颂 (1卷)〖宋 天息灾译〗.txt",
+      "suffix": ".txt",
+      "chars": 3065,
+      "content_sha256": "7c9fba4249c084a3fa185d9ce57812ccb56f116a2e01590318088a9f03531157"
+    },
+    {
+      "source_id": "916bd4cc23ef9e7172233b5b5630646f",
+      "source_path": "赞法界颂 (1卷)〖宋 施护译〗.txt",
+      "source_ref": "赞法界颂 (1卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\赞法界颂 (1卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 2511,
+      "content_sha256": "e786513875321d831e41c6e8a38403328c628fc321a26a8a5cb85baae4614a45"
+    },
+    {
+      "source_id": "8227c1f5310bac7ae24c14844a7f214a",
+      "source_path": "辟支佛因缘论 (2卷)〖失译〗.txt",
+      "source_ref": "辟支佛因缘论 (2卷)〖失译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\辟支佛因缘论 (2卷)〖失译〗.txt",
+      "suffix": ".txt",
+      "chars": 10788,
+      "content_sha256": "515f092607d6fe3de58f5e6d1be2e98fa61ccaabb757188ab80700f2d3a96e90"
+    },
+    {
+      "source_id": "9af02166f3e1ccf354a3f1bf16ff1940",
+      "source_path": "迦叶仙人说医女人经 (1卷)〖宋 法贤译〗.txt",
+      "source_ref": "迦叶仙人说医女人经 (1卷)〖宋 法贤译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\迦叶仙人说医女人经 (1卷)〖宋 法贤译〗.txt",
+      "suffix": ".txt",
+      "chars": 1589,
+      "content_sha256": "809c18dc8114609ddc4d583bd3c0daf91a2de06cac3b69a8b32a8e8a9ec11b9c"
+    },
+    {
+      "source_id": "6c10307c2f14d75fdb56fbc0adc8cc0d",
+      "source_path": "那先比丘经 (2卷)〖失译〗.txt",
+      "source_ref": "那先比丘经 (2卷)〖失译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\那先比丘经 (2卷)〖失译〗.txt",
+      "suffix": ".txt",
+      "chars": 16093,
+      "content_sha256": "1b4cb7f7705cb71727b28aef9121179d368f5c084fde1bf46de74631f21c889d"
+    },
+    {
+      "source_id": "a2bbd0c6abd52a65ec31976196e3ed0e",
+      "source_path": "那先比丘经 (3卷)〖失译〗.txt",
+      "source_ref": "那先比丘经 (3卷)〖失译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\那先比丘经 (3卷)〖失译〗.txt",
+      "suffix": ".txt",
+      "chars": 25326,
+      "content_sha256": "25345af33593927156d0324a70a565dc5ada0bafd8c463f4d35044267019c1e3"
+    },
+    {
+      "source_id": "4ad6e78014d677b5d13555d802dada5f",
+      "source_path": "释摩诃衍论 (10卷)〖姚秦 筏提摩多译〗.txt",
+      "source_ref": "释摩诃衍论 (10卷)〖姚秦 筏提摩多译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\释摩诃衍论 (10卷)〖姚秦 筏提摩多译〗.txt",
+      "suffix": ".txt",
+      "chars": 15822,
+      "content_sha256": "f2748276088f29af8b1a1c3c20573090d912970198eebdad4fa2fb13cc218b4d"
+    },
+    {
+      "source_id": "fb0594e64fd2957a9ff17459c13160f4",
+      "source_path": "金刚针论 (1卷)〖宋 法天译〗.txt",
+      "source_ref": "金刚针论 (1卷)〖宋 法天译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\金刚针论 (1卷)〖宋 法天译〗.txt",
+      "suffix": ".txt",
+      "chars": 4306,
+      "content_sha256": "667e3622cff1f12b25275ac7b004f622de2693e4dc5273f5ec4a18bb7baac66c"
+    },
+    {
+      "source_id": "3cc501384df0fbe6871e87f55a0011d4",
+      "source_path": "金刚顶瑜伽中发阿耨多罗三藐三菩提心论 (1卷)〖唐 不空译〗.txt",
+      "source_ref": "金刚顶瑜伽中发阿耨多罗三藐三菩提心论 (1卷)〖唐 不空译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\金刚顶瑜伽中发阿耨多罗三藐三菩提心论 (1卷)〖唐 不空译〗.txt",
+      "suffix": ".txt",
+      "chars": 3894,
+      "content_sha256": "790a213f333876dd2d8691850fe6d39e6a2720f469d86222efb168be291c37ce"
+    },
+    {
+      "source_id": "31681d910f1afcace797ef3197b6b1bd",
+      "source_path": "随相论（解十六谛义） (1卷)〖陈 真谛译〗.txt",
+      "source_ref": "随相论（解十六谛义） (1卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\随相论（解十六谛义） (1卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 18432,
+      "content_sha256": "6fbe69f5433feaf472e24db552c1955161f5b622c772c576908e66fa0250c331"
+    },
+    {
+      "source_id": "96ace308cb86caa76cc67e115c5d63df",
+      "source_path": "集大乘相论 (2卷)〖宋 施护译〗.txt",
+      "source_ref": "集大乘相论 (2卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\集大乘相论 (2卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 7707,
+      "content_sha256": "ab8010d12a2003f4685bd4eed560fd7fd0bc0e28a992323fc333c1c9a3ad037a"
+    },
+    {
+      "source_id": "b7583929f2efd5d68478da0e78399549",
+      "source_path": "集诸法宝最上义论 (2卷)〖宋 施护译〗.txt",
+      "source_ref": "集诸法宝最上义论 (2卷)〖宋 施护译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\集诸法宝最上义论 (2卷)〖宋 施护译〗.txt",
+      "suffix": ".txt",
+      "chars": 7949,
+      "content_sha256": "ccd61dcdc2e71b2371fbcd3f18feff554e688ecf8fa37f2cd9a633dd929cfc3c"
+    },
+    {
+      "source_id": "099b0f41bb9df011e1ae41792710a415",
+      "source_path": "龙树菩萨为禅陀迦王说法要偈 (1卷)〖宋 求那跋摩译〗.txt",
+      "source_ref": "龙树菩萨为禅陀迦王说法要偈 (1卷)〖宋 求那跋摩译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\龙树菩萨为禅陀迦王说法要偈 (1卷)〖宋 求那跋摩译〗.txt",
+      "suffix": ".txt",
+      "chars": 4038,
+      "content_sha256": "706650887dfbb42f2aeac2c526f3cbde1262486b6c338c330245b23aba56095a"
+    },
+    {
+      "source_id": "8ab0bebc3c0bc0c7c1ad0b01db16a053",
+      "source_path": "龙树菩萨劝诫王颂 (1卷)〖唐 义净译〗.txt",
+      "source_ref": "龙树菩萨劝诫王颂 (1卷)〖唐 义净译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\论集部\\龙树菩萨劝诫王颂 (1卷)〖唐 义净译〗.txt",
+      "suffix": ".txt",
+      "chars": 3908,
+      "content_sha256": "1aa5d9fc2cc8ceee1aafb14da0ffdb5ef3d161e189c8dc6277a81c6cf606eb9d"
+    }
+  ]
+}

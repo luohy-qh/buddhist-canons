@@ -1,0 +1,55 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-07-03T13:07:44",
+  "source_count": 5,
+  "chunk_count": 19,
+  "max_chars": 4000,
+  "overlap_chars": 200,
+  "sources": [
+    {
+      "source_id": "da214f3668e90a4501d99ed3c74ca24a",
+      "source_path": "六字大明咒全文---注音（南公怀瑾老师传授）.txt",
+      "source_ref": "六字大明咒全文---注音（南公怀瑾老师传授）.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\佛教咒语\\六字大明咒全文---注音（南公怀瑾老师传授）.txt",
+      "suffix": ".txt",
+      "chars": 265,
+      "content_sha256": "687e03150a2eb91e52e2d054bffaf64ff9394cf4ec3cc2c3add45214b12bd290"
+    },
+    {
+      "source_id": "32134849ce4b07f62c4ac9b4ce255e1c",
+      "source_path": "准提咒全文---注音（南公怀瑾老师传授）.txt",
+      "source_ref": "准提咒全文---注音（南公怀瑾老师传授）.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\佛教咒语\\准提咒全文---注音（南公怀瑾老师传授）.txt",
+      "suffix": ".txt",
+      "chars": 386,
+      "content_sha256": "79d0c4b5fe8bbee6b41ba7a72ed435595d4fe046d0634f9c53cbc04a11196692"
+    },
+    {
+      "source_id": "71fd8fa27ec613f195db6e9eab662350",
+      "source_path": "大悲咒全文--大悲咒注音.txt",
+      "source_ref": "大悲咒全文--大悲咒注音.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\佛教咒语\\大悲咒全文--大悲咒注音.txt",
+      "suffix": ".txt",
+      "chars": 3246,
+      "content_sha256": "be11b35425c5d14111250078fdf7f141898a9ebde9f2222af50c1da5606b4fa2"
+    },
+    {
+      "source_id": "c785cce525524de1f010104021648dea",
+      "source_path": "楞严咒全文---注音.txt",
+      "source_ref": "楞严咒全文---注音.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\佛教咒语\\楞严咒全文---注音.txt",
+      "suffix": ".txt",
+      "chars": 17389,
+      "content_sha256": "a9321595f70a5f25525c97ee3c678fbdb2ef05da52f07329fbe872841572bccf"
+    },
+    {
+      "source_id": "ef297c83aba4ef9b89d355557b13fe78",
+      "source_path": "药师咒全文---注音（南公怀瑾老师传授）.txt",
+      "source_ref": "药师咒全文---注音（南公怀瑾老师传授）.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\佛教咒语\\药师咒全文---注音（南公怀瑾老师传授）.txt",
+      "suffix": ".txt",
+      "chars": 517,
+      "content_sha256": "43e6bdc0bc56323f378b3269cfa0f930656f2f5df45fe380743aa44d55ea4b18"
+    }
+  ]
+}

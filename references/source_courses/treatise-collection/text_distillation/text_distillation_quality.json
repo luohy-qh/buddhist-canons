@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-07-04T10:39:27",
+  "source_count": 69,
+  "chunk_count": 349,
+  "card_count": 2752,
+  "card_counts": {
+    "boundary": 284,
+    "case": 303,
+    "concept": 909,
+    "diagnostic": 65,
+    "failure_mode": 31,
+    "method": 263,
+    "open_question": 15,
+    "quote": 744,
+    "rubric": 12,
+    "task": 46,
+    "template": 10,
+    "transfer": 11,
+    "workflow": 59
+  },
+  "empty_chunk_count": 0,
+  "llm_used": false,
+  "llm_failures": 1,
+  "status": "usable"
+}
