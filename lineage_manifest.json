@@ -1,0 +1,68 @@
+{
+  "schema_version": "0.1",
+  "course_name": "buddhist-canons",
+  "skill_name": "buddhist-canons-mentor-practitioner-lineage",
+  "roles": [
+    "mentor",
+    "practitioner"
+  ],
+  "modes": [
+    "mentor",
+    "practitioner"
+  ],
+  "scope": "multi-course",
+  "evidence_strategy": "standard",
+  "progress_strategy": "tracked",
+  "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\combined",
+  "generated_at": "2026-07-05T07:09:57",
+  "generated_by": {
+    "id": "lineage-skill",
+    "repository": "https://github.com/JuneYaooo/lineage-skill",
+    "script": "scripts/build_course_skill.py"
+  },
+  "provenance": {
+    "watermark": "lineage-skill:course-skill-builder:v0.1",
+    "watermark_visibility": "manifest-only",
+    "source_package": "D:\\minimax\\课程蒸馏\\.lineage\\combined\\course_package.json",
+    "note": "This packaged course Skill was generated from course materials by lineage-skill."
+  },
+  "reference_status": {
+    "course_package.json": "copied",
+    "course_digest.md": "copied",
+    "full_transcript.md": "stubbed",
+    "concept_glossary.md": "stubbed",
+    "quote_index.md": "stubbed",
+    "study_paths.md": "stubbed",
+    "lesson_index.json": "stubbed",
+    "evidence_map.json": "copied",
+    "source_courses/abhidharma/": "copied",
+    "source_courses/agama/": "copied",
+    "source_courses/apocrypha/": "copied",
+    "source_courses/avadana/": "copied",
+    "source_courses/dharani/": "copied",
+    "source_courses/esoteric/": "copied",
+    "source_courses/history/": "copied",
+    "source_courses/lotus-avatamsaka/": "copied",
+    "source_courses/madhyamaka-yoga/": "copied",
+    "source_courses/mahavaipulya/": "copied",
+    "source_courses/misc-nonbuddhist-catalogue/": "copied",
+    "source_courses/prajnaparamita/": "copied",
+    "source_courses/ratnakuta-nirvana/": "copied",
+    "source_courses/schools/": "copied",
+    "source_courses/sutra-collection/": "copied",
+    "source_courses/sutra-commentary/": "copied",
+    "source_courses/treatise-collection/": "copied",
+    "source_courses/vinaya/": "copied",
+    "source_courses/vinaya-commentary-treatise-commentary/": "copied",
+    "mentor_playbook.md": "stubbed",
+    "mentor_sessions.md": "stubbed",
+    "learner_progress.json": "stubbed",
+    "playbooks.md": "stubbed",
+    "checklists.md": "stubbed",
+    "templates.md": "stubbed",
+    "case_index.json": "stubbed",
+    "okf/": "generated 27475 concepts, 0 evidence chunks",
+    "scripts/search_course_notes.py": "generated",
+    "scripts/fetch_course_evidence.py": "copied"
+  }
+}

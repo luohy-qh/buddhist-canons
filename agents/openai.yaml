@@ -1,0 +1,7 @@
+interface:
+  display_name: "buddhist-canons Course Skill"
+  short_description: "Source-grounded course Q&A, review, and workflows."
+  default_prompt: "Use $buddhist-canons-mentor-practitioner-lineage to answer questions about buddhist-canons and cite the course sources."
+
+policy:
+  allow_implicit_invocation: true
