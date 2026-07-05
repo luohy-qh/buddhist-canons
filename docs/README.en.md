@@ -120,4 +120,10 @@ Deep gratitude to the translators and masters across the ages, and to everyone w
 
 ---
 
+## Contributing
+
+Confucian, Buddhist, and Daoist learners, researchers, and developers interested in knowledge distillation, Agent Skills, source-traceable retrieval, and AI-assisted study are welcome to maintain this project together. Contributions — corrections to OCR/transcription errors, scripture-name or translator verification, citation checks, retrieval experience, prompts and index structure — are welcome via issues or PRs. All contributions remain within the boundary of study, retrieval, and citation verification; this project does not provide doctrinal rulings or practice instruction.
+
+---
+
 *Distilled with [lineage-skill](https://github.com/JuneYaooo/lineage-skill) · for non-commercial study and exchange only.*
