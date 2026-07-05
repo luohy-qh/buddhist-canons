@@ -9,7 +9,10 @@ Claude Code / Codex / OpenCode 等 Agent Skill。装进 agent 后，可以用自
 [![Skill](https://img.shields.io/badge/Agent-Skill-orange.svg)](./SKILL.md)
 [![Canon](https://img.shields.io/badge/大藏经-19部-8a2be2.svg)](./SKILL.md)
 [![Cards](https://img.shields.io/badge/证据卡-97540-blue.svg)](./references/citation_index.json)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENSE)
 [![Lineage](https://img.shields.io/badge/distilled--by-lineage--skill-green.svg)](https://github.com/JuneYaooo/lineage-skill)
+
+**English** → [docs/README.en.md](./docs/README.en.md)
 
 </div>
 
@@ -167,7 +170,7 @@ python scripts/fetch_course_evidence.py --chunk-id <id>
 
 ## 版权与用途说明
 
-本项目仅作个人修学、资料整理与技术交流使用，不作商业用途。所收录经典文本版权/公共领域状态归原权利人或相应来源所有；如有不适宜公开的内容，请联系删除。
+本项目仅作个人修学、资料整理与技术交流使用，不作商业用途。采用 [CC BY-NC-SA 4.0](./LICENSE) 许可：署名—非商业—相同方式共享。本项目原创的蒸馏、索引与工具部分适用该许可，不主张对经典原文本身的任何专有权利；所收录经典文本版权/公共领域状态归原权利人或相应来源所有；如有不适宜公开的内容，请联系删除。
 
 ## 项目缘起
 
