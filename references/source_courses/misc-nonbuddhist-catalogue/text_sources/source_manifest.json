@@ -1,0 +1,604 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-07-04T01:49:21",
+  "source_count": 66,
+  "chunk_count": 387,
+  "max_chars": 4000,
+  "overlap_chars": 200,
+  "sources": [
+    {
+      "source_id": "85585c4442180e52645aff5527251fdd",
+      "source_path": "-2133a54.P1190.txt",
+      "source_ref": "-2133a54.P1190.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\-2133a54.P1190.txt",
+      "suffix": ".txt",
+      "chars": 5733,
+      "content_sha256": "59336bb219772746f5b979672d80f24813ef1d165ffa8c0ffa5e83e900ee8886"
+    },
+    {
+      "source_id": "184466538ddb390939cd5d6fb17d161e",
+      "source_path": "三论宗章疏 (1卷)〖日本 安远录〗.txt",
+      "source_ref": "三论宗章疏 (1卷)〖日本 安远录〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\三论宗章疏 (1卷)〖日本 安远录〗.txt",
+      "suffix": ".txt",
+      "chars": 1410,
+      "content_sha256": "532746bbee6386f641b9c24477f9d062c11e806e3e09293bfab3d188dda07d2c"
+    },
+    {
+      "source_id": "365607c4cfc1ab8af5ee2d32069dc347",
+      "source_path": "东域传灯目录 (1卷)〖日本 永超集〗.txt",
+      "source_ref": "东域传灯目录 (1卷)〖日本 永超集〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\东域传灯目录 (1卷)〖日本 永超集〗.txt",
+      "suffix": ".txt",
+      "chars": 28335,
+      "content_sha256": "c9844eed3a31ff31cc64b614f9bd9b7b9c88e9f66f3b4e3499c8ebbaa73990dd"
+    },
+    {
+      "source_id": "51c9a233128107be9ee53e72e39267ba",
+      "source_path": "众经目录 (5卷)〖唐 静泰撰〗.txt",
+      "source_ref": "众经目录 (5卷)〖唐 静泰撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\众经目录 (5卷)〖唐 静泰撰〗.txt",
+      "suffix": ".txt",
+      "chars": 12423,
+      "content_sha256": "15e923b8eb08fdc804035de34553cd17fe1d7630fcf518606a7fe4e5ade2c4ab"
+    },
+    {
+      "source_id": "c60577e37e1191e29acfd6a85a658b3a",
+      "source_path": "众经目录 (5卷)〖隋 彦琮撰〗.txt",
+      "source_ref": "众经目录 (5卷)〖隋 彦琮撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\众经目录 (5卷)〖隋 彦琮撰〗.txt",
+      "suffix": ".txt",
+      "chars": 33646,
+      "content_sha256": "26722a5f5db3ae3f2fed5eccb3f20dd0d05235d2b8faa46f37fd7e6016a7abe6"
+    },
+    {
+      "source_id": "b2e3f96b6dcdf26dec94fcc5db81ec2d",
+      "source_path": "众经目录 (7卷)〖隋 法经等撰〗.txt",
+      "source_ref": "众经目录 (7卷)〖隋 法经等撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\众经目录 (7卷)〖隋 法经等撰〗.txt",
+      "suffix": ".txt",
+      "chars": 41643,
+      "content_sha256": "a953be76c7c915b998f5e0b8e27aef88cda86e66d38553dd738233e58c049373"
+    },
+    {
+      "source_id": "7418a31001c87d75f3abfb9e94c3f062",
+      "source_path": "传教大师将来台州录 (1卷)〖日本 最澄撰〗.txt",
+      "source_ref": "传教大师将来台州录 (1卷)〖日本 最澄撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\传教大师将来台州录 (1卷)〖日本 最澄撰〗.txt",
+      "suffix": ".txt",
+      "chars": 5145,
+      "content_sha256": "bbda4f0d6853f622b58dfd6ee5f83b1083a5952b934afc070769e32dc6eb5d6f"
+    },
+    {
+      "source_id": "b8e127243a490f5b8df2d6bc73ab4dc5",
+      "source_path": "传教大师将来越州录 (1卷)〖日本 最澄撰〗.txt",
+      "source_ref": "传教大师将来越州录 (1卷)〖日本 最澄撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\传教大师将来越州录 (1卷)〖日本 最澄撰〗.txt",
+      "suffix": ".txt",
+      "chars": 2833,
+      "content_sha256": "c9c48e79342a3462602e07771c20c3d2785712deb3edd613dad58247a63b400e"
+    },
+    {
+      "source_id": "c0378a10bcffe5fdaa59c48a1d354af7",
+      "source_path": "入唐新求圣教目录 (1卷)〖日本 圆仁撰〗.txt",
+      "source_ref": "入唐新求圣教目录 (1卷)〖日本 圆仁撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\入唐新求圣教目录 (1卷)〖日本 圆仁撰〗.txt",
+      "suffix": ".txt",
+      "chars": 12619,
+      "content_sha256": "d49e18d25b132d1d7726de16403a44f0756acfecb6953a9c981f66e4ce08fdb8"
+    },
+    {
+      "source_id": "fb02e4fe9a56777b4b4df9fadb1f73bf",
+      "source_path": "出三藏记集 (15卷)〖梁 僧佑撰〗.txt",
+      "source_ref": "出三藏记集 (15卷)〖梁 僧佑撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\出三藏记集 (15卷)〖梁 僧佑撰〗.txt",
+      "suffix": ".txt",
+      "chars": 7237,
+      "content_sha256": "c5fae51cdea06cb60bdae385d47c46fa752ed3f636f5d20a94fd17d121d6edef"
+    },
+    {
+      "source_id": "a016be16fdb86bf784f69961eb996fab",
+      "source_path": "华严宗章疏并因明录 (1卷)〖日本 圆超录〗.txt",
+      "source_ref": "华严宗章疏并因明录 (1卷)〖日本 圆超录〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\华严宗章疏并因明录 (1卷)〖日本 圆超录〗.txt",
+      "suffix": ".txt",
+      "chars": 3841,
+      "content_sha256": "dc288314b6b992e9724127b76c8ff2a59627b93a05e39d7bff468b39cdc1ca4e"
+    },
+    {
+      "source_id": "719543706cd0d338b0aa40a612477fe0",
+      "source_path": "南海寄归内法传 (4卷)〖唐 义净撰〗.txt",
+      "source_ref": "南海寄归内法传 (4卷)〖唐 义净撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\南海寄归内法传 (4卷)〖唐 义净撰〗.txt",
+      "suffix": ".txt",
+      "chars": 47372,
+      "content_sha256": "46b46e7411fd2b9b4f50cd6e1adc209a50a8f088992944b813e131ccd2a97dad"
+    },
+    {
+      "source_id": "ff36ee498a7413ba9398ebcda09e544e",
+      "source_path": "古今译经图纪 (4卷)〖唐 靖迈撰〗.txt",
+      "source_ref": "古今译经图纪 (4卷)〖唐 靖迈撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\古今译经图纪 (4卷)〖唐 靖迈撰〗.txt",
+      "suffix": ".txt",
+      "chars": 40670,
+      "content_sha256": "9e534ddc6120048fba2c5be77f0713638cfced652414ddd548039c122420c749"
+    },
+    {
+      "source_id": "ca82ad020701ed174371cf08cc631003",
+      "source_path": "唐梵两语双对集 (1卷)〖唐 僧怛多檗多．波罗瞿那弥舍沙集〗.txt",
+      "source_ref": "唐梵两语双对集 (1卷)〖唐 僧怛多檗多．波罗瞿那弥舍沙集〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\唐梵两语双对集 (1卷)〖唐 僧怛多檗多．波罗瞿那弥舍沙集〗.txt",
+      "suffix": ".txt",
+      "chars": 7658,
+      "content_sha256": "55919c8618e3a6c703963622f8a5536a20d0a8df30490ca6a76c6b4dd15202c4"
+    },
+    {
+      "source_id": "ea396668afb694ae2d02a81979ddef34",
+      "source_path": "唐梵文字 (1卷)〖唐 全真集〗.txt",
+      "source_ref": "唐梵文字 (1卷)〖唐 全真集〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\唐梵文字 (1卷)〖唐 全真集〗.txt",
+      "suffix": ".txt",
+      "chars": 26674,
+      "content_sha256": "c7110e6216253cf878c9094f0790a8e4aa07d616290470ea29701aea70cfc0d3"
+    },
+    {
+      "source_id": "3e613629df4c80675a0ce92447838570",
+      "source_path": "大周刊定众经目录 (15卷)〖唐 明佺等撰〗.txt",
+      "source_ref": "大周刊定众经目录 (15卷)〖唐 明佺等撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\大周刊定众经目录 (15卷)〖唐 明佺等撰〗.txt",
+      "suffix": ".txt",
+      "chars": 9568,
+      "content_sha256": "1d611afbe659360a163f3c04045b22373cc8058632a207c94eda6f056181bd49"
+    },
+    {
+      "source_id": "b3380c98c523219087c573a0372f4d4b",
+      "source_path": "大唐内典录 (10卷)〖唐 道宣撰〗.txt",
+      "source_ref": "大唐内典录 (10卷)〖唐 道宣撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\大唐内典录 (10卷)〖唐 道宣撰〗.txt",
+      "suffix": ".txt",
+      "chars": 10560,
+      "content_sha256": "92e15965a1f2732a098f7e5a83659af43e8546478ee0c1d1ada648a5fa95757b"
+    },
+    {
+      "source_id": "b1fb8c09a0f40c81bbece8c6657b54a0",
+      "source_path": "大唐贞元续开元释教录 (3卷)〖唐 圆照集〗.txt",
+      "source_ref": "大唐贞元续开元释教录 (3卷)〖唐 圆照集〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\大唐贞元续开元释教录 (3卷)〖唐 圆照集〗.txt",
+      "suffix": ".txt",
+      "chars": 34195,
+      "content_sha256": "70f456f30b79f6b3d390513c22793ec12c5890035e6b844a5a2c0c1cbc8cfd2e"
+    },
+    {
+      "source_id": "ea2b5c78e254db6123d1dd90f0c0141d",
+      "source_path": "大宋僧史略 (3卷)〖宋 赞宁撰〗.txt",
+      "source_ref": "大宋僧史略 (3卷)〖宋 赞宁撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\大宋僧史略 (3卷)〖宋 赞宁撰〗.txt",
+      "suffix": ".txt",
+      "chars": 38171,
+      "content_sha256": "c37d21120c40ecadc027c294fc1c6c3b406d91efe4ff44dc371662022d45c7c2"
+    },
+    {
+      "source_id": "ba688457c59c19028cb00b21617b18f5",
+      "source_path": "大秦景教流行中国碑颂 (1卷)〖唐 景净述〗.txt",
+      "source_ref": "大秦景教流行中国碑颂 (1卷)〖唐 景净述〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\大秦景教流行中国碑颂 (1卷)〖唐 景净述〗.txt",
+      "suffix": ".txt",
+      "chars": 2664,
+      "content_sha256": "3e1f0942127aa8dbc34a49fda36641c1d1569e39ce39fc07db25a32434a38dc7"
+    },
+    {
+      "source_id": "86d8709805f5b1827438afdc307d1ae0",
+      "source_path": "天台宗章疏 (1卷)〖日本 玄日录〗.txt",
+      "source_ref": "天台宗章疏 (1卷)〖日本 玄日录〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\天台宗章疏 (1卷)〖日本 玄日录〗.txt",
+      "suffix": ".txt",
+      "chars": 2694,
+      "content_sha256": "c16a2a75442559c21b1a250d76aa3005977bcf22a3557b12cf07c2f47b3afb30"
+    },
+    {
+      "source_id": "8c17acbe938819ff63b829733dc5f9d5",
+      "source_path": "常晓和尚请来目录 (1卷)〖日本 常晓撰〗.txt",
+      "source_ref": "常晓和尚请来目录 (1卷)〖日本 常晓撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\常晓和尚请来目录 (1卷)〖日本 常晓撰〗.txt",
+      "suffix": ".txt",
+      "chars": 4158,
+      "content_sha256": "0dbb1e0b3050af6dfc2d8487e2302d9a58e7645201b8058f92b611547f7b2f88"
+    },
+    {
+      "source_id": "17a1fe70a19da7de81b7fd6ac59c98a2",
+      "source_path": "序听迷诗所经 (1卷)〖〗.txt",
+      "source_ref": "序听迷诗所经 (1卷)〖〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\序听迷诗所经 (1卷)〖〗.txt",
+      "suffix": ".txt",
+      "chars": 3543,
+      "content_sha256": "1819aff01a046b7ceba2e1fb85ce0deecac60e3b231b414534dc3aee09213325"
+    },
+    {
+      "source_id": "29ebcfbb857e91495d392c27dac6f16f",
+      "source_path": "开元寺求得经疏记等目录 (1卷)〖日本 圆珍撰〗.txt",
+      "source_ref": "开元寺求得经疏记等目录 (1卷)〖日本 圆珍撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\开元寺求得经疏记等目录 (1卷)〖日本 圆珍撰〗.txt",
+      "suffix": ".txt",
+      "chars": 986,
+      "content_sha256": "7568f9c26d64d4acc857b29b517e9d858857d53a7417c2238fc63c492cc237c4"
+    },
+    {
+      "source_id": "8b4cff419968dbfe82b3a7cd934f5fb1",
+      "source_path": "开元释教录 (20卷)〖唐 智升撰〗.txt",
+      "source_ref": "开元释教录 (20卷)〖唐 智升撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\开元释教录 (20卷)〖唐 智升撰〗.txt",
+      "suffix": ".txt",
+      "chars": 17373,
+      "content_sha256": "76472548a107ee7791c65987065e9e8f604894bdd86bc322c99f0d53e8bdcdd4"
+    },
+    {
+      "source_id": "be49f064642cc2ff51635e8da9fa490f",
+      "source_path": "开元释教录略出 (5卷)〖唐 智升撰〗.txt",
+      "source_ref": "开元释教录略出 (5卷)〖唐 智升撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\开元释教录略出 (5卷)〖唐 智升撰〗.txt",
+      "suffix": ".txt",
+      "chars": 32149,
+      "content_sha256": "d0588e8325daa4c773c0d0f828824116dbffde682f80c1ed37f60136ca170496"
+    },
+    {
+      "source_id": "372f2f503bbb3fe3f0d296e721a57aa6",
+      "source_path": "录外经等目录 (1卷)〖〗.txt",
+      "source_ref": "录外经等目录 (1卷)〖〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\录外经等目录 (1卷)〖〗.txt",
+      "suffix": ".txt",
+      "chars": 1831,
+      "content_sha256": "bd8c8dc0596972140447b5d4b87fcb54a127c259684a3f2b75d0529ea4f5faa6"
+    },
+    {
+      "source_id": "c36335ba549ba78ec3f8e5a26cc6853c",
+      "source_path": "律宗章疏 (1卷)〖日本 荣稳录〗.txt",
+      "source_ref": "律宗章疏 (1卷)〖日本 荣稳录〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\律宗章疏 (1卷)〖日本 荣稳录〗.txt",
+      "suffix": ".txt",
+      "chars": 1314,
+      "content_sha256": "f63ed1dbb0342ea4b0b378e5290febc8e43480248e6795a9daf9f84f8af7e558"
+    },
+    {
+      "source_id": "6d0eddc883f0f7b3d9f243139f340c18",
+      "source_path": "御请来目录 (1卷)〖日本 空海撰〗.txt",
+      "source_ref": "御请来目录 (1卷)〖日本 空海撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\御请来目录 (1卷)〖日本 空海撰〗.txt",
+      "suffix": ".txt",
+      "chars": 7860,
+      "content_sha256": "3f7f9140a54810f72b39b6ca83ae6c3b92d02cb3afc5ec16025168d6dfe49322"
+    },
+    {
+      "source_id": "2f003bc5700d7497936a2a6dd93ba417",
+      "source_path": "悉昙字记 (1卷)〖唐 智广撰〗.txt",
+      "source_ref": "悉昙字记 (1卷)〖唐 智广撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\悉昙字记 (1卷)〖唐 智广撰〗.txt",
+      "suffix": ".txt",
+      "chars": 9161,
+      "content_sha256": "86bc7d3aaa2bb535350d62bd2a96d5a92c416428d0acdd1280d9d2393b3e3c50"
+    },
+    {
+      "source_id": "4355c45d85fb4efc480072a2db88bc32",
+      "source_path": "慈觉大师在唐送进录 (1卷)〖日本 圆仁撰〗.txt",
+      "source_ref": "慈觉大师在唐送进录 (1卷)〖日本 圆仁撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\慈觉大师在唐送进录 (1卷)〖日本 圆仁撰〗.txt",
+      "suffix": ".txt",
+      "chars": 2986,
+      "content_sha256": "f30fdd661fef2dba45ad869e4a8585ac2c2da2f3d77ec432ad01cf098a422dd1"
+    },
+    {
+      "source_id": "972649c3bcb69dd9d23c1243c7dbd021",
+      "source_path": "摩尼教下部赞 (1卷)〖〗.txt",
+      "source_ref": "摩尼教下部赞 (1卷)〖〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\摩尼教下部赞 (1卷)〖〗.txt",
+      "suffix": ".txt",
+      "chars": 13906,
+      "content_sha256": "1d525dffdfaa3cce45e06bcd54c96825d01022481b73f9fbdf064bc7245521e4"
+    },
+    {
+      "source_id": "2a48548b307aca20a6261ad53af6da5e",
+      "source_path": "新编诸宗教藏总录 (3卷)〖高丽 义天录〗.txt",
+      "source_ref": "新编诸宗教藏总录 (3卷)〖高丽 义天录〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\新编诸宗教藏总录 (3卷)〖高丽 义天录〗.txt",
+      "suffix": ".txt",
+      "chars": 16270,
+      "content_sha256": "78416811c79617b4e4201f6dae6b9a2336dbc10122f4d7ceb15704d894e20db7"
+    },
+    {
+      "source_id": "6d1c3c6c07badd6d70204761c93a580b",
+      "source_path": "日本国承和五年入唐求法目录 (1卷)〖日本 圆仁撰〗.txt",
+      "source_ref": "日本国承和五年入唐求法目录 (1卷)〖日本 圆仁撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\日本国承和五年入唐求法目录 (1卷)〖日本 圆仁撰〗.txt",
+      "suffix": ".txt",
+      "chars": 3409,
+      "content_sha256": "f5a5c3b14051e8ee4afdb41b820831760438c3c55fa88c7e5a417e9d6134cde3"
+    },
+    {
+      "source_id": "c81db2c4f0ef05db550b79f77bfe205b",
+      "source_path": "日本比丘圆珍入唐求法目录 (1卷)〖日本 圆珍撰〗.txt",
+      "source_ref": "日本比丘圆珍入唐求法目录 (1卷)〖日本 圆珍撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\日本比丘圆珍入唐求法目录 (1卷)〖日本 圆珍撰〗.txt",
+      "suffix": ".txt",
+      "chars": 5830,
+      "content_sha256": "2752eae7a54da35c96dfa60ed8099572481d93f4859cbdd9f2e57511d2fa0522"
+    },
+    {
+      "source_id": "46548c81961b4d4e90e796ceb114e574",
+      "source_path": "景教三威蒙度赞 (1卷)〖〗.txt",
+      "source_ref": "景教三威蒙度赞 (1卷)〖〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\景教三威蒙度赞 (1卷)〖〗.txt",
+      "suffix": ".txt",
+      "chars": 1054,
+      "content_sha256": "7cfcd2ef2bb167fcf819f76a52dab1c6f2c089018e188e90cd0ce13a45755bea"
+    },
+    {
+      "source_id": "0355ce5a66c95f060ccea2218ff135da",
+      "source_path": "智证大师请来目录 (1卷)〖日本 圆珍撰〗.txt",
+      "source_ref": "智证大师请来目录 (1卷)〖日本 圆珍撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\智证大师请来目录 (1卷)〖日本 圆珍撰〗.txt",
+      "suffix": ".txt",
+      "chars": 8887,
+      "content_sha256": "8fa390cc307fe9ec2ec256716b057d3d4c4e0aa20a19f1c322713b433c26f5cd"
+    },
+    {
+      "source_id": "a7f87ed8c2de148b8dc508888cd6afee",
+      "source_path": "根本大和尚真迹策子等目录 (1卷)〖〗.txt",
+      "source_ref": "根本大和尚真迹策子等目录 (1卷)〖〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\根本大和尚真迹策子等目录 (1卷)〖〗.txt",
+      "suffix": ".txt",
+      "chars": 4073,
+      "content_sha256": "a13e28f8ddb85b9534169b94bf73bb0d6cc1db6360f2bbb7a52beb1995d9cc05"
+    },
+    {
+      "source_id": "8c22b3ce4d97abe321b0897972b49692",
+      "source_path": "梵语千字文 (1卷)〖唐 义净撰〗.txt",
+      "source_ref": "梵语千字文 (1卷)〖唐 义净撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\梵语千字文 (1卷)〖唐 义净撰〗.txt",
+      "suffix": ".txt",
+      "chars": 41784,
+      "content_sha256": "df9f13ade8b2bc75a0a27013ddf74c395036721bd01a5dada3d4ada81bebbb04"
+    },
+    {
+      "source_id": "e0e3f292037895a39c8412a37132b965",
+      "source_path": "梵语杂名 (1卷)〖唐 礼言集〗.txt",
+      "source_ref": "梵语杂名 (1卷)〖唐 礼言集〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\梵语杂名 (1卷)〖唐 礼言集〗.txt",
+      "suffix": ".txt",
+      "chars": 41345,
+      "content_sha256": "8179fbd4ab6b264f3e57f67864e0494bf802d08e0e33e6ec63f330b6e7ab754d"
+    },
+    {
+      "source_id": "7196e3490c38015fe5bf13eeedf10e63",
+      "source_path": "法相宗章疏 (1卷)〖日本 平祚录〗.txt",
+      "source_ref": "法相宗章疏 (1卷)〖日本 平祚录〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\法相宗章疏 (1卷)〖日本 平祚录〗.txt",
+      "suffix": ".txt",
+      "chars": 2902,
+      "content_sha256": "2ed1b158dadc08ad4faac5b6af03e89a00dbc76a7bb4ea49509b2294a16fb4f3"
+    },
+    {
+      "source_id": "ce47731e99f41ea80e607cfb9f4ed968",
+      "source_path": "法门名义集 (1卷)〖唐 李师政撰〗.txt",
+      "source_ref": "法门名义集 (1卷)〖唐 李师政撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\法门名义集 (1卷)〖唐 李师政撰〗.txt",
+      "suffix": ".txt",
+      "chars": 15991,
+      "content_sha256": "23f6ef2498ecf74530b60edcd767dbd86415dccf6400a81e417a682e13ea4675"
+    },
+    {
+      "source_id": "e287c0868ffdb21d99bfd35590e07ca8",
+      "source_path": "注进法相宗章疏 (1卷)〖日本 藏俊撰〗.txt",
+      "source_ref": "注进法相宗章疏 (1卷)〖日本 藏俊撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\注进法相宗章疏 (1卷)〖日本 藏俊撰〗.txt",
+      "suffix": ".txt",
+      "chars": 5271,
+      "content_sha256": "230bf0b300904888ff8d613d82d94261cfe7867d3a7b0749efb86a153c83e793"
+    },
+    {
+      "source_id": "388495ed0bce6bfcef8514a7c6b97385",
+      "source_path": "灵岩寺和尚请来法门道具等目录 (1卷)〖日本 圆行撰〗.txt",
+      "source_ref": "灵岩寺和尚请来法门道具等目录 (1卷)〖日本 圆行撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\灵岩寺和尚请来法门道具等目录 (1卷)〖日本 圆行撰〗.txt",
+      "suffix": ".txt",
+      "chars": 3230,
+      "content_sha256": "6da1197b4f2414da9ab4ec026bd428333340ebda1918379b22ce4ea9f16970ad"
+    },
+    {
+      "source_id": "326f7829a663266d4ea2b30c780cb242",
+      "source_path": "福州温州台州求得经律论疏记外书等目录 (1卷)〖日本 圆珍撰〗.txt",
+      "source_ref": "福州温州台州求得经律论疏记外书等目录 (1卷)〖日本 圆珍撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\福州温州台州求得经律论疏记外书等目录 (1卷)〖日本 圆珍撰〗.txt",
+      "suffix": ".txt",
+      "chars": 4251,
+      "content_sha256": "09883d26131063a4c1109e3dd9a2ab3e1b608bf4be1587555675b1c0714377c6"
+    },
+    {
+      "source_id": "2e4fb9f71ffd9118cece927e67d7a1e1",
+      "source_path": "经律异相 (50卷)〖梁 宝唱等集〗.txt",
+      "source_ref": "经律异相 (50卷)〖梁 宝唱等集〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\经律异相 (50卷)〖梁 宝唱等集〗.txt",
+      "suffix": ".txt",
+      "chars": 10399,
+      "content_sha256": "c6b8529ca8c93d50d1a3919f7bf2a8bd3724116507e21469951804a903761073"
+    },
+    {
+      "source_id": "aa923e5ff2555887c11d36616f898f2f",
+      "source_path": "续一切经音义 (10卷)〖宋 希麟集〗.txt",
+      "source_ref": "续一切经音义 (10卷)〖宋 希麟集〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\续一切经音义 (10卷)〖宋 希麟集〗.txt",
+      "suffix": ".txt",
+      "chars": 12013,
+      "content_sha256": "a1d37dcb2e295d5917ddc2d77500a9ffd91e988d68435c9f27e7c7108b961ffc"
+    },
+    {
+      "source_id": "4f16e9bb772027d3affbfbc5e6f1ef45",
+      "source_path": "续古今译经图纪 (1卷)〖唐 智升撰〗.txt",
+      "source_ref": "续古今译经图纪 (1卷)〖唐 智升撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\续古今译经图纪 (1卷)〖唐 智升撰〗.txt",
+      "suffix": ".txt",
+      "chars": 8795,
+      "content_sha256": "d862bf63008705b06676c5de57156dd9657a39f82cb377baa6892a174156b927"
+    },
+    {
+      "source_id": "e95ae4ddf64dac6113636b4f082e9f74",
+      "source_path": "续大唐内典录 (1卷)〖唐 道宣撰〗.txt",
+      "source_ref": "续大唐内典录 (1卷)〖唐 道宣撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\续大唐内典录 (1卷)〖唐 道宣撰〗.txt",
+      "suffix": ".txt",
+      "chars": 6907,
+      "content_sha256": "a914a88680a1ba1e1c1d8386a1a71dc44605cf5f15f6bc8ec6487b7731e667fc"
+    },
+    {
+      "source_id": "e5a8c957065301a083bb04d2c8f6c8ad",
+      "source_path": "续贞元释教录 (1卷)〖南唐 恒安集〗.txt",
+      "source_ref": "续贞元释教录 (1卷)〖南唐 恒安集〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\续贞元释教录 (1卷)〖南唐 恒安集〗.txt",
+      "suffix": ".txt",
+      "chars": 8149,
+      "content_sha256": "0df7f72762817b90f00815b57ee99ba6f89157ed2a3ca300f7ce14b485962b4b"
+    },
+    {
+      "source_id": "77a4701fc8b16e216d711f6eaf5ccd5e",
+      "source_path": "翻梵语 (10卷)〖〗.txt",
+      "source_ref": "翻梵语 (10卷)〖〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\翻梵语 (10卷)〖〗.txt",
+      "suffix": ".txt",
+      "chars": 13865,
+      "content_sha256": "b92e17469483da5a19f4ecd5889d27e599682a81fc445fd0ce5a33954fdbb216"
+    },
+    {
+      "source_id": "5b2c28ec2a721f5287ece65aae34a2ff",
+      "source_path": "翻译名义集 (7卷)〖宋 法云编〗.txt",
+      "source_ref": "翻译名义集 (7卷)〖宋 法云编〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\翻译名义集 (7卷)〖宋 法云编〗.txt",
+      "suffix": ".txt",
+      "chars": 33284,
+      "content_sha256": "6168d543a4dd6d4b7ecd3d0da747031c371b429b6e65895e169842e77cf1ce93"
+    },
+    {
+      "source_id": "2d9e499b5da61731b6d4c8b52790f347",
+      "source_path": "老子化胡经 〖〗.txt",
+      "source_ref": "老子化胡经 〖〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\老子化胡经 〖〗.txt",
+      "suffix": ".txt",
+      "chars": 7056,
+      "content_sha256": "18eb6cb57a2e6261ff7548106115b485a404de9a17f608ca67c9335bf9707dec"
+    },
+    {
+      "source_id": "808bf7cf01a820a66e3ee64eafad2574",
+      "source_path": "胜宗十句义论 (1卷)〖唐 玄奘译〗.txt",
+      "source_ref": "胜宗十句义论 (1卷)〖唐 玄奘译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\胜宗十句义论 (1卷)〖唐 玄奘译〗.txt",
+      "suffix": ".txt",
+      "chars": 5579,
+      "content_sha256": "4bec3ef1770902ecbfd1735fb6b590d55b2ef301e629829c92e97bec58e5c8da"
+    },
+    {
+      "source_id": "772f7228a733261125d02f2318a0ff20",
+      "source_path": "诸经要集 (20卷)〖唐 道世集〗.txt",
+      "source_ref": "诸经要集 (20卷)〖唐 道世集〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\诸经要集 (20卷)〖唐 道世集〗.txt",
+      "suffix": ".txt",
+      "chars": 12818,
+      "content_sha256": "4f56265510e1745bb486fe5d42ec69089e477f408d15e9b24a578ac7d000ee71"
+    },
+    {
+      "source_id": "13f3b3bbbcf97343fc0f06075e8532d0",
+      "source_path": "诸阿阇梨真言密教部类总录 (2卷)〖日本 安然集〗.txt",
+      "source_ref": "诸阿阇梨真言密教部类总录 (2卷)〖日本 安然集〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\诸阿阇梨真言密教部类总录 (2卷)〖日本 安然集〗.txt",
+      "suffix": ".txt",
+      "chars": 31003,
+      "content_sha256": "c57801ae866d5ddd536dc3a76a9304152bcbfaf64b3f21052e00844e20ae24c4"
+    },
+    {
+      "source_id": "381fe64c833fabddf28ac56c24d698ad",
+      "source_path": "贞元新定释教目录 (30卷)〖唐 圆照撰〗.txt",
+      "source_ref": "贞元新定释教目录 (30卷)〖唐 圆照撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\贞元新定释教目录 (30卷)〖唐 圆照撰〗.txt",
+      "suffix": ".txt",
+      "chars": 10058,
+      "content_sha256": "e50e787b23799d1264c0a054959e1386394006061d9de9cf8cf26a51dc1d4705"
+    },
+    {
+      "source_id": "ed4eb48587e08bd8c581500118bdd218",
+      "source_path": "释氏要览 (3卷)〖宋 道诚集〗.txt",
+      "source_ref": "释氏要览 (3卷)〖宋 道诚集〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\释氏要览 (3卷)〖宋 道诚集〗.txt",
+      "suffix": ".txt",
+      "chars": 32928,
+      "content_sha256": "354cf8ccec62213b867abff78941a8e7518116d2273a01b3af6eb913380f6314"
+    },
+    {
+      "source_id": "2c3795e35ae8c57aa84ddd5f903c220a",
+      "source_path": "金七十论 (3卷)〖陈 真谛译〗.txt",
+      "source_ref": "金七十论 (3卷)〖陈 真谛译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\金七十论 (3卷)〖陈 真谛译〗.txt",
+      "suffix": ".txt",
+      "chars": 28107,
+      "content_sha256": "cd582011617a5fbcfeaed68e904345dc12c0faad115a1724f20f4fc15f97dd7b"
+    },
+    {
+      "source_id": "6afab6e1b0e2a05fb0e3039dba5be2df",
+      "source_path": "青龙寺求法目录 (1卷)〖日本 圆珍撰〗.txt",
+      "source_ref": "青龙寺求法目录 (1卷)〖日本 圆珍撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\青龙寺求法目录 (1卷)〖日本 圆珍撰〗.txt",
+      "suffix": ".txt",
+      "chars": 2293,
+      "content_sha256": "28e783efba8c47e9acae805a322cdd2c53a5220f15c8f5e3a7a8c2c3c1a4d07a"
+    },
+    {
+      "source_id": "b07e93906bada32767c9a41fee0d0b54",
+      "source_path": "Ａ惠运禅师将来教法目录 (1卷)〖日本 惠运撰〗.txt",
+      "source_ref": "Ａ惠运禅师将来教法目录 (1卷)〖日本 惠运撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\Ａ惠运禅师将来教法目录 (1卷)〖日本 惠运撰〗.txt",
+      "suffix": ".txt",
+      "chars": 1736,
+      "content_sha256": "94f9077e6a0eaef4216b1042e12fdbdf3504b97474b38aff969642b7a7f40475"
+    },
+    {
+      "source_id": "1d678696b5602655cce431ff7d3aab2e",
+      "source_path": "Ａ摩尼光佛教法仪略 (1卷)〖唐 拂多诞译〗.txt",
+      "source_ref": "Ａ摩尼光佛教法仪略 (1卷)〖唐 拂多诞译〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\Ａ摩尼光佛教法仪略 (1卷)〖唐 拂多诞译〗.txt",
+      "suffix": ".txt",
+      "chars": 2048,
+      "content_sha256": "c70bf15794ef83b88298a3639cb3015bb088375b0054eeb1d606afe7db559f38"
+    },
+    {
+      "source_id": "09c921c50527441abef1b7df9a6822de",
+      "source_path": "Ａ新书写请来法门等目录 (1卷)〖日本 宗睿撰〗.txt",
+      "source_ref": "Ａ新书写请来法门等目录 (1卷)〖日本 宗睿撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\Ａ新书写请来法门等目录 (1卷)〖日本 宗睿撰〗.txt",
+      "suffix": ".txt",
+      "chars": 5973,
+      "content_sha256": "f7ccd97f71222eb054180d231566189afe39e99cd8b30b68dbda55cd1aa86a9c"
+    },
+    {
+      "source_id": "f49da0279f36e48e14e1b1714db836c2",
+      "source_path": "Ｂ惠运律师书目录 (1卷)〖日本 惠运撰〗.txt",
+      "source_ref": "Ｂ惠运律师书目录 (1卷)〖日本 惠运撰〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\Ｂ惠运律师书目录 (1卷)〖日本 惠运撰〗.txt",
+      "suffix": ".txt",
+      "chars": 3755,
+      "content_sha256": "c27e5e8ea5adf73e4d36e3ba26adc6d3d56950091941cc23551b080acaed8350"
+    },
+    {
+      "source_id": "86b2555bc541800b21ad72a4a44ade39",
+      "source_path": "Ｂ波斯教残经 (1卷)〖〗.txt",
+      "source_ref": "Ｂ波斯教残经 (1卷)〖〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\Ｂ波斯教残经 (1卷)〖〗.txt",
+      "suffix": ".txt",
+      "chars": 8955,
+      "content_sha256": "5d7bf98405850669008091c23c1ca1f0126fd77155a3821dc71d9502da9f56e5"
+    },
+    {
+      "source_id": "40eb3e5b13b299f4eb152b20d6ea79b3",
+      "source_path": "Ｂ禅林寺宗睿僧正目录 (1卷)〖〗.txt",
+      "source_ref": "Ｂ禅林寺宗睿僧正目录 (1卷)〖〗.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\事汇部·外教部·目录部\\Ｂ禅林寺宗睿僧正目录 (1卷)〖〗.txt",
+      "suffix": ".txt",
+      "chars": 654,
+      "content_sha256": "0545f56f7f0641c995476f98c74d7b4e9a8af9cc1f972e4e465a22be793ca2a6"
+    }
+  ]
+}
