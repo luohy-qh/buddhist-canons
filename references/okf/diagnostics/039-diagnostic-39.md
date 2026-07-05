@@ -1,0 +1,18 @@
+---
+type: Diagnostic
+title: Diagnostic 39
+description: Diagnostic 39
+resource: lineage://buddhist-canons/diagnostics:039
+tags: ["lineage", "diagnostic"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: abhidharma
+source_course_id: course-001
+---
+
+# Diagnostic 39
+
+Diagnostic 39
+
+# Use
+
+Use this diagnostic as a source-grounded capability element from `buddhist-canons`.

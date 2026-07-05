@@ -1,0 +1,18 @@
+---
+type: Concept
+title: Concept 946
+description: Concept 946
+resource: lineage://buddhist-canons/concepts:946
+tags: ["lineage", "concept"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: madhyamaka-yoga
+source_course_id: course-009
+---
+
+# Concept 946
+
+Concept 946
+
+# Use
+
+Use this concept as a source-grounded capability element from `buddhist-canons`.

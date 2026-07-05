@@ -1,0 +1,18 @@
+---
+type: Workflow
+title: Workflow 908
+description: Workflow 908
+resource: lineage://buddhist-canons/workflows:908
+tags: ["lineage", "workflow"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: schools
+source_course_id: course-014
+---
+
+# Workflow 908
+
+Workflow 908
+
+# Use
+
+Use this workflow as a source-grounded capability element from `buddhist-canons`.

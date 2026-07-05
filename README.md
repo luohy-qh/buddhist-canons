@@ -110,7 +110,7 @@ buddhist-canons-mentor-practitioner-lineage/
 
 ```text
 帮我安装 buddhist-canons skill：
-https://github.com/<your-github>/buddhist-canons-lineage
+https://github.com/luohy-qh/buddhist-canons
 ```
 
 agent 会 clone 仓库，再把目录安装到对应的 skills 目录（如 `~/.claude/skills/` 或 `~/.mavis/skills/`）。装完后重启对应 agent，让 skill 元数据重新加载。

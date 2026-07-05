@@ -1,0 +1,18 @@
+---
+type: Template
+title: Template 372
+description: Template 372
+resource: lineage://buddhist-canons/templates:372
+tags: ["lineage", "template"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: sutra-collection
+source_course_id: course-015
+---
+
+# Template 372
+
+Template 372
+
+# Use
+
+Use this template as a source-grounded capability element from `buddhist-canons`.

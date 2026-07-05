@@ -1,0 +1,2145 @@
+{
+  "generated_at": "2026-07-05T07:05:27",
+  "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\combined",
+  "source_courses": [
+    {
+      "id": "course-001",
+      "name": "abhidharma",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\abhidharma\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\abhidharma",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 15,
+          "methods": 120,
+          "diagnostics": 85,
+          "workflows": 47,
+          "rubrics": 9,
+          "templates": 7,
+          "transfer_rules": 2,
+          "failure_modes": 11,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 15,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 352,
+            "available_evidence_cards": 3011,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-002",
+      "name": "agama",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\agama\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\agama",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 15,
+          "methods": 120,
+          "diagnostics": 120,
+          "workflows": 92,
+          "rubrics": 22,
+          "templates": 5,
+          "transfer_rules": 8,
+          "failure_modes": 14,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 15,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 548,
+            "available_evidence_cards": 3557,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-003",
+      "name": "apocrypha",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\apocrypha\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\apocrypha",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 18,
+          "methods": 120,
+          "diagnostics": 120,
+          "workflows": 120,
+          "rubrics": 42,
+          "templates": 34,
+          "transfer_rules": 21,
+          "failure_modes": 65,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 0,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons",
+          "study_paths"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 920,
+            "available_evidence_cards": 7210,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-004",
+      "name": "avadana",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\avadana\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\avadana",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 15,
+          "methods": 120,
+          "diagnostics": 78,
+          "workflows": 28,
+          "rubrics": 3,
+          "templates": 6,
+          "transfer_rules": 20,
+          "failure_modes": 26,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 16,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 351,
+            "available_evidence_cards": 2846,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-005",
+      "name": "dharani",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\dharani\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\dharani",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 16,
+          "topics": 15,
+          "methods": 18,
+          "diagnostics": 1,
+          "workflows": 0,
+          "rubrics": 0,
+          "templates": 0,
+          "transfer_rules": 0,
+          "failure_modes": 1,
+          "quotes": 91,
+          "evidence": 7,
+          "study_paths": 15,
+          "boundaries": 9
+        },
+        "missing_recommended_fields": [
+          "lessons",
+          "workflows",
+          "rubrics",
+          "templates",
+          "transfer_rules"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 19,
+            "available_evidence_cards": 94,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-006",
+      "name": "esoteric",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\esoteric\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\esoteric",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 0,
+          "methods": 120,
+          "diagnostics": 120,
+          "workflows": 120,
+          "rubrics": 120,
+          "templates": 120,
+          "transfer_rules": 58,
+          "failure_modes": 120,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 15,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons",
+          "topics"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 2584,
+            "available_evidence_cards": 17613,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-007",
+      "name": "history",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\history\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\history",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 12,
+          "methods": 120,
+          "diagnostics": 120,
+          "workflows": 112,
+          "rubrics": 9,
+          "templates": 19,
+          "transfer_rules": 25,
+          "failure_modes": 64,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 17,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 643,
+            "available_evidence_cards": 5766,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-008",
+      "name": "lotus-avatamsaka",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\lotus-avatamsaka\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\lotus-avatamsaka",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 15,
+          "methods": 120,
+          "diagnostics": 120,
+          "workflows": 108,
+          "rubrics": 28,
+          "templates": 20,
+          "transfer_rules": 23,
+          "failure_modes": 40,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 15,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 514,
+            "available_evidence_cards": 4280,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-009",
+      "name": "madhyamaka-yoga",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\madhyamaka-yoga\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\madhyamaka-yoga",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 18,
+          "methods": 120,
+          "diagnostics": 75,
+          "workflows": 31,
+          "rubrics": 5,
+          "templates": 8,
+          "transfer_rules": 1,
+          "failure_modes": 42,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 17,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 341,
+            "available_evidence_cards": 2877,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-010",
+      "name": "mahavaipulya",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\mahavaipulya\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\mahavaipulya",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 12,
+          "methods": 120,
+          "diagnostics": 46,
+          "workflows": 45,
+          "rubrics": 10,
+          "templates": 8,
+          "transfer_rules": 8,
+          "failure_modes": 24,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 15,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 184,
+            "available_evidence_cards": 1616,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-011",
+      "name": "misc-nonbuddhist-catalogue",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\misc-nonbuddhist-catalogue\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\misc-nonbuddhist-catalogue",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 15,
+          "methods": 120,
+          "diagnostics": 96,
+          "workflows": 99,
+          "rubrics": 25,
+          "templates": 33,
+          "transfer_rules": 24,
+          "failure_modes": 31,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 8,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 387,
+            "available_evidence_cards": 3148,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-012",
+      "name": "prajnaparamita",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\prajnaparamita\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\prajnaparamita",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 0,
+          "methods": 120,
+          "diagnostics": 39,
+          "workflows": 27,
+          "rubrics": 3,
+          "templates": 7,
+          "transfer_rules": 4,
+          "failure_modes": 9,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 16,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons",
+          "topics"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 209,
+            "available_evidence_cards": 1636,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-013",
+      "name": "ratnakuta-nirvana",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\ratnakuta-nirvana\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\ratnakuta-nirvana",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 0,
+          "methods": 120,
+          "diagnostics": 65,
+          "workflows": 35,
+          "rubrics": 6,
+          "templates": 10,
+          "transfer_rules": 6,
+          "failure_modes": 20,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 18,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons",
+          "topics"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 221,
+            "available_evidence_cards": 1923,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-014",
+      "name": "schools",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\schools\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\schools",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 28,
+          "methods": 120,
+          "diagnostics": 120,
+          "workflows": 120,
+          "rubrics": 36,
+          "templates": 66,
+          "transfer_rules": 46,
+          "failure_modes": 120,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 11,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 1166,
+            "available_evidence_cards": 10249,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-015",
+      "name": "sutra-collection",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-collection\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-collection",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 15,
+          "methods": 120,
+          "diagnostics": 120,
+          "workflows": 120,
+          "rubrics": 66,
+          "templates": 43,
+          "transfer_rules": 67,
+          "failure_modes": 114,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 21,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 1852,
+            "available_evidence_cards": 13874,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-016",
+      "name": "sutra-commentary",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-commentary\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-commentary",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 0,
+          "methods": 120,
+          "diagnostics": 120,
+          "workflows": 120,
+          "rubrics": 21,
+          "templates": 38,
+          "transfer_rules": 20,
+          "failure_modes": 58,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 15,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons",
+          "topics"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 825,
+            "available_evidence_cards": 7733,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-017",
+      "name": "treatise-collection",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\treatise-collection\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\treatise-collection",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 36,
+          "methods": 120,
+          "diagnostics": 65,
+          "workflows": 59,
+          "rubrics": 12,
+          "templates": 10,
+          "transfer_rules": 11,
+          "failure_modes": 31,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 0,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons",
+          "study_paths"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 349,
+            "available_evidence_cards": 2752,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-018",
+      "name": "vinaya",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 12,
+          "methods": 120,
+          "diagnostics": 94,
+          "workflows": 120,
+          "rubrics": 31,
+          "templates": 21,
+          "transfer_rules": 9,
+          "failure_modes": 28,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 15,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 427,
+            "available_evidence_cards": 3056,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "course-019",
+      "name": "vinaya-commentary-treatise-commentary",
+      "package_path": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya-commentary-treatise-commentary\\course_package.json",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya-commentary-treatise-commentary",
+      "quality": {
+        "counts": {
+          "lessons": 0,
+          "concepts": 120,
+          "topics": 0,
+          "methods": 120,
+          "diagnostics": 120,
+          "workflows": 120,
+          "rubrics": 26,
+          "templates": 24,
+          "transfer_rules": 9,
+          "failure_modes": 60,
+          "quotes": 120,
+          "evidence": 7,
+          "study_paths": 20,
+          "boundaries": 120
+        },
+        "missing_recommended_fields": [
+          "lessons",
+          "topics"
+        ],
+        "status": "usable",
+        "distillation_audit": {
+          "json_path": "distillation_audit.json",
+          "markdown_path": "distillation_audit.md",
+          "lesson_count": 0,
+          "manual_review_required": 0,
+          "coverage_summary": {
+            "expected_lessons": 0,
+            "available_transcripts": 0,
+            "available_visual_analyses": 0,
+            "available_document_groups": 0,
+            "available_text_sources": 440,
+            "available_evidence_cards": 4299,
+            "missing_transcripts": 0,
+            "missing_visual_analyses": 0,
+            "unmatched_documents": 0
+          },
+          "cross_validation_summary": {
+            "multi_source_lessons": 0,
+            "transcript_only_lessons": 0,
+            "visual_only_lessons": 0,
+            "document_only_groups": 0,
+            "source_conflicts": 0,
+            "manual_review_required": 0,
+            "terminology_review_lessons": 0
+          }
+        }
+      }
+    }
+  ],
+  "counts": {
+    "total": 133,
+    "by_course": {
+      "course-001": 7,
+      "course-002": 7,
+      "course-003": 7,
+      "course-004": 7,
+      "course-005": 7,
+      "course-006": 7,
+      "course-007": 7,
+      "course-008": 7,
+      "course-009": 7,
+      "course-010": 7,
+      "course-011": 7,
+      "course-012": 7,
+      "course-013": 7,
+      "course-014": 7,
+      "course-015": 7,
+      "course-016": 7,
+      "course-017": 7,
+      "course-018": 7,
+      "course-019": 7
+    },
+    "by_type": {
+      "distillation": 38,
+      "text_course_synthesis": 19,
+      "text_distillation_quality": 19,
+      "text_evidence_card": 19,
+      "text_source_chunks": 19,
+      "text_source_manifest": 19
+    }
+  },
+  "evidence": [
+    {
+      "type": "distillation",
+      "path": "course-001/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "abhidharma",
+      "source_course_id": "course-001",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\abhidharma"
+    },
+    {
+      "type": "distillation",
+      "path": "course-001/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "abhidharma",
+      "source_course_id": "course-001",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\abhidharma"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-001/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "abhidharma",
+      "source_course_id": "course-001",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\abhidharma"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-001/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "abhidharma",
+      "source_course_id": "course-001",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\abhidharma"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-001/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "abhidharma",
+      "source_course_id": "course-001",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\abhidharma"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-001/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "abhidharma",
+      "source_course_id": "course-001",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\abhidharma"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-001/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "abhidharma",
+      "source_course_id": "course-001",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\abhidharma"
+    },
+    {
+      "type": "distillation",
+      "path": "course-002/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "agama",
+      "source_course_id": "course-002",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\agama"
+    },
+    {
+      "type": "distillation",
+      "path": "course-002/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "agama",
+      "source_course_id": "course-002",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\agama"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-002/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "agama",
+      "source_course_id": "course-002",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\agama"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-002/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "agama",
+      "source_course_id": "course-002",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\agama"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-002/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "agama",
+      "source_course_id": "course-002",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\agama"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-002/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "agama",
+      "source_course_id": "course-002",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\agama"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-002/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "agama",
+      "source_course_id": "course-002",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\agama"
+    },
+    {
+      "type": "distillation",
+      "path": "course-003/course_distillation_2026-07-05.json",
+      "granularity": "file",
+      "source_course": "apocrypha",
+      "source_course_id": "course-003",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\apocrypha"
+    },
+    {
+      "type": "distillation",
+      "path": "course-003/course_distillation_2026-07-05.md",
+      "granularity": "file",
+      "source_course": "apocrypha",
+      "source_course_id": "course-003",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\apocrypha"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-003/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "apocrypha",
+      "source_course_id": "course-003",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\apocrypha"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-003/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "apocrypha",
+      "source_course_id": "course-003",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\apocrypha"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-003/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "apocrypha",
+      "source_course_id": "course-003",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\apocrypha"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-003/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "apocrypha",
+      "source_course_id": "course-003",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\apocrypha"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-003/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "apocrypha",
+      "source_course_id": "course-003",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\apocrypha"
+    },
+    {
+      "type": "distillation",
+      "path": "course-004/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "avadana",
+      "source_course_id": "course-004",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\avadana"
+    },
+    {
+      "type": "distillation",
+      "path": "course-004/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "avadana",
+      "source_course_id": "course-004",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\avadana"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-004/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "avadana",
+      "source_course_id": "course-004",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\avadana"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-004/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "avadana",
+      "source_course_id": "course-004",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\avadana"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-004/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "avadana",
+      "source_course_id": "course-004",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\avadana"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-004/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "avadana",
+      "source_course_id": "course-004",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\avadana"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-004/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "avadana",
+      "source_course_id": "course-004",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\avadana"
+    },
+    {
+      "type": "distillation",
+      "path": "course-005/course_distillation_2026-07-03.json",
+      "granularity": "file",
+      "source_course": "dharani",
+      "source_course_id": "course-005",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\dharani"
+    },
+    {
+      "type": "distillation",
+      "path": "course-005/course_distillation_2026-07-03.md",
+      "granularity": "file",
+      "source_course": "dharani",
+      "source_course_id": "course-005",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\dharani"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-005/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "dharani",
+      "source_course_id": "course-005",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\dharani"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-005/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "dharani",
+      "source_course_id": "course-005",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\dharani"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-005/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "dharani",
+      "source_course_id": "course-005",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\dharani"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-005/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "dharani",
+      "source_course_id": "course-005",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\dharani"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-005/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "dharani",
+      "source_course_id": "course-005",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\dharani"
+    },
+    {
+      "type": "distillation",
+      "path": "course-006/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "esoteric",
+      "source_course_id": "course-006",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\esoteric"
+    },
+    {
+      "type": "distillation",
+      "path": "course-006/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "esoteric",
+      "source_course_id": "course-006",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\esoteric"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-006/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "esoteric",
+      "source_course_id": "course-006",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\esoteric"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-006/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "esoteric",
+      "source_course_id": "course-006",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\esoteric"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-006/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "esoteric",
+      "source_course_id": "course-006",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\esoteric"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-006/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "esoteric",
+      "source_course_id": "course-006",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\esoteric"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-006/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "esoteric",
+      "source_course_id": "course-006",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\esoteric"
+    },
+    {
+      "type": "distillation",
+      "path": "course-007/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "history",
+      "source_course_id": "course-007",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\history"
+    },
+    {
+      "type": "distillation",
+      "path": "course-007/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "history",
+      "source_course_id": "course-007",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\history"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-007/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "history",
+      "source_course_id": "course-007",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\history"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-007/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "history",
+      "source_course_id": "course-007",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\history"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-007/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "history",
+      "source_course_id": "course-007",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\history"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-007/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "history",
+      "source_course_id": "course-007",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\history"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-007/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "history",
+      "source_course_id": "course-007",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\history"
+    },
+    {
+      "type": "distillation",
+      "path": "course-008/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "lotus-avatamsaka",
+      "source_course_id": "course-008",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\lotus-avatamsaka"
+    },
+    {
+      "type": "distillation",
+      "path": "course-008/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "lotus-avatamsaka",
+      "source_course_id": "course-008",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\lotus-avatamsaka"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-008/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "lotus-avatamsaka",
+      "source_course_id": "course-008",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\lotus-avatamsaka"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-008/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "lotus-avatamsaka",
+      "source_course_id": "course-008",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\lotus-avatamsaka"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-008/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "lotus-avatamsaka",
+      "source_course_id": "course-008",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\lotus-avatamsaka"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-008/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "lotus-avatamsaka",
+      "source_course_id": "course-008",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\lotus-avatamsaka"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-008/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "lotus-avatamsaka",
+      "source_course_id": "course-008",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\lotus-avatamsaka"
+    },
+    {
+      "type": "distillation",
+      "path": "course-009/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "madhyamaka-yoga",
+      "source_course_id": "course-009",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\madhyamaka-yoga"
+    },
+    {
+      "type": "distillation",
+      "path": "course-009/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "madhyamaka-yoga",
+      "source_course_id": "course-009",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\madhyamaka-yoga"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-009/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "madhyamaka-yoga",
+      "source_course_id": "course-009",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\madhyamaka-yoga"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-009/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "madhyamaka-yoga",
+      "source_course_id": "course-009",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\madhyamaka-yoga"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-009/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "madhyamaka-yoga",
+      "source_course_id": "course-009",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\madhyamaka-yoga"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-009/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "madhyamaka-yoga",
+      "source_course_id": "course-009",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\madhyamaka-yoga"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-009/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "madhyamaka-yoga",
+      "source_course_id": "course-009",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\madhyamaka-yoga"
+    },
+    {
+      "type": "distillation",
+      "path": "course-010/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "mahavaipulya",
+      "source_course_id": "course-010",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\mahavaipulya"
+    },
+    {
+      "type": "distillation",
+      "path": "course-010/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "mahavaipulya",
+      "source_course_id": "course-010",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\mahavaipulya"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-010/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "mahavaipulya",
+      "source_course_id": "course-010",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\mahavaipulya"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-010/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "mahavaipulya",
+      "source_course_id": "course-010",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\mahavaipulya"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-010/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "mahavaipulya",
+      "source_course_id": "course-010",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\mahavaipulya"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-010/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "mahavaipulya",
+      "source_course_id": "course-010",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\mahavaipulya"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-010/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "mahavaipulya",
+      "source_course_id": "course-010",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\mahavaipulya"
+    },
+    {
+      "type": "distillation",
+      "path": "course-011/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "misc-nonbuddhist-catalogue",
+      "source_course_id": "course-011",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\misc-nonbuddhist-catalogue"
+    },
+    {
+      "type": "distillation",
+      "path": "course-011/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "misc-nonbuddhist-catalogue",
+      "source_course_id": "course-011",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\misc-nonbuddhist-catalogue"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-011/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "misc-nonbuddhist-catalogue",
+      "source_course_id": "course-011",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\misc-nonbuddhist-catalogue"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-011/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "misc-nonbuddhist-catalogue",
+      "source_course_id": "course-011",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\misc-nonbuddhist-catalogue"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-011/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "misc-nonbuddhist-catalogue",
+      "source_course_id": "course-011",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\misc-nonbuddhist-catalogue"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-011/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "misc-nonbuddhist-catalogue",
+      "source_course_id": "course-011",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\misc-nonbuddhist-catalogue"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-011/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "misc-nonbuddhist-catalogue",
+      "source_course_id": "course-011",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\misc-nonbuddhist-catalogue"
+    },
+    {
+      "type": "distillation",
+      "path": "course-012/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "prajnaparamita",
+      "source_course_id": "course-012",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\prajnaparamita"
+    },
+    {
+      "type": "distillation",
+      "path": "course-012/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "prajnaparamita",
+      "source_course_id": "course-012",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\prajnaparamita"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-012/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "prajnaparamita",
+      "source_course_id": "course-012",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\prajnaparamita"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-012/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "prajnaparamita",
+      "source_course_id": "course-012",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\prajnaparamita"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-012/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "prajnaparamita",
+      "source_course_id": "course-012",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\prajnaparamita"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-012/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "prajnaparamita",
+      "source_course_id": "course-012",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\prajnaparamita"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-012/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "prajnaparamita",
+      "source_course_id": "course-012",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\prajnaparamita"
+    },
+    {
+      "type": "distillation",
+      "path": "course-013/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "ratnakuta-nirvana",
+      "source_course_id": "course-013",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\ratnakuta-nirvana"
+    },
+    {
+      "type": "distillation",
+      "path": "course-013/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "ratnakuta-nirvana",
+      "source_course_id": "course-013",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\ratnakuta-nirvana"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-013/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "ratnakuta-nirvana",
+      "source_course_id": "course-013",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\ratnakuta-nirvana"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-013/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "ratnakuta-nirvana",
+      "source_course_id": "course-013",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\ratnakuta-nirvana"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-013/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "ratnakuta-nirvana",
+      "source_course_id": "course-013",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\ratnakuta-nirvana"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-013/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "ratnakuta-nirvana",
+      "source_course_id": "course-013",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\ratnakuta-nirvana"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-013/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "ratnakuta-nirvana",
+      "source_course_id": "course-013",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\ratnakuta-nirvana"
+    },
+    {
+      "type": "distillation",
+      "path": "course-014/course_distillation_2026-07-03.json",
+      "granularity": "file",
+      "source_course": "schools",
+      "source_course_id": "course-014",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\schools"
+    },
+    {
+      "type": "distillation",
+      "path": "course-014/course_distillation_2026-07-03.md",
+      "granularity": "file",
+      "source_course": "schools",
+      "source_course_id": "course-014",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\schools"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-014/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "schools",
+      "source_course_id": "course-014",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\schools"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-014/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "schools",
+      "source_course_id": "course-014",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\schools"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-014/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "schools",
+      "source_course_id": "course-014",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\schools"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-014/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "schools",
+      "source_course_id": "course-014",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\schools"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-014/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "schools",
+      "source_course_id": "course-014",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\schools"
+    },
+    {
+      "type": "distillation",
+      "path": "course-015/course_distillation_2026-07-05.json",
+      "granularity": "file",
+      "source_course": "sutra-collection",
+      "source_course_id": "course-015",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-collection"
+    },
+    {
+      "type": "distillation",
+      "path": "course-015/course_distillation_2026-07-05.md",
+      "granularity": "file",
+      "source_course": "sutra-collection",
+      "source_course_id": "course-015",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-collection"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-015/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "sutra-collection",
+      "source_course_id": "course-015",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-collection"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-015/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "sutra-collection",
+      "source_course_id": "course-015",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-collection"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-015/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "sutra-collection",
+      "source_course_id": "course-015",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-collection"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-015/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "sutra-collection",
+      "source_course_id": "course-015",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-collection"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-015/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "sutra-collection",
+      "source_course_id": "course-015",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-collection"
+    },
+    {
+      "type": "distillation",
+      "path": "course-016/course_distillation_2026-07-05.json",
+      "granularity": "file",
+      "source_course": "sutra-commentary",
+      "source_course_id": "course-016",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-commentary"
+    },
+    {
+      "type": "distillation",
+      "path": "course-016/course_distillation_2026-07-05.md",
+      "granularity": "file",
+      "source_course": "sutra-commentary",
+      "source_course_id": "course-016",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-commentary"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-016/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "sutra-commentary",
+      "source_course_id": "course-016",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-commentary"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-016/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "sutra-commentary",
+      "source_course_id": "course-016",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-commentary"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-016/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "sutra-commentary",
+      "source_course_id": "course-016",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-commentary"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-016/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "sutra-commentary",
+      "source_course_id": "course-016",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-commentary"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-016/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "sutra-commentary",
+      "source_course_id": "course-016",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\sutra-commentary"
+    },
+    {
+      "type": "distillation",
+      "path": "course-017/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "treatise-collection",
+      "source_course_id": "course-017",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\treatise-collection"
+    },
+    {
+      "type": "distillation",
+      "path": "course-017/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "treatise-collection",
+      "source_course_id": "course-017",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\treatise-collection"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-017/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "treatise-collection",
+      "source_course_id": "course-017",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\treatise-collection"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-017/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "treatise-collection",
+      "source_course_id": "course-017",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\treatise-collection"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-017/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "treatise-collection",
+      "source_course_id": "course-017",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\treatise-collection"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-017/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "treatise-collection",
+      "source_course_id": "course-017",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\treatise-collection"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-017/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "treatise-collection",
+      "source_course_id": "course-017",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\treatise-collection"
+    },
+    {
+      "type": "distillation",
+      "path": "course-018/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "vinaya",
+      "source_course_id": "course-018",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya"
+    },
+    {
+      "type": "distillation",
+      "path": "course-018/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "vinaya",
+      "source_course_id": "course-018",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-018/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "vinaya",
+      "source_course_id": "course-018",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-018/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "vinaya",
+      "source_course_id": "course-018",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-018/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "vinaya",
+      "source_course_id": "course-018",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-018/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "vinaya",
+      "source_course_id": "course-018",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-018/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "vinaya",
+      "source_course_id": "course-018",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya"
+    },
+    {
+      "type": "distillation",
+      "path": "course-019/course_distillation_2026-07-04.json",
+      "granularity": "file",
+      "source_course": "vinaya-commentary-treatise-commentary",
+      "source_course_id": "course-019",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya-commentary-treatise-commentary"
+    },
+    {
+      "type": "distillation",
+      "path": "course-019/course_distillation_2026-07-04.md",
+      "granularity": "file",
+      "source_course": "vinaya-commentary-treatise-commentary",
+      "source_course_id": "course-019",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya-commentary-treatise-commentary"
+    },
+    {
+      "type": "text_source_manifest",
+      "path": "course-019/text_sources\\source_manifest.json",
+      "granularity": "course",
+      "source_course": "vinaya-commentary-treatise-commentary",
+      "source_course_id": "course-019",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya-commentary-treatise-commentary"
+    },
+    {
+      "type": "text_source_chunks",
+      "path": "course-019/text_sources\\chunks.jsonl",
+      "granularity": "chunk",
+      "source_course": "vinaya-commentary-treatise-commentary",
+      "source_course_id": "course-019",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya-commentary-treatise-commentary"
+    },
+    {
+      "type": "text_evidence_card",
+      "path": "course-019/text_distillation\\evidence_cards.jsonl",
+      "granularity": "card",
+      "source_course": "vinaya-commentary-treatise-commentary",
+      "source_course_id": "course-019",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya-commentary-treatise-commentary"
+    },
+    {
+      "type": "text_course_synthesis",
+      "path": "course-019/text_distillation\\text_course_synthesis.md",
+      "granularity": "course",
+      "source_course": "vinaya-commentary-treatise-commentary",
+      "source_course_id": "course-019",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya-commentary-treatise-commentary"
+    },
+    {
+      "type": "text_distillation_quality",
+      "path": "course-019/text_distillation\\text_distillation_quality.json",
+      "granularity": "course",
+      "source_course": "vinaya-commentary-treatise-commentary",
+      "source_course_id": "course-019",
+      "source_dir": "D:\\minimax\\课程蒸馏\\.lineage\\courses\\vinaya-commentary-treatise-commentary"
+    }
+  ],
+  "notes": [
+    "Paths with course-001/course-002 prefixes refer to merged CoursePackage paths.",
+    "Packaged Skill references also copy each source workspace under references/source_courses/<source-dir-name>/."
+  ]
+}

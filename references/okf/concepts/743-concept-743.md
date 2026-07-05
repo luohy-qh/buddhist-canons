@@ -1,0 +1,18 @@
+---
+type: Concept
+title: Concept 743
+description: Concept 743
+resource: lineage://buddhist-canons/concepts:743
+tags: ["lineage", "concept"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: lotus-avatamsaka
+source_course_id: course-008
+---
+
+# Concept 743
+
+Concept 743
+
+# Use
+
+Use this concept as a source-grounded capability element from `buddhist-canons`.

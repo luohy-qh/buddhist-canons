@@ -1,0 +1,18 @@
+---
+type: Diagnostic
+title: Diagnostic 213
+description: Diagnostic 213
+resource: lineage://buddhist-canons/diagnostics:213
+tags: ["lineage", "diagnostic"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: apocrypha
+source_course_id: course-003
+---
+
+# Diagnostic 213
+
+Diagnostic 213
+
+# Use
+
+Use this diagnostic as a source-grounded capability element from `buddhist-canons`.

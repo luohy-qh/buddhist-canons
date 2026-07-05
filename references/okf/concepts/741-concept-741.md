@@ -1,0 +1,18 @@
+---
+type: Concept
+title: Concept 741
+description: Concept 741
+resource: lineage://buddhist-canons/concepts:741
+tags: ["lineage", "concept"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: lotus-avatamsaka
+source_course_id: course-008
+---
+
+# Concept 741
+
+Concept 741
+
+# Use
+
+Use this concept as a source-grounded capability element from `buddhist-canons`.

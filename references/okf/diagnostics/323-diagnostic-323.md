@@ -1,0 +1,18 @@
+---
+type: Diagnostic
+title: Diagnostic 323
+description: Diagnostic 323
+resource: lineage://buddhist-canons/diagnostics:323
+tags: ["lineage", "diagnostic"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: apocrypha
+source_course_id: course-003
+---
+
+# Diagnostic 323
+
+Diagnostic 323
+
+# Use
+
+Use this diagnostic as a source-grounded capability element from `buddhist-canons`.

@@ -1,0 +1,18 @@
+---
+type: Diagnostic
+title: Diagnostic 156
+description: Diagnostic 156
+resource: lineage://buddhist-canons/diagnostics:156
+tags: ["lineage", "diagnostic"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: agama
+source_course_id: course-002
+---
+
+# Diagnostic 156
+
+Diagnostic 156
+
+# Use
+
+Use this diagnostic as a source-grounded capability element from `buddhist-canons`.

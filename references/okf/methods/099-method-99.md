@@ -1,0 +1,18 @@
+---
+type: Method
+title: Method 99
+description: Method 99
+resource: lineage://buddhist-canons/methods:099
+tags: ["lineage", "method"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: abhidharma
+source_course_id: course-001
+---
+
+# Method 99
+
+Method 99
+
+# Use
+
+Use this method as a source-grounded capability element from `buddhist-canons`.

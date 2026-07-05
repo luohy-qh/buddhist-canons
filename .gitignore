@@ -1,0 +1,27 @@
+# === 构建中间产物 / build artifacts ===
+# LLM 蒸馏断点续跑存档（无运行期价值，勿发布）
+.llm_progress.json
+**/.llm_progress.json
+
+# === 临时 / 调试文件 ===
+_*
+*.tmp
+*.log
+.lineage/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.llm_key
+
+# === OS / 编辑器 ===
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp

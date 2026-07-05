@@ -1,0 +1,18 @@
+---
+type: Rubric
+title: Rubric 87
+description: Rubric 87
+resource: lineage://buddhist-canons/rubrics:087
+tags: ["lineage", "rubric"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: esoteric
+source_course_id: course-006
+---
+
+# Rubric 87
+
+Rubric 87
+
+# Use
+
+Use this rubric as a source-grounded capability element from `buddhist-canons`.

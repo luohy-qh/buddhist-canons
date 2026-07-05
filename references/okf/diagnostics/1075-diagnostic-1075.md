@@ -1,0 +1,18 @@
+---
+type: Diagnostic
+title: Diagnostic 1075
+description: Diagnostic 1075
+resource: lineage://buddhist-canons/diagnostics:1075
+tags: ["lineage", "diagnostic"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: ratnakuta-nirvana
+source_course_id: course-013
+---
+
+# Diagnostic 1075
+
+Diagnostic 1075
+
+# Use
+
+Use this diagnostic as a source-grounded capability element from `buddhist-canons`.

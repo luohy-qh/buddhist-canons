@@ -1,0 +1,18 @@
+---
+type: Concept
+title: Concept 99
+description: Concept 99
+resource: lineage://buddhist-canons/concepts:099
+tags: ["lineage", "concept"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: abhidharma
+source_course_id: course-001
+---
+
+# Concept 99
+
+Concept 99
+
+# Use
+
+Use this concept as a source-grounded capability element from `buddhist-canons`.

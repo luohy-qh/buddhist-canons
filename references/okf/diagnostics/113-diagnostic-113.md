@@ -1,0 +1,18 @@
+---
+type: Diagnostic
+title: Diagnostic 113
+description: Diagnostic 113
+resource: lineage://buddhist-canons/diagnostics:113
+tags: ["lineage", "diagnostic"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: agama
+source_course_id: course-002
+---
+
+# Diagnostic 113
+
+Diagnostic 113
+
+# Use
+
+Use this diagnostic as a source-grounded capability element from `buddhist-canons`.

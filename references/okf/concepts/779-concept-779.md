@@ -1,0 +1,18 @@
+---
+type: Concept
+title: Concept 779
+description: Concept 779
+resource: lineage://buddhist-canons/concepts:779
+tags: ["lineage", "concept"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: lotus-avatamsaka
+source_course_id: course-008
+---
+
+# Concept 779
+
+Concept 779
+
+# Use
+
+Use this concept as a source-grounded capability element from `buddhist-canons`.

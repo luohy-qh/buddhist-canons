@@ -1,0 +1,18 @@
+---
+type: Rubric
+title: Rubric 17
+description: Rubric 17
+resource: lineage://buddhist-canons/rubrics:017
+tags: ["lineage", "rubric"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: agama
+source_course_id: course-002
+---
+
+# Rubric 17
+
+Rubric 17
+
+# Use
+
+Use this rubric as a source-grounded capability element from `buddhist-canons`.

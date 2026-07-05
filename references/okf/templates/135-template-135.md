@@ -1,0 +1,18 @@
+---
+type: Template
+title: Template 135
+description: Template 135
+resource: lineage://buddhist-canons/templates:135
+tags: ["lineage", "template"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: esoteric
+source_course_id: course-006
+---
+
+# Template 135
+
+Template 135
+
+# Use
+
+Use this template as a source-grounded capability element from `buddhist-canons`.

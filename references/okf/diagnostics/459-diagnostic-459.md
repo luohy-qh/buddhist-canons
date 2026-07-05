@@ -1,0 +1,18 @@
+---
+type: Diagnostic
+title: Diagnostic 459
+description: Diagnostic 459
+resource: lineage://buddhist-canons/diagnostics:459
+tags: ["lineage", "diagnostic"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: esoteric
+source_course_id: course-006
+---
+
+# Diagnostic 459
+
+Diagnostic 459
+
+# Use
+
+Use this diagnostic as a source-grounded capability element from `buddhist-canons`.

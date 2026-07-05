@@ -1,0 +1,18 @@
+---
+type: Failure Mode
+title: Failure Mode 697
+description: Failure Mode 697
+resource: lineage://buddhist-canons/failure_modes:697
+tags: ["lineage", "failure-mode"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: sutra-collection
+source_course_id: course-015
+---
+
+# Failure Mode 697
+
+Failure Mode 697
+
+# Use
+
+Use this failure mode as a source-grounded capability element from `buddhist-canons`.

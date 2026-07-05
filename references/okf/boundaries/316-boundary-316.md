@@ -1,0 +1,18 @@
+---
+type: Boundary
+title: Boundary 316
+description: Boundary 316
+resource: lineage://buddhist-canons/boundaries:316
+tags: ["lineage", "boundary"]
+timestamp: 2026-07-04T23:05:33Z
+source_course: apocrypha
+source_course_id: course-003
+---
+
+# Boundary 316
+
+Boundary 316
+
+# Use
+
+Use this boundary as a source-grounded capability element from `buddhist-canons`.
