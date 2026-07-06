@@ -1,8 +1,8 @@
 {
   "schema_version": "0.1",
-  "generated_at": "2026-07-04T08:28:42",
-  "source_count": 95,
-  "chunk_count": 643,
+  "generated_at": "2026-07-06T11:01:47",
+  "source_count": 97,
+  "chunk_count": 649,
   "max_chars": 4000,
   "overlap_chars": 200,
   "sources": [
@@ -860,6 +860,24 @@
       "suffix": ".txt",
       "chars": 2260,
       "content_sha256": "a299acab12c1c4c6587acfbc50d64d7ed70d59113a717fd663ad6146f06e548b"
+    },
+    {
+      "source_id": "3d415921c24a7987d92b4d896dce181d",
+      "source_path": "龙树菩萨传 (1卷)〖姚秦 鸠摩罗什译〗_id3369.txt",
+      "source_ref": "龙树菩萨传 (1卷)〖姚秦 鸠摩罗什译〗_id3369.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\史传部\\龙树菩萨传 (1卷)〖姚秦 鸠摩罗什译〗_id3369.txt",
+      "suffix": ".txt",
+      "chars": 2298,
+      "content_sha256": "9fba23d84e33793a438ae5ee0e8beff8123e6bf261f195505ba6659c75aeb7ee"
+    },
+    {
+      "source_id": "2437d2719048724d2d0e0888a14353f2",
+      "source_path": "龙树菩萨传 (1卷)〖姚秦 鸠摩罗什译〗_id3371.txt",
+      "source_ref": "龙树菩萨传 (1卷)〖姚秦 鸠摩罗什译〗_id3371.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\史传部\\龙树菩萨传 (1卷)〖姚秦 鸠摩罗什译〗_id3371.txt",
+      "suffix": ".txt",
+      "chars": 2094,
+      "content_sha256": "242a90a24e5d54d56c2e183ce10d4d5a2ee12266e6af84d725cf47a05f9fafa1"
     }
   ]
 }

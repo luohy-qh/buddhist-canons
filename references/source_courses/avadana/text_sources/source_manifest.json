@@ -1,8 +1,8 @@
 {
   "schema_version": "0.1",
-  "generated_at": "2026-07-04T01:01:54",
-  "source_count": 71,
-  "chunk_count": 351,
+  "generated_at": "2026-07-06T11:00:13",
+  "source_count": 73,
+  "chunk_count": 357,
   "max_chars": 4000,
   "overlap_chars": 200,
   "sources": [
@@ -266,6 +266,24 @@
       "suffix": ".txt",
       "chars": 2952,
       "content_sha256": "20fa6cd44034aac4c50f24bdd229823a4504f800b7ede755610f5a41122dcf6e"
+    },
+    {
+      "source_id": "c3b9a976a0cd29fb57662bda04807cc7",
+      "source_path": "佛说睒子经 (1卷)〖西晋 圣坚译〗_id1564.txt",
+      "source_ref": "佛说睒子经 (1卷)〖西晋 圣坚译〗_id1564.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\本缘部\\佛说睒子经 (1卷)〖西晋 圣坚译〗_id1564.txt",
+      "suffix": ".txt",
+      "chars": 2988,
+      "content_sha256": "e9dedf3066b9894e332313fe21d141b6c871e9afcff798ac9860a3eb66ecca2e"
+    },
+    {
+      "source_id": "f814c836885b2f77697629d3d956c6b3",
+      "source_path": "佛说睒子经 (1卷)〖西晋 圣坚译〗_id1566.txt",
+      "source_ref": "佛说睒子经 (1卷)〖西晋 圣坚译〗_id1566.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\本缘部\\佛说睒子经 (1卷)〖西晋 圣坚译〗_id1566.txt",
+      "suffix": ".txt",
+      "chars": 3053,
+      "content_sha256": "d747e9137f6dee4ebce8f2e9b813b7183e4620ce57cf71e50b5d0d8c11c0dba0"
     },
     {
       "source_id": "d8331c4dac52a549aa2cf2c44ee75f5e",

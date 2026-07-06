@@ -4,7 +4,7 @@ title: Boundary 250
 description: Boundary 250
 resource: lineage://buddhist-canons/boundaries:250
 tags: ["lineage", "boundary"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: apocrypha
 source_course_id: course-003
 ---

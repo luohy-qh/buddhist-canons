@@ -4,7 +4,7 @@ title: Boundary 627
 description: Boundary 627
 resource: lineage://buddhist-canons/boundaries:627
 tags: ["lineage", "boundary"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: history
 source_course_id: course-007
 ---

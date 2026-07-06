@@ -1,6 +1,6 @@
 # buddhist-canons — Multi-Course Digest
 
-Generated at: 2026-07-05T07:05:27
+Generated at: 2026-07-06T12:45:51
 
 ## Source Courses
 
@@ -35,7 +35,7 @@ Generated at: 2026-07-05T07:05:27
 - learning_checks: 2604
 - lessons: 0
 - methods: 2178
-- quotes: 2251
+- quotes: 4629
 - rubrics: 474
 - study_paths: 264
 - templates: 479

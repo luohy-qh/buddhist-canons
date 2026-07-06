@@ -1,8 +1,8 @@
 {
   "schema_version": "0.1",
-  "generated_at": "2026-07-04T15:30:48",
-  "source_count": 606,
-  "chunk_count": 2584,
+  "generated_at": "2026-07-06T11:00:08",
+  "source_count": 622,
+  "chunk_count": 2673,
   "max_chars": 4000,
   "overlap_chars": 200,
   "sources": [
@@ -41,6 +41,24 @@
       "suffix": ".txt",
       "chars": 5743,
       "content_sha256": "f288ff67c0b490ae0ef316bef13a881eb55c49c67e5d3f7ec57dd2eaaec27e65"
+    },
+    {
+      "source_id": "659b1a41ffd8c97e4937641f75121294",
+      "source_path": "一切如来心秘密全身舍利宝箧印陀罗尼经 (1卷)〖唐 不空译〗_id2447.txt",
+      "source_ref": "一切如来心秘密全身舍利宝箧印陀罗尼经 (1卷)〖唐 不空译〗_id2447.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\一切如来心秘密全身舍利宝箧印陀罗尼经 (1卷)〖唐 不空译〗_id2447.txt",
+      "suffix": ".txt",
+      "chars": 5791,
+      "content_sha256": "07752d508e0e73ac3c13b45210742eb4f81028d32e230d49d38b3a1af29527c8"
+    },
+    {
+      "source_id": "489d4253ac1dffb4f2d63059458332cb",
+      "source_path": "一切如来心秘密全身舍利宝箧印陀罗尼经 (1卷)〖唐 不空译〗_id2448.txt",
+      "source_ref": "一切如来心秘密全身舍利宝箧印陀罗尼经 (1卷)〖唐 不空译〗_id2448.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\一切如来心秘密全身舍利宝箧印陀罗尼经 (1卷)〖唐 不空译〗_id2448.txt",
+      "suffix": ".txt",
+      "chars": 4582,
+      "content_sha256": "4a7d94da301dc7fc122f46be01a4edecc65ccbaf07aae176c4c954c73c1f9ec6"
     },
     {
       "source_id": "622748e22f77c35fb9b1d47b8356d542",
@@ -869,6 +887,24 @@
       "suffix": ".txt",
       "chars": 809,
       "content_sha256": "3ba59f245106f02256fe425788aeb99fbdb58cabb65dfdb164c4fd88af8e50dd"
+    },
+    {
+      "source_id": "d34f4a62f3098e1c8bce2a0dcf26b518",
+      "source_path": "佛说大吉祥天女十二名号经 (1卷)〖唐 不空译〗_id2696.txt",
+      "source_ref": "佛说大吉祥天女十二名号经 (1卷)〖唐 不空译〗_id2696.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\佛说大吉祥天女十二名号经 (1卷)〖唐 不空译〗_id2696.txt",
+      "suffix": ".txt",
+      "chars": 851,
+      "content_sha256": "23b65736eecbf2a3ea4005fda271bd6af7bee5c7f8ff9c25de68dbc32a184da1"
+    },
+    {
+      "source_id": "2b211034687465aa06f5f863210ce404",
+      "source_path": "佛说大吉祥天女十二名号经 (1卷)〖唐 不空译〗_id2697.txt",
+      "source_ref": "佛说大吉祥天女十二名号经 (1卷)〖唐 不空译〗_id2697.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\佛说大吉祥天女十二名号经 (1卷)〖唐 不空译〗_id2697.txt",
+      "suffix": ".txt",
+      "chars": 1084,
+      "content_sha256": "81e956b1b586f09a014739c6117a35e65b9a8446838b69a507edbe966e8affc4"
     },
     {
       "source_id": "5b78c38fa56cdd32790185176b801f7e",
@@ -2275,6 +2311,24 @@
       "content_sha256": "88ad6873c72e25dc84d8c1752081a4b6340c7488ca35cb4a0cc0506ef2cb615a"
     },
     {
+      "source_id": "bd782730f21d61281159c54b08e45b66",
+      "source_path": "千眼千臂观世音菩萨陀罗尼神咒经 (2卷)〖唐 智通译〗_id2486.txt",
+      "source_ref": "千眼千臂观世音菩萨陀罗尼神咒经 (2卷)〖唐 智通译〗_id2486.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\千眼千臂观世音菩萨陀罗尼神咒经 (2卷)〖唐 智通译〗_id2486.txt",
+      "suffix": ".txt",
+      "chars": 15099,
+      "content_sha256": "52080191532e5933fe1abd1470ade5e08e84949511268a52cc5442894d8d9ab1"
+    },
+    {
+      "source_id": "1cb7be415e3bfd6e2aa836a680436095",
+      "source_path": "千眼千臂观世音菩萨陀罗尼神咒经 (2卷)〖唐 智通译〗_id2487.txt",
+      "source_ref": "千眼千臂观世音菩萨陀罗尼神咒经 (2卷)〖唐 智通译〗_id2487.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\千眼千臂观世音菩萨陀罗尼神咒经 (2卷)〖唐 智通译〗_id2487.txt",
+      "suffix": ".txt",
+      "chars": 9776,
+      "content_sha256": "95199d61c2b06fe8753af4a99a170061f879fae2001839f6d72dfc7d7d311d20"
+    },
+    {
       "source_id": "07f83a13dbc37098bd82a56914acf893",
       "source_path": "千臂军荼利梵字真言 (1卷)〖〗.txt",
       "source_ref": "千臂军荼利梵字真言 (1卷)〖〗.txt",
@@ -2507,6 +2561,24 @@
       "suffix": ".txt",
       "chars": 22333,
       "content_sha256": "341ef306fbf59f2ec71aa66d093a023800c03e55108bbd569e510d6b4b272a24"
+    },
+    {
+      "source_id": "2ccb09999d9f5a7b25fe3681b94f2c93",
+      "source_path": "圣迦柅忿怒金刚童子菩萨成就仪轨经 (3卷)〖唐 不空译〗_id2665.txt",
+      "source_ref": "圣迦柅忿怒金刚童子菩萨成就仪轨经 (3卷)〖唐 不空译〗_id2665.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\圣迦柅忿怒金刚童子菩萨成就仪轨经 (3卷)〖唐 不空译〗_id2665.txt",
+      "suffix": ".txt",
+      "chars": 22379,
+      "content_sha256": "324342979bf421e8f93bde5cfebc9998f1a5a599a9cc971d674668828f7eedb6"
+    },
+    {
+      "source_id": "e9e208844e9424cdf40ceaf7b074e16a",
+      "source_path": "圣迦柅忿怒金刚童子菩萨成就仪轨经 (3卷)〖唐 不空译〗_id2666.txt",
+      "source_ref": "圣迦柅忿怒金刚童子菩萨成就仪轨经 (3卷)〖唐 不空译〗_id2666.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\圣迦柅忿怒金刚童子菩萨成就仪轨经 (3卷)〖唐 不空译〗_id2666.txt",
+      "suffix": ".txt",
+      "chars": 17238,
+      "content_sha256": "3142d73bfb2381ac6ac7c5b1eed7e5258b4e24eb624b18da417822f278fe622a"
     },
     {
       "source_id": "3994ec2313daabfdf1ee936a7b502bbb",
@@ -3931,6 +4003,24 @@
       "content_sha256": "53cd1d55126ffe6e918c03747927165ac58e6b23527b513bcdade5fdb8577a1c"
     },
     {
+      "source_id": "eb878ecbeee134ef4dd2a71d69fcf5d5",
+      "source_path": "百千印陀罗尼经 (1卷)〖唐 实叉难陀译〗_id2816.txt",
+      "source_ref": "百千印陀罗尼经 (1卷)〖唐 实叉难陀译〗_id2816.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\百千印陀罗尼经 (1卷)〖唐 实叉难陀译〗_id2816.txt",
+      "suffix": ".txt",
+      "chars": 778,
+      "content_sha256": "5b4b323668e9ccc0314c11107cad78bd9fe2b8057dc7b0100f600c2645180d0c"
+    },
+    {
+      "source_id": "8ba45958315addb223650f7557dabe02",
+      "source_path": "百千印陀罗尼经 (1卷)〖唐 实叉难陀译〗_id2817.txt",
+      "source_ref": "百千印陀罗尼经 (1卷)〖唐 实叉难陀译〗_id2817.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\百千印陀罗尼经 (1卷)〖唐 实叉难陀译〗_id2817.txt",
+      "suffix": ".txt",
+      "chars": 772,
+      "content_sha256": "4995a128564bfe1162ca5d44638e6e28f242bdddb0d5860e35041cf36d6f0a1d"
+    },
+    {
       "source_id": "0bf962241484cf2359ae4260b999c7b4",
       "source_path": "种种杂咒经 (1卷)〖北周 阇那崛多译〗.txt",
       "source_ref": "种种杂咒经 (1卷)〖北周 阇那崛多译〗.txt",
@@ -4055,6 +4145,24 @@
       "suffix": ".txt",
       "chars": 16799,
       "content_sha256": "20391955bc7cc56f418af4da89ed58ac1e616d2cc1fe57e7975beb9ba62ecf4a"
+    },
+    {
+      "source_id": "705bb770418f965315e4bcabffb9517c",
+      "source_path": "苏悉地羯啰经 (3卷)〖唐 输波迦罗译〗_id2303.txt",
+      "source_ref": "苏悉地羯啰经 (3卷)〖唐 输波迦罗译〗_id2303.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\苏悉地羯啰经 (3卷)〖唐 输波迦罗译〗_id2303.txt",
+      "suffix": ".txt",
+      "chars": 16837,
+      "content_sha256": "08cf0d4a71543cd3b79b7b2459ef33888ddad5846dbfd5f29851a8e860c40e2d"
+    },
+    {
+      "source_id": "285b4b6a6b87efe7b5e26d6a625db687",
+      "source_path": "苏悉地羯啰经 (3卷)〖唐 输波迦罗译〗_id2304.txt",
+      "source_ref": "苏悉地羯啰经 (3卷)〖唐 输波迦罗译〗_id2304.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\苏悉地羯啰经 (3卷)〖唐 输波迦罗译〗_id2304.txt",
+      "suffix": ".txt",
+      "chars": 49527,
+      "content_sha256": "47fefae6d2d53dbf2aa27a85220a4eded4b65a4ee264f61abc564a56e341b22c"
     },
     {
       "source_id": "68111dfe1bb49c60709dbd8fc0bd4f27",
@@ -4507,6 +4615,24 @@
       "content_sha256": "c8ca031e97f9b4cf0fb369c279552e60eee9e33d57f59524af0308c53426ab82"
     },
     {
+      "source_id": "6d7d17889c5f32c2e4bfedf0a2d7a1c3",
+      "source_path": "金刚光焰止风雨陀罗尼经 (1卷)〖唐 菩提流志译〗_id2453.txt",
+      "source_ref": "金刚光焰止风雨陀罗尼经 (1卷)〖唐 菩提流志译〗_id2453.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\金刚光焰止风雨陀罗尼经 (1卷)〖唐 菩提流志译〗_id2453.txt",
+      "suffix": ".txt",
+      "chars": 15635,
+      "content_sha256": "e0294f908cc47291bf55f4312a39efee1450d4d56469e618af96bde3061922fe"
+    },
+    {
+      "source_id": "441cccb43df015c3822bdaab6f05d4cc",
+      "source_path": "金刚光焰止风雨陀罗尼经 (1卷)〖唐 菩提流志译〗_id2454.txt",
+      "source_ref": "金刚光焰止风雨陀罗尼经 (1卷)〖唐 菩提流志译〗_id2454.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\金刚光焰止风雨陀罗尼经 (1卷)〖唐 菩提流志译〗_id2454.txt",
+      "suffix": ".txt",
+      "chars": 12401,
+      "content_sha256": "7bf90033d65e362084709ec1548244a212531f62c62d24cfe22407b09763129e"
+    },
+    {
       "source_id": "19bcaf6169feb872198d1fe5d9928f2b",
       "source_path": "金刚场陀罗尼经 (1卷)〖隋 阇那崛多译〗.txt",
       "source_ref": "金刚场陀罗尼经 (1卷)〖隋 阇那崛多译〗.txt",
@@ -4712,6 +4838,24 @@
       "suffix": ".txt",
       "chars": 5562,
       "content_sha256": "eccce8a9629e5a85d71d155a89946089eecf48607591ed4168eae05c2f48440f"
+    },
+    {
+      "source_id": "8d430c8fcd15813da4f931ff99332906",
+      "source_path": "金刚顶瑜伽护摩仪轨 (1卷)〖唐 不空译〗_id2322.txt",
+      "source_ref": "金刚顶瑜伽护摩仪轨 (1卷)〖唐 不空译〗_id2322.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\金刚顶瑜伽护摩仪轨 (1卷)〖唐 不空译〗_id2322.txt",
+      "suffix": ".txt",
+      "chars": 5601,
+      "content_sha256": "1d424e31b7e60cdcf91bb1d27ea688551527c78cb80082562f92ab7c916c774c"
+    },
+    {
+      "source_id": "7a9b29c6b367e5e6a39cdea8c4fb8d99",
+      "source_path": "金刚顶瑜伽护摩仪轨 (1卷)〖唐 不空译〗_id2323.txt",
+      "source_ref": "金刚顶瑜伽护摩仪轨 (1卷)〖唐 不空译〗_id2323.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\密教部\\金刚顶瑜伽护摩仪轨 (1卷)〖唐 不空译〗_id2323.txt",
+      "suffix": ".txt",
+      "chars": 4302,
+      "content_sha256": "cf8814aaa7ee46802319e7422d7bbacd896dccfe25b195eac7ef1241218a61a6"
     },
     {
       "source_id": "3619f4854a56db0e13f02af9ba131797",

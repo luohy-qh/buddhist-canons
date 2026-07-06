@@ -4,7 +4,7 @@ title: Failure Mode 428
 description: Failure Mode 428
 resource: lineage://buddhist-canons/failure_modes:428
 tags: ["lineage", "failure-mode"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: misc-nonbuddhist-catalogue
 source_course_id: course-011
 ---

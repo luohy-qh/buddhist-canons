@@ -4,954 +4,519 @@
     "source_path": "三无性论 (2卷)〖陈 真谛译〗.txt",
     "source_ref": "三无性论 (2卷)〖陈 真谛译〗.txt",
     "chunk_count": 7,
-    "card_count": 67,
-    "card_types": {
-      "quote": 6,
-      "boundary": 1,
-      "task": 1,
-      "concept": 52,
-      "method": 7
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "af064231f1d0b0bba973d67b317f3151",
     "source_path": "业成就论 (1卷)〖元魏 毗目智仙译〗.txt",
     "source_ref": "业成就论 (1卷)〖元魏 毗目智仙译〗.txt",
     "chunk_count": 4,
-    "card_count": 27,
-    "card_types": {
-      "quote": 8,
-      "boundary": 4,
-      "concept": 10,
-      "case": 2,
-      "method": 1,
-      "failure_mode": 1,
-      "diagnostic": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "a010f4825c36acdbd7f12477734e1d48",
     "source_path": "中论 (4卷)〖姚秦 鸠摩罗什译〗.txt",
     "source_ref": "中论 (4卷)〖姚秦 鸠摩罗什译〗.txt",
     "chunk_count": 5,
-    "card_count": 39,
-    "card_types": {
-      "quote": 14,
-      "boundary": 5,
-      "diagnostic": 3,
-      "concept": 8,
-      "case": 4,
-      "method": 3,
-      "workflow": 1,
-      "failure_mode": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "4f51433c1ebe7e297ac38460f95fb89e",
     "source_path": "中边分别论 (2卷)〖陈 真谛译〗.txt",
     "source_ref": "中边分别论 (2卷)〖陈 真谛译〗.txt",
     "chunk_count": 8,
-    "card_count": 74,
-    "card_types": {
-      "quote": 11,
-      "case": 1,
-      "concept": 54,
-      "method": 6,
-      "boundary": 2
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "1206eb45b863b3e7c1d324f6ea5bca49",
     "source_path": "佛性论 (4卷)〖陈 真谛译〗.txt",
     "source_ref": "佛性论 (4卷)〖陈 真谛译〗.txt",
     "chunk_count": 14,
-    "card_count": 144,
-    "card_types": {
-      "quote": 19,
-      "concept": 69,
-      "method": 8,
-      "case": 24,
-      "boundary": 14,
-      "diagnostic": 4,
-      "failure_mode": 4,
-      "workflow": 1,
-      "open_question": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "79f383ce7700e8a4459ed44589fa74d8",
     "source_path": "六十颂如理论 (1卷)〖宋 施护译〗.txt",
     "source_ref": "六十颂如理论 (1卷)〖宋 施护译〗.txt",
     "chunk_count": 3,
-    "card_count": 14,
-    "card_types": {
-      "quote": 3,
-      "concept": 11
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "f3625314a2bdfc3b4da6aea9eb68ee84",
     "source_path": "六门教授习定论 (1卷)〖唐 义净译〗.txt",
     "source_ref": "六门教授习定论 (1卷)〖唐 义净译〗.txt",
     "chunk_count": 4,
-    "card_count": 26,
-    "card_types": {
-      "quote": 6,
-      "concept": 15,
-      "method": 3,
-      "boundary": 1,
-      "diagnostic": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "6fcff8cd444c9f17f830361a6875569d",
     "source_path": "决定藏论 (3卷)〖梁 真谛译〗.txt",
     "source_ref": "决定藏论 (3卷)〖梁 真谛译〗.txt",
     "chunk_count": 10,
-    "card_count": 99,
-    "card_types": {
-      "quote": 8,
-      "boundary": 13,
-      "concept": 67,
-      "diagnostic": 2,
-      "method": 4,
-      "case": 5
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "ea7874a299c855b241b4fcaacfefee9d",
     "source_path": "十二门论 (1卷)〖姚秦 鸠摩罗什译〗.txt",
     "source_ref": "十二门论 (1卷)〖姚秦 鸠摩罗什译〗.txt",
     "chunk_count": 6,
-    "card_count": 51,
-    "card_types": {
-      "quote": 9,
-      "boundary": 8,
-      "concept": 11,
-      "method": 3,
-      "case": 9,
-      "failure_mode": 6,
-      "diagnostic": 4,
-      "open_question": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "33f7a990b7d401dff1e468427a381eab",
     "source_path": "十八空论 (1卷)〖陈 真谛译〗.txt",
     "source_ref": "十八空论 (1卷)〖陈 真谛译〗.txt",
     "chunk_count": 5,
-    "card_count": 40,
-    "card_types": {
-      "quote": 3,
-      "boundary": 3,
-      "concept": 22,
-      "method": 9,
-      "case": 2,
-      "diagnostic": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "babeba86519e0a1c88deafba2c1367a1",
     "source_path": "取因假设论 (1卷)〖唐 义净译〗.txt",
     "source_ref": "取因假设论 (1卷)〖唐 义净译〗.txt",
     "chunk_count": 4,
-    "card_count": 26,
-    "card_types": {
-      "quote": 7,
-      "concept": 5,
-      "boundary": 7,
-      "method": 1,
-      "case": 1,
-      "task": 1,
-      "workflow": 1,
-      "template": 1,
-      "open_question": 1,
-      "transfer": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "17faa167aa82fad58ae41803c7cc80d3",
     "source_path": "唯识三十论颂 (1卷)〖唐 玄奘译〗.txt",
     "source_ref": "唯识三十论颂 (1卷)〖唐 玄奘译〗.txt",
     "chunk_count": 3,
-    "card_count": 15,
-    "card_types": {
-      "quote": 3,
-      "boundary": 1,
-      "concept": 8,
-      "workflow": 1,
-      "diagnostic": 2
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "03d77975abe7b3ce2fd5217e1064ea10",
     "source_path": "唯识二十论 (1卷)〖唐 玄奘译〗.txt",
     "source_ref": "唯识二十论 (1卷)〖唐 玄奘译〗.txt",
     "chunk_count": 4,
-    "card_count": 35,
-    "card_types": {
-      "quote": 11,
-      "boundary": 7,
-      "concept": 6,
-      "method": 3,
-      "case": 6,
-      "diagnostic": 1,
-      "open_question": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "22e1970d75d945e1c01a362811275204",
     "source_path": "唯识论 (1卷)〖后魏 瞿昙般若流支译〗.txt",
     "source_ref": "唯识论 (1卷)〖后魏 瞿昙般若流支译〗.txt",
     "chunk_count": 5,
-    "card_count": 40,
-    "card_types": {
-      "quote": 22,
-      "concept": 3,
-      "method": 3,
-      "case": 7,
-      "boundary": 5
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "5a2392fdd861aa6be051a325f57e2148",
     "source_path": "壹输卢迦论 (1卷)〖后魏 瞿昙般若留支译〗.txt",
     "source_ref": "壹输卢迦论 (1卷)〖后魏 瞿昙般若留支译〗.txt",
     "chunk_count": 3,
-    "card_count": 15,
-    "card_types": {
-      "quote": 5,
-      "boundary": 4,
-      "concept": 2,
-      "diagnostic": 3,
-      "task": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "550771e05a005d1a077a0812841a4f73",
     "source_path": "大丈夫论 (2卷)〖北凉 道泰译〗.txt",
     "source_ref": "大丈夫论 (2卷)〖北凉 道泰译〗.txt",
     "chunk_count": 7,
-    "card_count": 63,
-    "card_types": {
-      "quote": 16,
-      "boundary": 11,
-      "concept": 24,
-      "case": 6,
-      "method": 3,
-      "diagnostic": 2,
-      "failure_mode": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "7590254b5dd02b3bfff703810e549a5a",
     "source_path": "大乘中观释论 (9卷)〖安 惟净等译〗.txt",
     "source_ref": "大乘中观释论 (9卷)〖安 惟净等译〗.txt",
     "chunk_count": 11,
-    "card_count": 112,
-    "card_types": {
-      "quote": 65,
-      "boundary": 12,
-      "concept": 20,
-      "method": 4,
-      "case": 6,
-      "diagnostic": 3,
-      "failure_mode": 2
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "a1b123c8b6d6f14a61406a66339e8c51",
     "source_path": "大乘二十颂论 (1卷)〖宋 施护译〗.txt",
     "source_ref": "大乘二十颂论 (1卷)〖宋 施护译〗.txt",
     "chunk_count": 3,
-    "card_count": 14,
-    "card_types": {
-      "concept": 8,
-      "boundary": 1,
-      "quote": 2,
-      "case": 2,
-      "task": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "c82cd2a8364471306adc356a4930587c",
     "source_path": "大乘五蕴论 (1卷)〖唐 玄奘译〗.txt",
     "source_ref": "大乘五蕴论 (1卷)〖唐 玄奘译〗.txt",
     "chunk_count": 3,
-    "card_count": 16,
-    "card_types": {
-      "quote": 2,
-      "case": 1,
-      "boundary": 1,
-      "concept": 12
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "da87874fc505430938fa8f944a1328a8",
     "source_path": "大乘唯识论 (1卷)〖陈 真谛译〗.txt",
     "source_ref": "大乘唯识论 (1卷)〖陈 真谛译〗.txt",
     "chunk_count": 4,
-    "card_count": 26,
-    "card_types": {
-      "quote": 13,
-      "concept": 7,
-      "case": 3,
-      "boundary": 1,
-      "method": 2
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "1246f3c10b192ed98aa92cc52c8b4bc0",
     "source_path": "大乘广五蕴论 (1卷)〖唐 地婆诃罗译〗.txt",
     "source_ref": "大乘广五蕴论 (1卷)〖唐 地婆诃罗译〗.txt",
     "chunk_count": 4,
-    "card_count": 26,
-    "card_types": {
-      "quote": 2,
-      "concept": 23,
-      "boundary": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "d9666ef745ec7e47946e9bd288c0ef28",
     "source_path": "大乘广百论释论 (10卷)〖唐 玄奘译〗.txt",
     "source_ref": "大乘广百论释论 (10卷)〖唐 玄奘译〗.txt",
     "chunk_count": 4,
-    "card_count": 29,
-    "card_types": {
-      "quote": 19,
-      "boundary": 4,
-      "concept": 3,
-      "method": 2,
-      "case": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "0ba1e58ae2b5d1df506fb6b6dfc698f5",
     "source_path": "大乘庄严经论 (13卷)〖唐 波罗颇蜜多罗译〗.txt",
     "source_ref": "大乘庄严经论 (13卷)〖唐 波罗颇蜜多罗译〗.txt",
     "chunk_count": 5,
-    "card_count": 39,
-    "card_types": {
-      "quote": 13,
-      "boundary": 5,
-      "concept": 13,
-      "case": 3,
-      "method": 1,
-      "diagnostic": 2,
-      "workflow": 2
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "0cd487012e2c1f8e0aee736397c6dafc",
     "source_path": "大乘成业论 (1卷)〖唐 玄奘译〗.txt",
     "source_ref": "大乘成业论 (1卷)〖唐 玄奘译〗.txt",
     "chunk_count": 5,
-    "card_count": 51,
-    "card_types": {
-      "quote": 9,
-      "boundary": 8,
-      "case": 9,
-      "concept": 17,
-      "method": 2,
-      "workflow": 1,
-      "diagnostic": 3,
-      "open_question": 1,
-      "failure_mode": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "9350c3604efd258e1070f4a17fbb05ae",
     "source_path": "大乘掌珍论 (2卷)〖唐 玄奘译〗.txt",
     "source_ref": "大乘掌珍论 (2卷)〖唐 玄奘译〗.txt",
     "chunk_count": 7,
-    "card_count": 70,
-    "card_types": {
-      "quote": 22,
-      "method": 7,
-      "concept": 11,
-      "boundary": 7,
-      "case": 8,
-      "diagnostic": 6,
-      "failure_mode": 3,
-      "workflow": 3,
-      "template": 1,
-      "rubric": 2
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "8300f8de4c5c6659335ea9ee921d5f6b",
     "source_path": "大乘法界无差别论 (1卷)〖唐 提云般若等译〗.txt",
     "source_ref": "大乘法界无差别论 (1卷)〖唐 提云般若等译〗.txt",
     "chunk_count": 3,
-    "card_count": 16,
-    "card_types": {
-      "quote": 2,
-      "boundary": 2,
-      "concept": 11,
-      "method": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "f0f1d5ecef4f0ae5b3762abeb9f81aa8",
     "source_path": "大乘法界无差别论 (1卷)〖唐 提云般若译〗.txt",
     "source_ref": "大乘法界无差别论 (1卷)〖唐 提云般若译〗.txt",
     "chunk_count": 3,
-    "card_count": 15,
-    "card_types": {
-      "quote": 3,
-      "boundary": 2,
-      "concept": 9,
-      "case": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "edf570bcae026738141cd2778f4ce827",
     "source_path": "大乘百法明门论 (1卷)〖唐 玄奘译〗.txt",
     "source_ref": "大乘百法明门论 (1卷)〖唐 玄奘译〗.txt",
     "chunk_count": 3,
-    "card_count": 26,
-    "card_types": {
-      "quote": 6,
-      "boundary": 6,
-      "concept": 7,
-      "method": 7
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "e3f30178b21d3adf1af5b80e4c495039",
     "source_path": "大乘破有论 (1卷)〖宋 施护译〗.txt",
     "source_ref": "大乘破有论 (1卷)〖宋 施护译〗.txt",
     "chunk_count": 3,
-    "card_count": 18,
-    "card_types": {
-      "quote": 3,
-      "concept": 7,
-      "method": 2,
-      "boundary": 3,
-      "case": 1,
-      "rubric": 1,
-      "workflow": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "05f08f10cf11e2c73cbe3d3ecd8ecab2",
     "source_path": "大乘阿毗达磨杂集论 (16卷)〖唐 玄奘译〗.txt",
     "source_ref": "大乘阿毗达磨杂集论 (16卷)〖唐 玄奘译〗.txt",
     "chunk_count": 5,
-    "card_count": 42,
-    "card_types": {
-      "quote": 12,
-      "boundary": 3,
-      "case": 1,
-      "concept": 26
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "09b8149710adc348a6663818f799ccd1",
     "source_path": "大乘阿毗达磨集论 (7卷)〖唐 玄奘译〗.txt",
     "source_ref": "大乘阿毗达磨集论 (7卷)〖唐 玄奘译〗.txt",
     "chunk_count": 15,
-    "card_count": 158,
-    "card_types": {
-      "quote": 10,
-      "boundary": 5,
-      "concept": 136,
-      "method": 6,
-      "diagnostic": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "a0b83c1aefc701c7e289c88203de7dd1",
     "source_path": "广百论本 (1卷)〖唐 玄奘译〗.txt",
     "source_ref": "广百论本 (1卷)〖唐 玄奘译〗.txt",
     "chunk_count": 4,
-    "card_count": 30,
-    "card_types": {
-      "quote": 11,
-      "boundary": 4,
-      "concept": 11,
-      "case": 2,
-      "method": 1,
-      "task": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "617b723657cd483592b666a5ad06aa4e",
     "source_path": "成唯识宝生论 (5卷)〖唐 义净译〗.txt",
     "source_ref": "成唯识宝生论 (5卷)〖唐 义净译〗.txt",
     "chunk_count": 11,
-    "card_count": 117,
-    "card_types": {
-      "quote": 22,
-      "boundary": 16,
-      "concept": 25,
-      "method": 10,
-      "case": 24,
-      "diagnostic": 7,
-      "failure_mode": 7,
-      "workflow": 3,
-      "template": 1,
-      "open_question": 2
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "fd7df209b539393a2060b7db26a2e2ed",
     "source_path": "成唯识论 (10卷)〖唐 玄奘译〗.txt",
     "source_ref": "成唯识论 (10卷)〖唐 玄奘译〗.txt",
     "chunk_count": 4,
-    "card_count": 28,
-    "card_types": {
-      "quote": 4,
-      "boundary": 6,
-      "concept": 7,
-      "method": 4,
-      "case": 3,
-      "failure_mode": 1,
-      "diagnostic": 1,
-      "workflow": 1,
-      "template": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "2110bead9068ba62c0942a84239fc459",
     "source_path": "掌中论 (1卷)〖唐 义净译〗.txt",
     "source_ref": "掌中论 (1卷)〖唐 义净译〗.txt",
     "chunk_count": 3,
-    "card_count": 18,
-    "card_types": {
-      "quote": 7,
-      "boundary": 3,
-      "task": 1,
-      "concept": 3,
-      "case": 1,
-      "method": 1,
-      "failure_mode": 1,
-      "workflow": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "54f35db590c2b978ae1c1c5361d9702c",
     "source_path": "摄大乘论 (2卷)〖后魏 佛陀扇多译〗.txt",
     "source_ref": "摄大乘论 (2卷)〖后魏 佛陀扇多译〗.txt",
     "chunk_count": 9,
-    "card_count": 83,
-    "card_types": {
-      "quote": 17,
-      "boundary": 9,
-      "concept": 44,
-      "method": 6,
-      "case": 7
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "8bd0efa0e23593e4fe12345ac80e60a9",
     "source_path": "摄大乘论 (3卷)〖陈 真谛译〗.txt",
     "source_ref": "摄大乘论 (3卷)〖陈 真谛译〗.txt",
     "chunk_count": 11,
-    "card_count": 122,
-    "card_types": {
-      "quote": 18,
-      "case": 10,
-      "boundary": 6,
-      "concept": 67,
-      "method": 6,
-      "diagnostic": 6,
-      "task": 2,
-      "open_question": 1,
-      "failure_mode": 1,
-      "template": 2,
-      "workflow": 2,
-      "rubric": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "f404a62379aa6760cedb34ab215f8a03",
     "source_path": "摄大乘论本 (3卷)〖唐 玄奘译〗.txt",
     "source_ref": "摄大乘论本 (3卷)〖唐 玄奘译〗.txt",
     "chunk_count": 10,
-    "card_count": 103,
-    "card_types": {
-      "quote": 21,
-      "concept": 37,
-      "boundary": 8,
-      "method": 6,
-      "case": 19,
-      "diagnostic": 5,
-      "workflow": 3,
-      "task": 1,
-      "template": 1,
-      "open_question": 1,
-      "failure_mode": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "e6fe6e60110c37a6e8c95f101fec1fbc",
     "source_path": "摄大乘论释 (10卷)〖唐 玄奘译〗.txt",
     "source_ref": "摄大乘论释 (10卷)〖唐 玄奘译〗.txt",
     "chunk_count": 5,
-    "card_count": 39,
-    "card_types": {
-      "quote": 9,
-      "boundary": 6,
-      "concept": 15,
-      "method": 4,
-      "case": 4,
-      "diagnostic": 1
-    }
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "c0a8a0288f67f7d453641db7c692da88",
+    "source_path": "摄大乘论释 (10卷)〖唐 玄奘译〗_id3048.txt",
+    "source_ref": "摄大乘论释 (10卷)〖唐 玄奘译〗_id3048.txt",
+    "chunk_count": 5,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "47d5a6428c128c7e58ef10a7e17d2956",
+    "source_path": "摄大乘论释 (10卷)〖唐 玄奘译〗_id3049.txt",
+    "source_ref": "摄大乘论释 (10卷)〖唐 玄奘译〗_id3049.txt",
+    "chunk_count": 5,
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "db651bcfa9679cc2966a1d790694dc95",
     "source_path": "摄大乘论释 (15卷)〖陈 真谛译〗.txt",
     "source_ref": "摄大乘论释 (15卷)〖陈 真谛译〗.txt",
     "chunk_count": 6,
-    "card_count": 49,
-    "card_types": {
-      "quote": 9,
-      "case": 2,
-      "boundary": 5,
-      "concept": 29,
-      "method": 3,
-      "workflow": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "616b5251958fcecbc7b8b44b93419598",
     "source_path": "摄大乘论释论 (10卷)〖隋 笈多共行炬等译〗.txt",
     "source_ref": "摄大乘论释论 (10卷)〖隋 笈多共行炬等译〗.txt",
     "chunk_count": 5,
-    "card_count": 39,
-    "card_types": {
-      "quote": 6,
-      "boundary": 4,
-      "concept": 18,
-      "method": 1,
-      "case": 6,
-      "failure_mode": 1,
-      "diagnostic": 2,
-      "open_question": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "c9d85fd5a5ed37de61524704740843d9",
     "source_path": "无相思尘论 (1卷)〖陈 真谛译〗.txt",
     "source_ref": "无相思尘论 (1卷)〖陈 真谛译〗.txt",
     "chunk_count": 3,
-    "card_count": 14,
-    "card_types": {
-      "quote": 4,
-      "boundary": 3,
-      "concept": 4,
-      "case": 2,
-      "diagnostic": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "5d87a07cd919fdc058e1efca835c9924",
     "source_path": "显扬圣教论 (20卷)〖唐 玄奘译〗.txt",
     "source_ref": "显扬圣教论 (20卷)〖唐 玄奘译〗.txt",
     "chunk_count": 5,
-    "card_count": 45,
-    "card_types": {
-      "quote": 9,
-      "concept": 33,
-      "boundary": 1,
-      "case": 1,
-      "task": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "d3b0ef62d8c094842ba34dba67adf669",
     "source_path": "显扬圣教论颂 (1卷)〖唐 玄奘译〗.txt",
     "source_ref": "显扬圣教论颂 (1卷)〖唐 玄奘译〗.txt",
     "chunk_count": 4,
-    "card_count": 26,
-    "card_types": {
-      "quote": 3,
-      "concept": 23
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "e3ee32c881c32b476fed3257d5c828d6",
     "source_path": "显识论 (1卷)〖陈 真谛译〗.txt",
     "source_ref": "显识论 (1卷)〖陈 真谛译〗.txt",
     "chunk_count": 4,
-    "card_count": 25,
-    "card_types": {
-      "quote": 4,
-      "case": 4,
-      "concept": 16,
-      "boundary": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "9c8c4d1b4b2a449751c18ef0c8c80a99",
     "source_path": "王法正理论 (1卷)〖陈 玄奘译〗.txt",
     "source_ref": "王法正理论 (1卷)〖陈 玄奘译〗.txt",
     "chunk_count": 5,
-    "card_count": 34,
-    "card_types": {
-      "quote": 10,
-      "boundary": 1,
-      "concept": 23
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "6361ecfac68fd138ecb6beba34fb266d",
     "source_path": "瑜伽师地论 (100卷)〖唐 玄奘译〗.txt",
     "source_ref": "瑜伽师地论 (100卷)〖唐 玄奘译〗.txt",
     "chunk_count": 5,
-    "card_count": 39,
-    "card_types": {
-      "quote": 5,
-      "boundary": 10,
-      "concept": 20,
-      "case": 1,
-      "method": 1,
-      "workflow": 1,
-      "template": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "35fcc253c7c4df71fcf0a3add8391fd4",
     "source_path": "瑜伽师地论释 (1卷)〖唐 玄奘译〗.txt",
     "source_ref": "瑜伽师地论释 (1卷)〖唐 玄奘译〗.txt",
     "chunk_count": 5,
-    "card_count": 39,
-    "card_types": {
-      "quote": 19,
-      "boundary": 4,
-      "concept": 16
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "d95b77d72cdfdfa258a9fcbe10e26a6d",
     "source_path": "百字论 (1卷)〖后魏 菩提流支译〗.txt",
     "source_ref": "百字论 (1卷)〖后魏 菩提流支译〗.txt",
     "chunk_count": 4,
-    "card_count": 32,
-    "card_types": {
-      "quote": 12,
-      "case": 7,
-      "boundary": 3,
-      "concept": 3,
-      "task": 1,
-      "method": 6
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "c05067bf0b74dc4844e48811dc291790",
     "source_path": "百论 (2卷)〖姚秦 鸠摩罗什译〗.txt",
     "source_ref": "百论 (2卷)〖姚秦 鸠摩罗什译〗.txt",
     "chunk_count": 9,
-    "card_count": 97,
-    "card_types": {
-      "quote": 24,
-      "concept": 26,
-      "boundary": 16,
-      "method": 19,
-      "rubric": 1,
-      "case": 8,
-      "task": 1,
-      "diagnostic": 2
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "30d877fbf5cc243fd54d0df05942ef59",
     "source_path": "究竟一乘宝性论 (4卷)〖后魏 勒那摩提译〗.txt",
     "source_ref": "究竟一乘宝性论 (4卷)〖后魏 勒那摩提译〗.txt",
     "chunk_count": 5,
-    "card_count": 43,
-    "card_types": {
-      "quote": 9,
-      "concept": 22,
-      "method": 3,
-      "boundary": 4,
-      "task": 1,
-      "case": 2,
-      "workflow": 1,
-      "diagnostic": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "fdadf6d7f22bc32cb99be47239ebe811",
     "source_path": "般若灯论释 (15卷)〖唐 波罗颇蜜多罗译〗.txt",
     "source_ref": "般若灯论释 (15卷)〖唐 波罗颇蜜多罗译〗.txt",
     "chunk_count": 5,
-    "card_count": 40,
-    "card_types": {
-      "quote": 15,
-      "method": 4,
-      "case": 7,
-      "boundary": 6,
-      "concept": 2,
-      "diagnostic": 3,
-      "workflow": 1,
-      "failure_mode": 2
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "b5240a165ca1c44d3bbfe9b09bd62030",
     "source_path": "菩萨善戒经 (1卷)〖刘宋 求那跋摩译〗.txt",
     "source_ref": "菩萨善戒经 (1卷)〖刘宋 求那跋摩译〗.txt",
     "chunk_count": 4,
-    "card_count": 27,
-    "card_types": {
-      "quote": 6,
-      "boundary": 11,
-      "workflow": 2,
-      "concept": 1,
-      "failure_mode": 6,
-      "method": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "68391f72e90175478135d2ee146a5eda",
     "source_path": "菩萨善戒经 (9卷)〖刘宋 求那跋摩译〗.txt",
     "source_ref": "菩萨善戒经 (9卷)〖刘宋 求那跋摩译〗.txt",
     "chunk_count": 6,
-    "card_count": 52,
-    "card_types": {
-      "quote": 6,
-      "boundary": 6,
-      "concept": 39,
-      "workflow": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "c4316b227bb32f060e081db2c8ed20f0",
     "source_path": "菩萨地持经 (10卷)〖北凉 昙无谶译〗.txt",
     "source_ref": "菩萨地持经 (10卷)〖北凉 昙无谶译〗.txt",
     "chunk_count": 5,
-    "card_count": 40,
-    "card_types": {
-      "quote": 4,
-      "boundary": 7,
-      "concept": 20,
-      "case": 7,
-      "workflow": 1,
-      "diagnostic": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "52130c656210d3f8b9abc57c32e57c4a",
     "source_path": "观总相论颂 (1卷)〖唐 义净译〗.txt",
     "source_ref": "观总相论颂 (1卷)〖唐 义净译〗.txt",
     "chunk_count": 3,
-    "card_count": 12,
-    "card_types": {
-      "quote": 3,
-      "boundary": 3,
-      "task": 1,
-      "concept": 3,
-      "method": 2
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "1c73bfc7efd044d5d5829725bc7b8ecd",
     "source_path": "观所缘缘论 (1卷)〖唐 玄奘译〗.txt",
     "source_ref": "观所缘缘论 (1卷)〖唐 玄奘译〗.txt",
     "chunk_count": 3,
-    "card_count": 15,
-    "card_types": {
-      "quote": 6,
-      "boundary": 3,
-      "concept": 5,
-      "diagnostic": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "5b888f87450542d1f4ef67955b25c0f3",
     "source_path": "观所缘论释 (1卷)〖唐 义净译〗.txt",
     "source_ref": "观所缘论释 (1卷)〖唐 义净译〗.txt",
     "chunk_count": 4,
-    "card_count": 27,
-    "card_types": {
-      "quote": 6,
-      "boundary": 6,
-      "method": 1,
-      "case": 3,
-      "concept": 6,
-      "failure_mode": 2,
-      "diagnostic": 3
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "37eaeaa245e3db3aabeedc05a1256498",
     "source_path": "解卷论 (1卷)〖陈 真谛译〗.txt",
     "source_ref": "解卷论 (1卷)〖陈 真谛译〗.txt",
     "chunk_count": 3,
-    "card_count": 17,
-    "card_types": {
-      "concept": 2,
-      "boundary": 2,
-      "quote": 6,
-      "case": 1,
-      "method": 2,
-      "diagnostic": 1,
-      "failure_mode": 1,
-      "workflow": 1,
-      "task": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "6056efbb873d36dad207d65dee257ce1",
     "source_path": "转识论 (1卷)〖陈 真谛译〗.txt",
     "source_ref": "转识论 (1卷)〖陈 真谛译〗.txt",
     "chunk_count": 3,
-    "card_count": 18,
-    "card_types": {
-      "concept": 9,
-      "quote": 3,
-      "boundary": 3,
-      "method": 1,
-      "case": 1,
-      "workflow": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "d4d64308e83afeae88d743b0f7f2104c",
     "source_path": "辩中边论 (3卷)〖唐 玄奘译〗.txt",
     "source_ref": "辩中边论 (3卷)〖唐 玄奘译〗.txt",
     "chunk_count": 8,
-    "card_count": 84,
-    "card_types": {
-      "quote": 13,
-      "boundary": 8,
-      "concept": 58,
-      "case": 1,
-      "method": 3,
-      "diagnostic": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "add349f6d0668e44956cd88f2cf53e21",
     "source_path": "辩中边论颂 (1卷)〖唐 玄奘译〗.txt",
     "source_ref": "辩中边论颂 (1卷)〖唐 玄奘译〗.txt",
     "chunk_count": 3,
-    "card_count": 26,
-    "card_types": {
-      "quote": 5,
-      "boundary": 2,
-      "concept": 16,
-      "case": 1,
-      "method": 1,
-      "task": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "4055bf4e329bb2c5c70d0b4506a03282",
     "source_path": "顺中论义入大般若波罗蜜经初品法门 (2卷)〖元魏 瞿昙般若流支译〗.txt",
     "source_ref": "顺中论义入大般若波罗蜜经初品法门 (2卷)〖元魏 瞿昙般若流支译〗.txt",
     "chunk_count": 7,
-    "card_count": 64,
-    "card_types": {
-      "quote": 45,
-      "concept": 11,
-      "case": 1,
-      "boundary": 5,
-      "task": 1,
-      "method": 1
-    }
+    "card_count": 0,
+    "card_types": {}
   }
 ]

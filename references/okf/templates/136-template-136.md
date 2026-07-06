@@ -4,7 +4,7 @@ title: Template 136
 description: Template 136
 resource: lineage://buddhist-canons/templates:136
 tags: ["lineage", "template"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: esoteric
 source_course_id: course-006
 ---

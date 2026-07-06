@@ -4,7 +4,7 @@ title: Study Path 105
 description: Study Path 105
 resource: lineage://buddhist-canons/study_paths:105
 tags: ["lineage", "study-path"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: lotus-avatamsaka
 source_course_id: course-008
 ---

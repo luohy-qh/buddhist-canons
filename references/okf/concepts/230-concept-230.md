@@ -4,7 +4,7 @@ title: Concept 230
 description: Concept 230
 resource: lineage://buddhist-canons/concepts:230
 tags: ["lineage", "concept"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: agama
 source_course_id: course-002
 ---

@@ -4,7 +4,7 @@ title: Diagnostic 1421
 description: Diagnostic 1421
 resource: lineage://buddhist-canons/diagnostics:1421
 tags: ["lineage", "diagnostic"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: sutra-commentary
 source_course_id: course-016
 ---

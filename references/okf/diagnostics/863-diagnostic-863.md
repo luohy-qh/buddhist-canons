@@ -4,7 +4,7 @@ title: Diagnostic 863
 description: Diagnostic 863
 resource: lineage://buddhist-canons/diagnostics:863
 tags: ["lineage", "diagnostic"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: mahavaipulya
 source_course_id: course-010
 ---

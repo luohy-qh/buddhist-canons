@@ -4,7 +4,7 @@ title: Template 59
 description: Template 59
 resource: lineage://buddhist-canons/templates:059
 tags: ["lineage", "template"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: esoteric
 source_course_id: course-006
 ---

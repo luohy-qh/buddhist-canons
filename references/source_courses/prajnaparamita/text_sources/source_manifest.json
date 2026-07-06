@@ -1,8 +1,8 @@
 {
   "schema_version": "0.1",
-  "generated_at": "2026-07-04T04:02:22",
-  "source_count": 47,
-  "chunk_count": 209,
+  "generated_at": "2026-07-06T11:00:23",
+  "source_count": 49,
+  "chunk_count": 219,
   "max_chars": 4000,
   "overlap_chars": 200,
   "sources": [
@@ -401,6 +401,24 @@
       "suffix": ".txt",
       "chars": 8124,
       "content_sha256": "48484d813f9f12083d0d86c070f4691c6d6cae1c4b3714f7eac95dcd17210471"
+    },
+    {
+      "source_id": "b136db8886a9217849895f8cf4ddb63b",
+      "source_path": "金刚般若波罗蜜经 (1卷)〖元魏 菩提流支译〗_id1793.txt",
+      "source_ref": "金刚般若波罗蜜经 (1卷)〖元魏 菩提流支译〗_id1793.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\金刚般若波罗蜜经 (1卷)〖元魏 菩提流支译〗_id1793.txt",
+      "suffix": ".txt",
+      "chars": 8165,
+      "content_sha256": "dc51d79f94da3e896476221a6f938375099fa335f3eee053b891faada4543220"
+    },
+    {
+      "source_id": "d020811d8c59f9b8df2b7f30296041bc",
+      "source_path": "金刚般若波罗蜜经 (1卷)〖元魏 菩提流支译〗_id1794.txt",
+      "source_ref": "金刚般若波罗蜜经 (1卷)〖元魏 菩提流支译〗_id1794.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\般若部\\金刚般若波罗蜜经 (1卷)〖元魏 菩提流支译〗_id1794.txt",
+      "suffix": ".txt",
+      "chars": 8263,
+      "content_sha256": "dcaa78999d1a39cc0af9d6e1ad1dafb2dae64ae884b412996fc8a1ca63f5d83f"
     },
     {
       "source_id": "5c61b435dc31ad44ae827a33f3f5b27a",

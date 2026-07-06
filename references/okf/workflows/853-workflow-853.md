@@ -4,7 +4,7 @@ title: Workflow 853
 description: Workflow 853
 resource: lineage://buddhist-canons/workflows:853
 tags: ["lineage", "workflow"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: ratnakuta-nirvana
 source_course_id: course-013
 ---

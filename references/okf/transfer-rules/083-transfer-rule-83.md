@@ -4,7 +4,7 @@ title: Transfer Rule 83
 description: Transfer Rule 83
 resource: lineage://buddhist-canons/transfer_rules:083
 tags: ["lineage", "transfer"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: esoteric
 source_course_id: course-006
 ---

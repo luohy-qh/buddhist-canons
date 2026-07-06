@@ -1288,6 +1288,22 @@
     }
   },
   {
+    "source_id": "c486bfed28e740cf3de302e584a44c23",
+    "source_path": "律戒本疏 (1卷)〖〗_id3714.txt",
+    "source_ref": "律戒本疏 (1卷)〖〗_id3714.txt",
+    "chunk_count": 14,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "8db2bd2cb168f7b53d49c4fd3ba3ed13",
+    "source_path": "律戒本疏 (1卷)〖〗_id3715.txt",
+    "source_ref": "律戒本疏 (1卷)〖〗_id3715.txt",
+    "chunk_count": 6,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
     "source_id": "6a86cc84543b81ac51f5abfbfc65aaba",
     "source_path": "律抄 (1卷)〖〗.txt",
     "source_ref": "律抄 (1卷)〖〗.txt",
@@ -1397,6 +1413,22 @@
       "case": 3,
       "workflow": 1
     }
+  },
+  {
+    "source_id": "4f08f22f573b09731a1021402a17da7c",
+    "source_path": "护身命经 (1卷)〖〗_id3792.txt",
+    "source_ref": "护身命经 (1卷)〖〗_id3792.txt",
+    "chunk_count": 3,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "15c5cee90a489b89eef3415301e5d906",
+    "source_path": "护身命经 (1卷)〖〗_id3793.txt",
+    "source_ref": "护身命经 (1卷)〖〗_id3793.txt",
+    "chunk_count": 3,
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "e761c378bc339df3c9ecf50c30d10ff3",
@@ -1854,6 +1886,30 @@
     }
   },
   {
+    "source_id": "2c93d67c33ce7635deb7cc0d9a9c50ed",
+    "source_path": "法华经疏 (1卷)〖〗_id3674.txt",
+    "source_ref": "法华经疏 (1卷)〖〗_id3674.txt",
+    "chunk_count": 6,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "74a6fbbab08397d6bd057a3a90c505cb",
+    "source_path": "法华经疏 (1卷)〖〗_id3675.txt",
+    "source_ref": "法华经疏 (1卷)〖〗_id3675.txt",
+    "chunk_count": 5,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "440c60c509bba79a52b8b2f779453b53",
+    "source_path": "法华经疏 (1卷)〖〗_id3676.txt",
+    "source_ref": "法华经疏 (1卷)〖〗_id3676.txt",
+    "chunk_count": 4,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
     "source_id": "281bfff2945c1c89998741d0c1a4a09b",
     "source_path": "法华问答 (1卷)〖〗.txt",
     "source_ref": "法华问答 (1卷)〖〗.txt",
@@ -2125,6 +2181,30 @@
     }
   },
   {
+    "source_id": "6b33afa46c73a99749a58b0f668b160b",
+    "source_path": "礼忏文 (1卷)〖〗_id3781.txt",
+    "source_ref": "礼忏文 (1卷)〖〗_id3781.txt",
+    "chunk_count": 3,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "64694520d27ed986bc013c3918a19a1d",
+    "source_path": "礼忏文 (1卷)〖〗_id3782.txt",
+    "source_ref": "礼忏文 (1卷)〖〗_id3782.txt",
+    "chunk_count": 3,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "b3166106f0e8ca2c108277b84f972ad7",
+    "source_path": "礼忏文 (1卷)〖〗_id3783.txt",
+    "source_ref": "礼忏文 (1卷)〖〗_id3783.txt",
+    "chunk_count": 3,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
     "source_id": "0d7417ed27955ab115e84c224a2e64de",
     "source_path": "祈愿文 (1卷)〖〗.txt",
     "source_ref": "祈愿文 (1卷)〖〗.txt",
@@ -2134,6 +2214,22 @@
       "quote": 9,
       "boundary": 1
     }
+  },
+  {
+    "source_id": "503e86e9cf55cb6605b9a9a4d74566ec",
+    "source_path": "祈愿文 (1卷)〖〗_id3773.txt",
+    "source_ref": "祈愿文 (1卷)〖〗_id3773.txt",
+    "chunk_count": 3,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "60e3dcf071d211a6ed8d1e844228eaf2",
+    "source_path": "祈愿文 (1卷)〖〗_id3774.txt",
+    "source_ref": "祈愿文 (1卷)〖〗_id3774.txt",
+    "chunk_count": 3,
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "4e10167f5c4b1be209aa53f892fce4fb",
@@ -2263,6 +2359,30 @@
     }
   },
   {
+    "source_id": "551cbd7d92c73d5397ff8cc12a367557",
+    "source_path": "维摩经疏 (1卷)〖〗_id3696.txt",
+    "source_ref": "维摩经疏 (1卷)〖〗_id3696.txt",
+    "chunk_count": 7,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "0d1c22bbd295e4884b59c19a3b69a86d",
+    "source_path": "维摩经疏 (1卷)〖〗_id3697.txt",
+    "source_ref": "维摩经疏 (1卷)〖〗_id3697.txt",
+    "chunk_count": 7,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "cb3a615f79cd20c1515973508fe4f7fc",
+    "source_path": "维摩经疏 (1卷)〖〗_id3700.txt",
+    "source_ref": "维摩经疏 (1卷)〖〗_id3700.txt",
+    "chunk_count": 3,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
     "source_id": "efe285304859c3af34483c8d386e8dd9",
     "source_path": "维摩经疏卷第三．第六 (2卷)〖〗.txt",
     "source_ref": "维摩经疏卷第三．第六 (2卷)〖〗.txt",
@@ -2342,6 +2462,22 @@
       "concept": 15,
       "method": 4
     }
+  },
+  {
+    "source_id": "f1d5c3d1461bd552a916bcf22973e272",
+    "source_path": "药师经疏 (1卷)〖〗_id3692.txt",
+    "source_ref": "药师经疏 (1卷)〖〗_id3692.txt",
+    "chunk_count": 5,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "ca03fdd7910f61a83ef5189ef1c0597d",
+    "source_path": "药师经疏 (1卷)〖〗_id3693.txt",
+    "source_ref": "药师经疏 (1卷)〖〗_id3693.txt",
+    "chunk_count": 10,
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "7d3ee1a3f3c4e6e097a947dfdd02a982",
@@ -2548,6 +2684,22 @@
       "workflow": 2,
       "transfer": 1
     }
+  },
+  {
+    "source_id": "5da84243811dbb61fdeea78f3a0ad862",
+    "source_path": "金刚经疏 (1卷)〖〗_id3662.txt",
+    "source_ref": "金刚经疏 (1卷)〖〗_id3662.txt",
+    "chunk_count": 7,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "d76b68e9286248a589cc2b69dfc5ddbe",
+    "source_path": "金刚经疏 (1卷)〖〗_id3663.txt",
+    "source_ref": "金刚经疏 (1卷)〖〗_id3663.txt",
+    "chunk_count": 4,
+    "card_count": 0,
+    "card_types": {}
   },
   {
     "source_id": "e316492133a8988e5f8152394862d870",

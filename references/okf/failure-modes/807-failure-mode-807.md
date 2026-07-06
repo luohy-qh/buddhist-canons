@@ -4,7 +4,7 @@ title: Failure Mode 807
 description: Failure Mode 807
 resource: lineage://buddhist-canons/failure_modes:807
 tags: ["lineage", "failure-mode"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: vinaya
 source_course_id: course-018
 ---

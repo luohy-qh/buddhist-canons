@@ -4,7 +4,7 @@ title: Template 262
 description: Template 262
 resource: lineage://buddhist-canons/templates:262
 tags: ["lineage", "template"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: prajnaparamita
 source_course_id: course-012
 ---

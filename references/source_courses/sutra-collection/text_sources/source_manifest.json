@@ -1,8 +1,8 @@
 {
   "schema_version": "0.1",
-  "generated_at": "2026-07-04T20:45:15",
-  "source_count": 422,
-  "chunk_count": 1852,
+  "generated_at": "2026-07-06T11:00:20",
+  "source_count": 444,
+  "chunk_count": 1932,
   "max_chars": 4000,
   "overlap_chars": 200,
   "sources": [
@@ -77,6 +77,24 @@
       "suffix": ".txt",
       "chars": 1112,
       "content_sha256": "b1b484e5dd05daf4cfe7eb7a13567d7e2f8daaeaaf3d29e62460dc32cd118a48"
+    },
+    {
+      "source_id": "f6dd2e960f514aaa0f9f501439b202db",
+      "source_path": "五母子经 (1卷)〖吴 支谦译〗_id1958.txt",
+      "source_ref": "五母子经 (1卷)〖吴 支谦译〗_id1958.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\五母子经 (1卷)〖吴 支谦译〗_id1958.txt",
+      "suffix": ".txt",
+      "chars": 1146,
+      "content_sha256": "e41f100abe0fe2942bac4a2f6515d18ab71e9302a2322cba41449c650f1774aa"
+    },
+    {
+      "source_id": "5b439027b964a09c82cd0fcc262cda95",
+      "source_path": "五母子经 (1卷)〖吴 支谦译〗_id1959.txt",
+      "source_ref": "五母子经 (1卷)〖吴 支谦译〗_id1959.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\五母子经 (1卷)〖吴 支谦译〗_id1959.txt",
+      "suffix": ".txt",
+      "chars": 959,
+      "content_sha256": "ea7143130711574f6f142c86856d2a5101b3172aefaeb3065ca1288bd49c6346"
     },
     {
       "source_id": "b23f2727f83b7fb39c87a647241646ad",
@@ -275,6 +293,24 @@
       "suffix": ".txt",
       "chars": 1363,
       "content_sha256": "01a17164f5962fc2f77dc930e69d173705dcd6851644c6cb28642fcb4f8474df"
+    },
+    {
+      "source_id": "eeb435c21f07099c97b5b5898bb60809",
+      "source_path": "佛说五无反复经 (1卷)〖刘宋 沮渠京声译〗_id2156.txt",
+      "source_ref": "佛说五无反复经 (1卷)〖刘宋 沮渠京声译〗_id2156.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说五无反复经 (1卷)〖刘宋 沮渠京声译〗_id2156.txt",
+      "suffix": ".txt",
+      "chars": 1403,
+      "content_sha256": "e23843fd77e47b042a4f80ed4ea8da934d63b546f07c640e46275b13caa88de5"
+    },
+    {
+      "source_id": "5f606a3f66736e8a187c8ab5ab965698",
+      "source_path": "佛说五无反复经 (1卷)〖刘宋 沮渠京声译〗_id2157.txt",
+      "source_ref": "佛说五无反复经 (1卷)〖刘宋 沮渠京声译〗_id2157.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说五无反复经 (1卷)〖刘宋 沮渠京声译〗_id2157.txt",
+      "suffix": ".txt",
+      "chars": 1445,
+      "content_sha256": "4e25f783a22568eb8e85fdb26d4feb6545cfe2641dae1519aba2f315ccd717ae"
     },
     {
       "source_id": "4582f6c81d685d4e8fc8d27204509c9b",
@@ -1384,6 +1420,24 @@
       "content_sha256": "de840c50531d6781f1cd5e1e73fdd8d4d362e2e2186c75de82507f0498afdfe0"
     },
     {
+      "source_id": "cfa492527b6cc295451051fad260ef6d",
+      "source_path": "佛说时非时经 (1卷)〖西晋 若罗严译〗_id2200.txt",
+      "source_ref": "佛说时非时经 (1卷)〖西晋 若罗严译〗_id2200.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说时非时经 (1卷)〖西晋 若罗严译〗_id2200.txt",
+      "suffix": ".txt",
+      "chars": 1111,
+      "content_sha256": "cfba69b53d90945c4e4f61b88298b87c12cb98ad35813027590921d6bf5d540e"
+    },
+    {
+      "source_id": "62f1ff3ed2e7e654a1f4ad8d25a13702",
+      "source_path": "佛说时非时经 (1卷)〖西晋 若罗严译〗_id2201.txt",
+      "source_ref": "佛说时非时经 (1卷)〖西晋 若罗严译〗_id2201.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说时非时经 (1卷)〖西晋 若罗严译〗_id2201.txt",
+      "suffix": ".txt",
+      "chars": 1330,
+      "content_sha256": "496cf6a7acf714b0e9a29278eace71b07b2b62b6257689df38d277005371c949"
+    },
+    {
       "source_id": "51fd832af9fdc1bc7ace82169726e68d",
       "source_path": "佛说月上女经 (2卷)〖隋 阇那崛多译〗.txt",
       "source_ref": "佛说月上女经 (2卷)〖隋 阇那崛多译〗.txt",
@@ -1409,6 +1463,24 @@
       "suffix": ".txt",
       "chars": 4967,
       "content_sha256": "14cccc8edc3e64e8bbaad4d5c51541ff4a6d00d6360b0d09090c4f2cca1806c2"
+    },
+    {
+      "source_id": "886c64514295554517ea691f1e8065fd",
+      "source_path": "佛说月灯三昧经 (1卷)〖刘宋 先公译〗_id2044.txt",
+      "source_ref": "佛说月灯三昧经 (1卷)〖刘宋 先公译〗_id2044.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说月灯三昧经 (1卷)〖刘宋 先公译〗_id2044.txt",
+      "suffix": ".txt",
+      "chars": 5005,
+      "content_sha256": "ef21e5dbd79d07f1cabae8eb61946b7475a1e31cae1784b5cdd075a913c2aaaf"
+    },
+    {
+      "source_id": "f62c1774d013f6946469e5f9e8fb7567",
+      "source_path": "佛说月灯三昧经 (1卷)〖刘宋 先公译〗_id2045.txt",
+      "source_ref": "佛说月灯三昧经 (1卷)〖刘宋 先公译〗_id2045.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说月灯三昧经 (1卷)〖刘宋 先公译〗_id2045.txt",
+      "suffix": ".txt",
+      "chars": 9505,
+      "content_sha256": "223f63007c1c919695a413365bdbba73fe1d98ff68732e65017a67d9cbebae14"
     },
     {
       "source_id": "1be6e1dacce49ad39ad33dc92ba45252",
@@ -1499,6 +1571,24 @@
       "suffix": ".txt",
       "chars": 1543,
       "content_sha256": "3198bac7df92e69391b0602cb87b209949250a46959ce9de40c2fce9f6f9fc11"
+    },
+    {
+      "source_id": "71a764ee5851e029da0563f43ceb6723",
+      "source_path": "佛说树提伽经 (1卷)〖刘宋 求那跋陀罗译〗_id1942.txt",
+      "source_ref": "佛说树提伽经 (1卷)〖刘宋 求那跋陀罗译〗_id1942.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说树提伽经 (1卷)〖刘宋 求那跋陀罗译〗_id1942.txt",
+      "suffix": ".txt",
+      "chars": 1583,
+      "content_sha256": "60ae46940a91f19bf752af41654ea688e78ccef2ff4e98e9a5ba5fee1d23e281"
+    },
+    {
+      "source_id": "bd085277940a51ee23f06ecff8e6b12a",
+      "source_path": "佛说树提伽经 (1卷)〖刘宋 求那跋陀罗译〗_id1943.txt",
+      "source_ref": "佛说树提伽经 (1卷)〖刘宋 求那跋陀罗译〗_id1943.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说树提伽经 (1卷)〖刘宋 求那跋陀罗译〗_id1943.txt",
+      "suffix": ".txt",
+      "chars": 1572,
+      "content_sha256": "50d1c2bcf9dd334a89ea2b65858a517b4d179495476e7fa06abf09a8a1eb0fa6"
     },
     {
       "source_id": "75a54b22213254914e997744eab25320",
@@ -1807,6 +1897,24 @@
       "content_sha256": "c0bbb37055584d18d2afe9646ec409e08a015dcb46af037a0c04b5161f4f454b"
     },
     {
+      "source_id": "b005be2d094dc2af5ab706a573a529c7",
+      "source_path": "佛说罪福报应经 (1卷)〖刘宋 求那跋陀罗译〗_id2151.txt",
+      "source_ref": "佛说罪福报应经 (1卷)〖刘宋 求那跋陀罗译〗_id2151.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说罪福报应经 (1卷)〖刘宋 求那跋陀罗译〗_id2151.txt",
+      "suffix": ".txt",
+      "chars": 1948,
+      "content_sha256": "42b4ce16b4df9ea03b55103f30fb89a34223fe6cef454b4bfe369c3b6471f1f0"
+    },
+    {
+      "source_id": "f577fdbd48626a94a9f4902a0de2d1da",
+      "source_path": "佛说罪福报应经 (1卷)〖刘宋 求那跋陀罗译〗_id2152.txt",
+      "source_ref": "佛说罪福报应经 (1卷)〖刘宋 求那跋陀罗译〗_id2152.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说罪福报应经 (1卷)〖刘宋 求那跋陀罗译〗_id2152.txt",
+      "suffix": ".txt",
+      "chars": 2442,
+      "content_sha256": "1db52c28844415ee9e9f7dc4fbe0f397587bd38c085b55f396f338672213038e"
+    },
+    {
       "source_id": "5b53a45c1915ec3c6b3905300266fd92",
       "source_path": "佛说老女人经 (1卷)〖吴 支谦译〗.txt",
       "source_ref": "佛说老女人经 (1卷)〖吴 支谦译〗.txt",
@@ -2086,6 +2194,24 @@
       "content_sha256": "e32dda3c25dcd737384c2c668a9074dbc725a7e987c86775a90bf45a44f4f107"
     },
     {
+      "source_id": "3cf9712c821a9ddc816158db34a6f0b3",
+      "source_path": "佛说贫穷老公经 (1卷)〖刘宋 慧简译〗_id2204.txt",
+      "source_ref": "佛说贫穷老公经 (1卷)〖刘宋 慧简译〗_id2204.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说贫穷老公经 (1卷)〖刘宋 慧简译〗_id2204.txt",
+      "suffix": ".txt",
+      "chars": 1590,
+      "content_sha256": "ca6cd536514593742eeebe7c590fb47f8fa9378cd984588da7bd3422e0e41487"
+    },
+    {
+      "source_id": "22d3d1e39903d3661f199d31defaa3c9",
+      "source_path": "佛说贫穷老公经 (1卷)〖刘宋 慧简译〗_id2205.txt",
+      "source_ref": "佛说贫穷老公经 (1卷)〖刘宋 慧简译〗_id2205.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说贫穷老公经 (1卷)〖刘宋 慧简译〗_id2205.txt",
+      "suffix": ".txt",
+      "chars": 1486,
+      "content_sha256": "9771f2d1d0348424c59a7acb59d74dc36ba190e0c3536c91c19110cc5b60464b"
+    },
+    {
       "source_id": "eda7d7a3e7a9d5875b49c5ce4dd556aa",
       "source_path": "佛说超日明三昧经 (2卷)〖西晋 聂承远译〗.txt",
       "source_ref": "佛说超日明三昧经 (2卷)〖西晋 聂承远译〗.txt",
@@ -2291,6 +2417,24 @@
       "suffix": ".txt",
       "chars": 2577,
       "content_sha256": "085224a06c3d9158c17d0a1f6a0179779f1e44dc50399e74abccc7e998864860"
+    },
+    {
+      "source_id": "e29999d4b24fd9ed3cf67383d7cc44e9",
+      "source_path": "佛说阿难问事佛吉凶经 (1卷)〖后汉 安世高译〗_id1893.txt",
+      "source_ref": "佛说阿难问事佛吉凶经 (1卷)〖后汉 安世高译〗_id1893.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说阿难问事佛吉凶经 (1卷)〖后汉 安世高译〗_id1893.txt",
+      "suffix": ".txt",
+      "chars": 2619,
+      "content_sha256": "01e06d7f1690fdb4baed1dcdc575eb61437c2ae8ae5d4cfb9a3fb82a11c6228d"
+    },
+    {
+      "source_id": "93fe26f6121aadfd1eeb2f3c0c7f6c01",
+      "source_path": "佛说阿难问事佛吉凶经 (1卷)〖后汉 安世高译〗_id1894.txt",
+      "source_ref": "佛说阿难问事佛吉凶经 (1卷)〖后汉 安世高译〗_id1894.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\佛说阿难问事佛吉凶经 (1卷)〖后汉 安世高译〗_id1894.txt",
+      "suffix": ".txt",
+      "chars": 3285,
+      "content_sha256": "bf697abb9b77f72a32bcc98c06613c70eabb9ece6f985dfcaf14c2f74a48a6e4"
     },
     {
       "source_id": "0b7f765d10aa5a7ec80b7b91bdb7580d",
@@ -3211,6 +3355,24 @@
       "content_sha256": "4b51ce0908cefad4ec4310c1e2e39ed848a4a7929d54be205e6b4ec3d06dbec3"
     },
     {
+      "source_id": "9477c90f99b83ce3f735e5c42d728a9c",
+      "source_path": "未来星宿劫千佛名经 (1卷)〖失译〗_id1848.txt",
+      "source_ref": "未来星宿劫千佛名经 (1卷)〖失译〗_id1848.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\未来星宿劫千佛名经 (1卷)〖失译〗_id1848.txt",
+      "suffix": ".txt",
+      "chars": 8747,
+      "content_sha256": "5dbb8fa75b31da22c7ff216f230a508c02bb6e101026d792518f07124d24b384"
+    },
+    {
+      "source_id": "09bfaa64fc1d4b975e98968941f0af3a",
+      "source_path": "未来星宿劫千佛名经 (1卷)〖失译〗_id1849.txt",
+      "source_ref": "未来星宿劫千佛名经 (1卷)〖失译〗_id1849.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\未来星宿劫千佛名经 (1卷)〖失译〗_id1849.txt",
+      "suffix": ".txt",
+      "chars": 8636,
+      "content_sha256": "c0bd66f83e58f4917167d7295375ff892a44c7cdb7859f6bd10d4c9d3ef69249"
+    },
+    {
       "source_id": "14bceb4313fd87e423e59605314df624",
       "source_path": "本事经 (7卷)〖唐 玄奘译〗.txt",
       "source_ref": "本事经 (7卷)〖唐 玄奘译〗.txt",
@@ -3326,6 +3488,24 @@
       "suffix": ".txt",
       "chars": 11942,
       "content_sha256": "af8a89f3da8730bebda0ac9bb030e6bb15b2ffd5dd4f3912319fe7467ad76bde"
+    },
+    {
+      "source_id": "b6618b935248ad608bff4f042ff915ae",
+      "source_path": "现在贤劫千佛名经 (1卷)〖失译〗_id1846.txt",
+      "source_ref": "现在贤劫千佛名经 (1卷)〖失译〗_id1846.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\现在贤劫千佛名经 (1卷)〖失译〗_id1846.txt",
+      "suffix": ".txt",
+      "chars": 11977,
+      "content_sha256": "735900f3583d93eeaed4891badb7cde538bb18b05ccc0e944a58796f28fdca91"
+    },
+    {
+      "source_id": "543459a31a47a846661009336f12dcee",
+      "source_path": "现在贤劫千佛名经 (1卷)〖失译〗_id1847.txt",
+      "source_ref": "现在贤劫千佛名经 (1卷)〖失译〗_id1847.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\现在贤劫千佛名经 (1卷)〖失译〗_id1847.txt",
+      "suffix": ".txt",
+      "chars": 7243,
+      "content_sha256": "c77a815cb30f0a29cd07bd6302bcb213cd982c26e64cebd72fce27964df09ba7"
     },
     {
       "source_id": "703047afaa136d58c8a45b016454cfc9",
@@ -3677,6 +3857,24 @@
       "suffix": ".txt",
       "chars": 10016,
       "content_sha256": "519e5aad480f3bbeb4344800cfc83420c2322a13879c44453cfce9a7d1817dbf"
+    },
+    {
+      "source_id": "2abe2c62d9c2d21189def1f1357d1cda",
+      "source_path": "过去庄严劫千佛名经 (1卷)〖失译〗_id1844.txt",
+      "source_ref": "过去庄严劫千佛名经 (1卷)〖失译〗_id1844.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\过去庄严劫千佛名经 (1卷)〖失译〗_id1844.txt",
+      "suffix": ".txt",
+      "chars": 10052,
+      "content_sha256": "4afa21a3a9706afa21fe72bbe38d52d308e1919cf4841cb8fe7bf8c94d5202fa"
+    },
+    {
+      "source_id": "b49e559325f114ee43873fb78a6c9d29",
+      "source_path": "过去庄严劫千佛名经 (1卷)〖失译〗_id1845.txt",
+      "source_ref": "过去庄严劫千佛名经 (1卷)〖失译〗_id1845.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\经集部\\过去庄严劫千佛名经 (1卷)〖失译〗_id1845.txt",
+      "suffix": ".txt",
+      "chars": 7631,
+      "content_sha256": "31a429c783ff4890f0ca86f00b285b7c9bf691889fcb1cd9f15d3d2a2d347cc5"
     },
     {
       "source_id": "42e9f6c9cb795af648cae2515102fe0b",

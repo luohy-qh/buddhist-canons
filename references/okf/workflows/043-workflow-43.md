@@ -4,7 +4,7 @@ title: Workflow 43
 description: Workflow 43
 resource: lineage://buddhist-canons/workflows:043
 tags: ["lineage", "workflow"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: abhidharma
 source_course_id: course-001
 ---

@@ -4,7 +4,7 @@ title: Concept 806
 description: Concept 806
 resource: lineage://buddhist-canons/concepts:806
 tags: ["lineage", "concept"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: lotus-avatamsaka
 source_course_id: course-008
 ---

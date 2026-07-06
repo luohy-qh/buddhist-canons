@@ -1,26 +1,12 @@
 {
   "schema_version": "0.1",
-  "generated_at": "2026-07-04T03:19:25",
-  "source_count": 63,
-  "chunk_count": 341,
-  "card_count": 2877,
-  "card_counts": {
-    "boundary": 319,
-    "case": 228,
-    "concept": 1291,
-    "diagnostic": 75,
-    "failure_mode": 42,
-    "method": 175,
-    "open_question": 10,
-    "quote": 675,
-    "rubric": 5,
-    "task": 17,
-    "template": 8,
-    "transfer": 1,
-    "workflow": 31
-  },
+  "generated_at": "2026-07-06T10:59:54",
+  "source_count": 65,
+  "chunk_count": 351,
+  "card_count": 0,
+  "card_counts": {},
   "empty_chunk_count": 0,
   "llm_used": false,
-  "llm_failures": 1,
-  "status": "usable"
+  "llm_failures": 0,
+  "status": "thin"
 }

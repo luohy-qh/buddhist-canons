@@ -41,7 +41,7 @@ Use it for progressive reading, human review, cross-agent exchange, and concept 
 
 ## Quotes
 
-- [Quotes](quotes/) - 2251 concept files
+- [Quotes](quotes/) - 4629 concept files
 
 ## Boundaries
 

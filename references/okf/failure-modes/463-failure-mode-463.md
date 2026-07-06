@@ -4,7 +4,7 @@ title: Failure Mode 463
 description: Failure Mode 463
 resource: lineage://buddhist-canons/failure_modes:463
 tags: ["lineage", "failure-mode"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: ratnakuta-nirvana
 source_course_id: course-013
 ---

@@ -4,7 +4,7 @@ title: Boundary 816
 description: Boundary 816
 resource: lineage://buddhist-canons/boundaries:816
 tags: ["lineage", "boundary"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: lotus-avatamsaka
 source_course_id: course-008
 ---

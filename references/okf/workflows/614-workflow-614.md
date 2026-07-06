@@ -4,7 +4,7 @@ title: Workflow 614
 description: Workflow 614
 resource: lineage://buddhist-canons/workflows:614
 tags: ["lineage", "workflow"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: lotus-avatamsaka
 source_course_id: course-008
 ---

@@ -1,8 +1,8 @@
 {
   "schema_version": "0.1",
-  "generated_at": "2026-07-04T02:37:33",
-  "source_count": 63,
-  "chunk_count": 341,
+  "generated_at": "2026-07-06T10:59:53",
+  "source_count": 65,
+  "chunk_count": 351,
   "max_chars": 4000,
   "overlap_chars": 200,
   "sources": [
@@ -356,6 +356,24 @@
       "suffix": ".txt",
       "chars": 8776,
       "content_sha256": "db859a7c2beab6dc9acb6cbbb13dece4317b6fe4658e5465c21d1c378a6f5e1a"
+    },
+    {
+      "source_id": "c0a8a0288f67f7d453641db7c692da88",
+      "source_path": "摄大乘论释 (10卷)〖唐 玄奘译〗_id3048.txt",
+      "source_ref": "摄大乘论释 (10卷)〖唐 玄奘译〗_id3048.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\摄大乘论释 (10卷)〖唐 玄奘译〗_id3048.txt",
+      "suffix": ".txt",
+      "chars": 8812,
+      "content_sha256": "bd24c7f0f98ca9923036bb39851f3c9e7279a056e05ccd0e6d1534db81ac2e14"
+    },
+    {
+      "source_id": "47d5a6428c128c7e58ef10a7e17d2956",
+      "source_path": "摄大乘论释 (10卷)〖唐 玄奘译〗_id3049.txt",
+      "source_ref": "摄大乘论释 (10卷)〖唐 玄奘译〗_id3049.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\中观部·瑜伽部\\摄大乘论释 (10卷)〖唐 玄奘译〗_id3049.txt",
+      "suffix": ".txt",
+      "chars": 9227,
+      "content_sha256": "7473acbdadbe5068104feafc8be8fd8f94818e69d9c86e1c081ca5837da1e6d2"
     },
     {
       "source_id": "db651bcfa9679cc2966a1d790694dc95",

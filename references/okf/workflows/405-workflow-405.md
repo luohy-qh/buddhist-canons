@@ -4,7 +4,7 @@ title: Workflow 405
 description: Workflow 405
 resource: lineage://buddhist-canons/workflows:405
 tags: ["lineage", "workflow"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: esoteric
 source_course_id: course-006
 ---

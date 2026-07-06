@@ -4,7 +4,7 @@ title: Template 120
 description: Template 120
 resource: lineage://buddhist-canons/templates:120
 tags: ["lineage", "template"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: esoteric
 source_course_id: course-006
 ---

@@ -4,7 +4,7 @@ title: Transfer Rule 72
 description: Transfer Rule 72
 resource: lineage://buddhist-canons/transfer_rules:072
 tags: ["lineage", "transfer"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: esoteric
 source_course_id: course-006
 ---

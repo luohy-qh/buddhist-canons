@@ -1,8 +1,8 @@
 {
   "schema_version": "0.1",
-  "generated_at": "2026-07-05T02:35:14",
-  "source_count": 181,
-  "chunk_count": 920,
+  "generated_at": "2026-07-06T10:59:57",
+  "source_count": 200,
+  "chunk_count": 1019,
   "max_chars": 4000,
   "overlap_chars": 200,
   "sources": [
@@ -772,6 +772,24 @@
       "content_sha256": "fa70540c4b4bcff1ba6b88e31664e2c8f300b6b2ea0fb3cecf8a864a311de06a"
     },
     {
+      "source_id": "c486bfed28e740cf3de302e584a44c23",
+      "source_path": "律戒本疏 (1卷)〖〗_id3714.txt",
+      "source_ref": "律戒本疏 (1卷)〖〗_id3714.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\律戒本疏 (1卷)〖〗_id3714.txt",
+      "suffix": ".txt",
+      "chars": 45696,
+      "content_sha256": "365c461cc1a7000807d9a69cb5e2e431e30d854a5f6e72bcc5fb193a531b5ff9"
+    },
+    {
+      "source_id": "8db2bd2cb168f7b53d49c4fd3ba3ed13",
+      "source_path": "律戒本疏 (1卷)〖〗_id3715.txt",
+      "source_ref": "律戒本疏 (1卷)〖〗_id3715.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\律戒本疏 (1卷)〖〗_id3715.txt",
+      "suffix": ".txt",
+      "chars": 13555,
+      "content_sha256": "133abf7e8952bbfc9096a4a84e679c7723255064d485def102363bfa5bc7103a"
+    },
+    {
       "source_id": "6a86cc84543b81ac51f5abfbfc65aaba",
       "source_path": "律抄 (1卷)〖〗.txt",
       "source_ref": "律抄 (1卷)〖〗.txt",
@@ -833,6 +851,24 @@
       "suffix": ".txt",
       "chars": 2136,
       "content_sha256": "2d75fcc5fa83a1cbf4b5a26a216c0e8ca0fbcdd40e9cdfee49c387838a1ea96a"
+    },
+    {
+      "source_id": "4f08f22f573b09731a1021402a17da7c",
+      "source_path": "护身命经 (1卷)〖〗_id3792.txt",
+      "source_ref": "护身命经 (1卷)〖〗_id3792.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\护身命经 (1卷)〖〗_id3792.txt",
+      "suffix": ".txt",
+      "chars": 2165,
+      "content_sha256": "9f4a7d5bd7f09690387ddbc3ea9c6664ca4c27315ca7d3ccf31614c7cc05d352"
+    },
+    {
+      "source_id": "15c5cee90a489b89eef3415301e5d906",
+      "source_path": "护身命经 (1卷)〖〗_id3793.txt",
+      "source_ref": "护身命经 (1卷)〖〗_id3793.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\护身命经 (1卷)〖〗_id3793.txt",
+      "suffix": ".txt",
+      "chars": 1588,
+      "content_sha256": "bd0d8c4532934d72c9b0e437192528c90a7f9889a9f519650d9e3f673a3bd604"
     },
     {
       "source_id": "e761c378bc339df3c9ecf50c30d10ff3",
@@ -1096,6 +1132,33 @@
       "content_sha256": "303f288c1923bf7222166e3e66f4457d64800c71a01ca8afefb08544d6968a95"
     },
     {
+      "source_id": "2c93d67c33ce7635deb7cc0d9a9c50ed",
+      "source_path": "法华经疏 (1卷)〖〗_id3674.txt",
+      "source_ref": "法华经疏 (1卷)〖〗_id3674.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\法华经疏 (1卷)〖〗_id3674.txt",
+      "suffix": ".txt",
+      "chars": 15181,
+      "content_sha256": "2fd5eec3ccb482719aff8b6223b6355d1a6cdbc0a8f37d5bc56c0d81e2516a28"
+    },
+    {
+      "source_id": "74a6fbbab08397d6bd057a3a90c505cb",
+      "source_path": "法华经疏 (1卷)〖〗_id3675.txt",
+      "source_ref": "法华经疏 (1卷)〖〗_id3675.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\法华经疏 (1卷)〖〗_id3675.txt",
+      "suffix": ".txt",
+      "chars": 8741,
+      "content_sha256": "b7bcb731e4bfd0968cb9172bf22e3878e57fceddc43c6c1d9d2e5aa863ec8682"
+    },
+    {
+      "source_id": "440c60c509bba79a52b8b2f779453b53",
+      "source_path": "法华经疏 (1卷)〖〗_id3676.txt",
+      "source_ref": "法华经疏 (1卷)〖〗_id3676.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\法华经疏 (1卷)〖〗_id3676.txt",
+      "suffix": ".txt",
+      "chars": 7182,
+      "content_sha256": "92eed9bc2360ef37c891dcca3e6dd2ac0184783ea3a438e54d02514bc0ae73c1"
+    },
+    {
       "source_id": "281bfff2945c1c89998741d0c1a4a09b",
       "source_path": "法华问答 (1卷)〖〗.txt",
       "source_ref": "法华问答 (1卷)〖〗.txt",
@@ -1249,6 +1312,33 @@
       "content_sha256": "c2608d71c237c353ade1d94d3ae35c41d1b9c5d2446329b99802b3ec45a9343e"
     },
     {
+      "source_id": "6b33afa46c73a99749a58b0f668b160b",
+      "source_path": "礼忏文 (1卷)〖〗_id3781.txt",
+      "source_ref": "礼忏文 (1卷)〖〗_id3781.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\礼忏文 (1卷)〖〗_id3781.txt",
+      "suffix": ".txt",
+      "chars": 1723,
+      "content_sha256": "a0bd6933037ba1f58f240a6b3e1990ee8533d89e768727591f4b56a6ce454f9f"
+    },
+    {
+      "source_id": "64694520d27ed986bc013c3918a19a1d",
+      "source_path": "礼忏文 (1卷)〖〗_id3782.txt",
+      "source_ref": "礼忏文 (1卷)〖〗_id3782.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\礼忏文 (1卷)〖〗_id3782.txt",
+      "suffix": ".txt",
+      "chars": 2175,
+      "content_sha256": "3719672cae79075c306b7f16ff0835ff3f0fe968006be65d1efffc91067ed9ed"
+    },
+    {
+      "source_id": "b3166106f0e8ca2c108277b84f972ad7",
+      "source_path": "礼忏文 (1卷)〖〗_id3783.txt",
+      "source_ref": "礼忏文 (1卷)〖〗_id3783.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\礼忏文 (1卷)〖〗_id3783.txt",
+      "suffix": ".txt",
+      "chars": 1006,
+      "content_sha256": "a590216d189f7a76260e0a8663646b8337b6d829f6f59c62b8f37c861031a789"
+    },
+    {
       "source_id": "0d7417ed27955ab115e84c224a2e64de",
       "source_path": "祈愿文 (1卷)〖〗.txt",
       "source_ref": "祈愿文 (1卷)〖〗.txt",
@@ -1256,6 +1346,24 @@
       "suffix": ".txt",
       "chars": 551,
       "content_sha256": "14a0c9b75c0a094a7294602fe45ef6473dad6a904f47fcb2342b8115d05512ee"
+    },
+    {
+      "source_id": "503e86e9cf55cb6605b9a9a4d74566ec",
+      "source_path": "祈愿文 (1卷)〖〗_id3773.txt",
+      "source_ref": "祈愿文 (1卷)〖〗_id3773.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\祈愿文 (1卷)〖〗_id3773.txt",
+      "suffix": ".txt",
+      "chars": 579,
+      "content_sha256": "0627e5549bc986691def6b4968e898a60d55c15fe0efa20f8be487fef420cc0a"
+    },
+    {
+      "source_id": "60e3dcf071d211a6ed8d1e844228eaf2",
+      "source_path": "祈愿文 (1卷)〖〗_id3774.txt",
+      "source_ref": "祈愿文 (1卷)〖〗_id3774.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\祈愿文 (1卷)〖〗_id3774.txt",
+      "suffix": ".txt",
+      "chars": 547,
+      "content_sha256": "4826ea06cbcea349b6e92cae22c2ff0e2caf6614b68ce66235ff15d484ed6112"
     },
     {
       "source_id": "4e10167f5c4b1be209aa53f892fce4fb",
@@ -1330,6 +1438,33 @@
       "content_sha256": "dbb18ebf16c2491062a84b8cd360f66854ea3756ce8faf5c09971c34ca62cdf9"
     },
     {
+      "source_id": "551cbd7d92c73d5397ff8cc12a367557",
+      "source_path": "维摩经疏 (1卷)〖〗_id3696.txt",
+      "source_ref": "维摩经疏 (1卷)〖〗_id3696.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\维摩经疏 (1卷)〖〗_id3696.txt",
+      "suffix": ".txt",
+      "chars": 15834,
+      "content_sha256": "5e3dcea078e0ce546e6f22e261a80749f9c24bb6338d5df6cdf08be1c28f00b5"
+    },
+    {
+      "source_id": "0d1c22bbd295e4884b59c19a3b69a86d",
+      "source_path": "维摩经疏 (1卷)〖〗_id3697.txt",
+      "source_ref": "维摩经疏 (1卷)〖〗_id3697.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\维摩经疏 (1卷)〖〗_id3697.txt",
+      "suffix": ".txt",
+      "chars": 18260,
+      "content_sha256": "ad10135a9a4b9186994bfb0d98f9dd7846fe9611aa591e09fc4b674a8be1475a"
+    },
+    {
+      "source_id": "cb3a615f79cd20c1515973508fe4f7fc",
+      "source_path": "维摩经疏 (1卷)〖〗_id3700.txt",
+      "source_ref": "维摩经疏 (1卷)〖〗_id3700.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\维摩经疏 (1卷)〖〗_id3700.txt",
+      "suffix": ".txt",
+      "chars": 3000,
+      "content_sha256": "ea9c2b6d08b0f57eccbccf6b8f962a33ca2ee9187f66dc4395c353f33535258c"
+    },
+    {
       "source_id": "efe285304859c3af34483c8d386e8dd9",
       "source_path": "维摩经疏卷第三．第六 (2卷)〖〗.txt",
       "source_ref": "维摩经疏卷第三．第六 (2卷)〖〗.txt",
@@ -1373,6 +1508,24 @@
       "suffix": ".txt",
       "chars": 7977,
       "content_sha256": "bf835e0c8dc02bc91dcff6c5161ee391c8f6ba962c802bed04889b2b7656a9b4"
+    },
+    {
+      "source_id": "f1d5c3d1461bd552a916bcf22973e272",
+      "source_path": "药师经疏 (1卷)〖〗_id3692.txt",
+      "source_ref": "药师经疏 (1卷)〖〗_id3692.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\药师经疏 (1卷)〖〗_id3692.txt",
+      "suffix": ".txt",
+      "chars": 8006,
+      "content_sha256": "d7ac536ed6e5eb434cd89d75ccd600f08156284a5be841b46aa7011a64c8889d"
+    },
+    {
+      "source_id": "ca03fdd7910f61a83ef5189ef1c0597d",
+      "source_path": "药师经疏 (1卷)〖〗_id3693.txt",
+      "source_ref": "药师经疏 (1卷)〖〗_id3693.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\药师经疏 (1卷)〖〗_id3693.txt",
+      "suffix": ".txt",
+      "chars": 27417,
+      "content_sha256": "5c2fc8c7bebe33c30920283a203c127da247758b499b0862d11fb7979f7c5917"
     },
     {
       "source_id": "7d3ee1a3f3c4e6e097a947dfdd02a982",
@@ -1499,6 +1652,24 @@
       "suffix": ".txt",
       "chars": 16386,
       "content_sha256": "d3d1b4d7a1ebf74eb58052987089847a83cc429d38448efedebac20e3b6680da"
+    },
+    {
+      "source_id": "5da84243811dbb61fdeea78f3a0ad862",
+      "source_path": "金刚经疏 (1卷)〖〗_id3662.txt",
+      "source_ref": "金刚经疏 (1卷)〖〗_id3662.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\金刚经疏 (1卷)〖〗_id3662.txt",
+      "suffix": ".txt",
+      "chars": 16415,
+      "content_sha256": "15973e3a413c90bcb8f7a8a863182fc17bcaadd21ed73faa59674f7ed91f4214"
+    },
+    {
+      "source_id": "d76b68e9286248a589cc2b69dfc5ddbe",
+      "source_path": "金刚经疏 (1卷)〖〗_id3663.txt",
+      "source_ref": "金刚经疏 (1卷)〖〗_id3663.txt",
+      "absolute_path": "D:\\minimax\\课程蒸馏\\佛经\\古逸部·疑似部\\金刚经疏 (1卷)〖〗_id3663.txt",
+      "suffix": ".txt",
+      "chars": 5752,
+      "content_sha256": "c2d693688dce2ba7e43d3de19cb66e93f2a4d293a655a5088200d03dfcb74627"
     },
     {
       "source_id": "e316492133a8988e5f8152394862d870",

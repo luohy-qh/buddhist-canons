@@ -4,7 +4,7 @@ title: Diagnostic 471
 description: Diagnostic 471
 resource: lineage://buddhist-canons/diagnostics:471
 tags: ["lineage", "diagnostic"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: esoteric
 source_course_id: course-006
 ---

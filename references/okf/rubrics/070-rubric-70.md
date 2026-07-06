@@ -4,7 +4,7 @@ title: Rubric 70
 description: Rubric 70
 resource: lineage://buddhist-canons/rubrics:070
 tags: ["lineage", "rubric"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: apocrypha
 source_course_id: course-003
 ---

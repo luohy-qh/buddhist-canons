@@ -4,7 +4,7 @@ title: Concept 444
 description: Concept 444
 resource: lineage://buddhist-canons/concepts:444
 tags: ["lineage", "concept"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: avadana
 source_course_id: course-004
 ---

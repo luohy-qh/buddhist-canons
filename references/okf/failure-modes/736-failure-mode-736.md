@@ -4,7 +4,7 @@ title: Failure Mode 736
 description: Failure Mode 736
 resource: lineage://buddhist-canons/failure_modes:736
 tags: ["lineage", "failure-mode"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: sutra-commentary
 source_course_id: course-016
 ---

@@ -4,7 +4,7 @@ title: Diagnostic 921
 description: Diagnostic 921
 resource: lineage://buddhist-canons/diagnostics:921
 tags: ["lineage", "diagnostic"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: misc-nonbuddhist-catalogue
 source_course_id: course-011
 ---

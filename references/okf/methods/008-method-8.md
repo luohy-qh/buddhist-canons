@@ -4,7 +4,7 @@ title: Method 8
 description: Method 8
 resource: lineage://buddhist-canons/methods:008
 tags: ["lineage", "method"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: abhidharma
 source_course_id: course-001
 ---

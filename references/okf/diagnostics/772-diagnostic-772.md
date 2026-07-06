@@ -4,7 +4,7 @@ title: Diagnostic 772
 description: Diagnostic 772
 resource: lineage://buddhist-canons/diagnostics:772
 tags: ["lineage", "diagnostic"]
-timestamp: 2026-07-04T23:05:33Z
+timestamp: 2026-07-06T04:45:55Z
 source_course: madhyamaka-yoga
 source_course_id: course-009
 ---
