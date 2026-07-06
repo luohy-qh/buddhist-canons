@@ -7,8 +7,9 @@
 An Agent Skill for Claude Code / Codex / OpenCode and similar tools. Once installed, you can search the canon in natural language by doctrine, practice method, scripture name, section, concept, or original quote — and get study-oriented syntheses, method/term comparisons, per-section review paths, and evidence traceable down to "scripture · fascicle · dynasty · translator · segment".
 
 [![Skill](https://img.shields.io/badge/Agent-Skill-orange.svg)](../SKILL.md)
-[![Canon](https://img.shields.io/badge/canon-19%20sections-8a2be2.svg)](../SKILL.md)
-[![Cards](https://img.shields.io/badge/evidence%20cards-97540-blue.svg)](../references/citation_index.json)
+[![Canon](https://img.shields.io/badge/canon-19%20sections--2%2C429%20texts-8a2be2.svg)](../SKILL.md)
+[![Cards](https://img.shields.io/badge/evidence%20cards-99985-blue.svg)](../references/citation_index.json)
+[![Coverage](https://img.shields.io/badge/coverage-99.55%25-brightgreen.svg)](../scripts/scan_empty_chunks.py)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](../LICENSE)
 [![Lineage](https://img.shields.io/badge/distilled--by-lineage--skill-green.svg)](https://github.com/JuneYaooo/lineage-skill)
 
@@ -22,7 +23,15 @@ An Agent Skill for Claude Code / Codex / OpenCode and similar tools. Once instal
 
 ## Distillation Method
 
-The distillation method comes from [lineage-skill](https://github.com/JuneYaooo/lineage-skill): turning high-density source material into a traceable, transferable, output-ready Agent Skill. This project adds hardening specific to canonical texts (citations must be precise; original scripture must never be conflated with later paraphrase): evidence cards distinguish "original quote" from "AI summary", and every text carries a traceable citation.
+The distillation method comes from [lineage-skill](https://github.com/JuneYaooo/lineage-skill): turning high-density source material into a traceable, transferable, output-ready Agent Skill. This project adds hardening specific to canonical texts (citations must be precise; original scripture must never be conflated with later paraphrase): evidence cards distinguish "original quote" from "AI summary", every text carries a traceable citation, and a `scan_empty_chunks.py` coverage gate ships with the package.
+
+## Changelog
+
+### 2026-07-06
+
+- **Supplementary distillation**: a first-pass scrape had silently overwritten same-named files when downloads collided, so a second pass re-fetched 65 same-title-different-translation texts by site ID (esoteric 16, apocrypha 19, sutra-collection 22, history 2, avadana 2, prajñāpāramitā 2, madhyamaka-yoga 2) and added 2,445 new evidence cards (quote + summaries). Total cards: **99,985** (quote: **31,472**).
+- **Coverage gate**: added `scripts/scan_empty_chunks.py`, which scans all 19 sections' `chunks.jsonl` and `evidence_cards.jsonl` and reports chunks skipped by the LLM (0 cards) and the overall skip rate. Current skip rate **0.45%** (56 / 12,332 chunks), i.e. 99.55% coverage.
+- **Append-only methodology**: the supplement pass uses `build_chunks` + direct LLM quote extraction + append to existing `chunks.jsonl` / `evidence_cards.jsonl`, sidestepping the overwrite semantics of `distill_text_course.py` and the 120-card cap of `distill_course.py`, so existing data is never re-distilled.
 
 ## What It Can Do
 
@@ -31,7 +40,9 @@ The distillation method comes from [lineage-skill](https://github.com/JuneYaooo/
 - **Segment-level provenance**: most evidence cards cite "scripture (fascicles)〖dynasty translator〗· segment#N", traceable back to the original text chunk.
 - **Confidence filtering**: every card carries `confidence` (high/medium/low); external-facing search returns only `high` by default.
 - **Per-section review paths**: topic maps by section, concept, and method for systematic study.
+- **Same-title cross-translation comparison**: after the supplement pass, sections like esoteric, apocrypha, and sutra-collection hold different translations of the same text, useful for lateral comparison.
 - **Verify the source**: any card can be expanded with `fetch_course_evidence.py` to pull the underlying text chunk and all cards on it, for tracing high-impact conclusions.
+- **Coverage self-check**: run `scripts/scan_empty_chunks.py` to list which chunks were skipped by the LLM, useful for scoping any future re-distillation.
 
 ## When It Fits
 
@@ -48,30 +59,30 @@ The distillation method comes from [lineage-skill](https://github.com/JuneYaooo/
 
 ## Coverage
 
-Distilled from **19 sections of the Buddhist canon, 2,429 texts, 12,332 text chunks**, into **97,540 evidence cards** (all LLM-extracted).
+Distilled from **19 sections of the Buddhist canon, 2,429 texts, 12,332 text chunks**, into **99,985 evidence cards** (all LLM-extracted), of which **31,472** are `quote` cards (verbatim scripture).
 
 | Section (course) | 中文部名 | Texts | Chunks | Cards |
 | --- | --- | ---: | ---: | ---: |
-| `esoteric` | 密教部 | 606 | 2584 | 17613 |
+| `esoteric` | 密教部 | 606 | 2584 | 18490 |
 | `sutra-collection` | 经集部 | 422 | 1852 | 13874 |
-| `schools` | 经疏部（诸宗） | 184 | 1166 | 10249 |
+| `schools` | 经疏部（诸宗） | 184 | 1166 | 10261 |
+| `apocrypha` | 古逸部·疑似部 | 181 | 920 | 8075 |
 | `sutra-commentary` | 释经论部 | 110 | 825 | 7733 |
-| `apocrypha` | 古逸部·疑似部 | 181 | 920 | 7210 |
-| `history` | 史传部 | 95 | 643 | 5766 |
+| `history` | 史传部 | 95 | 643 | 5783 |
 | `vinaya-commentary-treatise-commentary` | 律疏部·论疏部 | 46 | 440 | 4299 |
 | `lotus-avatamsaka` | 法华部·华严部 | 96 | 514 | 4280 |
+| `vinaya` | 律部 | 87 | 427 | 3598 |
 | `agama` | 阿含部 | 155 | 548 | 3557 |
 | `misc-nonbuddhist-catalogue` | 事汇部·外教部·目录部 | 66 | 387 | 3148 |
-| `vinaya` | 律部 | 87 | 427 | 3056 |
 | `abhidharma` | 毗昙部 | 61 | 352 | 3011 |
 | `madhyamaka-yoga` | 中观部·瑜伽部 | 63 | 341 | 2877 |
-| `avadana` | 本缘部 | 71 | 351 | 2846 |
+| `avadana` | 本缘部 | 71 | 351 | 2875 |
 | `treatise-collection` | 论集部 | 69 | 349 | 2752 |
 | `ratnakuta-nirvana` | 宝积部·涅槃部 | 37 | 221 | 1923 |
-| `prajnaparamita` | 般若部 | 47 | 209 | 1636 |
+| `prajnaparamita` | 般若部 | 47 | 209 | 1739 |
 | `mahavaipulya` | 大集部 | 28 | 184 | 1616 |
 | `dharani` | 陀罗尼 | 5 | 19 | 94 |
-| **Total** | **19 sections** | **2429** | **12332** | **97540** |
+| **Total** | **19 sections** | **2429** | **12332** | **99985** |
 
 **Not included**: texts outside the above, extra-canonical literature, and modern commentaries/lectures.
 

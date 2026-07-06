@@ -7,8 +7,9 @@
 Claude Code / Codex / OpenCode 等 Agent Skill。装进 agent 后，可以用自然语言按法义、修法、经名、部类、概念或原文引用检索大藏经资料，输出源自经典的学习型梳理、法义/修法/术语对比、逐部复习路径，以及可追溯到「经名·卷数·朝代·译者·段落」的原文证据。
 
 [![Skill](https://img.shields.io/badge/Agent-Skill-orange.svg)](./SKILL.md)
-[![Canon](https://img.shields.io/badge/大藏经-19部-8a2be2.svg)](./SKILL.md)
-[![Cards](https://img.shields.io/badge/证据卡-97540-blue.svg)](./references/citation_index.json)
+[![Canon](https://img.shields.io/badge/大藏经-19部-2429篇-8a2be2.svg)](./SKILL.md)
+[![Cards](https://img.shields.io/badge/证据卡-99985-blue.svg)](./references/citation_index.json)
+[![Coverage](https://img.shields.io/badge/coverage-99.55%25-brightgreen.svg)](./scripts/scan_empty_chunks.py)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENSE)
 [![Lineage](https://img.shields.io/badge/distilled--by-lineage--skill-green.svg)](https://github.com/JuneYaooo/lineage-skill)
 
@@ -22,7 +23,15 @@ Claude Code / Codex / OpenCode 等 Agent Skill。装进 agent 后，可以用自
 
 ## 蒸馏方法
 
-本项目的蒸馏方法来自 [lineage-skill](https://github.com/JuneYaooo/lineage-skill)：把高密度的原始材料整理成可溯源、可迁移、可产出的 Agent Skill。本项目在其基础上，针对佛典的特殊要求（引用必须精确、原文不能与后人概括混淆）做了强化：证据卡区分「原文」与「AI 归纳」，并为每一篇建立可追溯的出处索引。
+本项目的蒸馏方法来自 [lineage-skill](https://github.com/JuneYaooo/lineage-skill)：把高密度的原始材料整理成可溯源、可迁移、可产出的 Agent Skill。本项目在其基础上，针对佛典的特殊要求（引用必须精确、原文不能与后人概括混淆）做了强化：证据卡区分「原文」与「AI 归纳」，为每一篇建立可追溯的出处索引，并随包发布 `scan_empty_chunks.py` 覆盖率门。
+
+## 更新记录
+
+### 2026-07-06
+
+- **增量补抽**：在第一轮抓取时因文件名相同被后下载的覆盖丢失，第二轮按站点 ID 重新补抓 65 篇「同标题异译本」经文（覆盖密教部 16、古逸疑似部 19、经集部 22、史传部 2、本缘部 2、般若部 2、中观瑜伽部 2），增量追加 quote 卡与各型归纳卡共 2445 张，全库证据卡总数升至 **99985**（其中原文型 `quote` 卡 **31472**）。
+- **覆盖率门**：新增 `scripts/scan_empty_chunks.py`，扫所有 19 部的 `chunks.jsonl` 与 `evidence_cards.jsonl`，报告被 LLM 跳过（0 张卡）的 chunk 清单及跳过率。当前跳过率 **0.45%**（56 / 12332 chunk），整体覆盖率 99.55%。
+- **增量蒸馏方法**：补抽采用 `build_chunks` + 直接 LLM 抽取 quote + append 到既有 `chunks.jsonl` / `evidence_cards.jsonl` 的纯增量方式，绕过 `distill_text_course.py` 的覆盖式重切与 `distill_course.py` 的 120 卡上限，避免重复蒸馏已有数据。
 
 ## 能做什么
 
@@ -31,7 +40,9 @@ Claude Code / Codex / OpenCode 等 Agent Skill。装进 agent 后，可以用自
 - **精确到段的出处**：绝大多数证据卡出处为「经名 (卷数)〖朝代 译者〗· 段#N」，可回溯到原始文本块核对。
 - **置信度过滤**：每张卡带 `confidence`（high/medium/low）；对外检索默认只返回 `high`。
 - **逐部复习路径**：按部类、概念、修法整理主题地图，适合系统学习。
+- **同标题异译本对比**：补抽后的密教部、古逸部、经集部等部包含同经不同译本，便于横向比对。
 - **回核原文**：任意一张卡都可用 `fetch_course_evidence.py` 拉出所在文本块的原文与同块全部卡，用于高影响结论的溯源。
+- **覆盖率自检**：跑 `scripts/scan_empty_chunks.py` 即可生成「哪些 chunk 被 LLM 跳过」清单，方便重蒸馏时定位补抽范围。
 
 ## 适合哪些场景
 
@@ -48,30 +59,30 @@ Claude Code / Codex / OpenCode 等 Agent Skill。装进 agent 后，可以用自
 
 ## 覆盖范围
 
-由 **19 部佛教典籍、2429 篇文本、12332 个文本块**蒸馏出 **97540 张证据卡**（全部经大语言模型抽取）。
+由 **19 部佛教典籍、2429 篇文本、12332 个文本块**蒸馏出 **99985 张证据卡**（全部经大语言模型抽取），其中原文型 `quote` 卡 **31472 张**。
 
 | 部 (course) | 中文部名 | 篇 | 文本块 | 证据卡 |
 | --- | --- | ---: | ---: | ---: |
-| `esoteric` | 密教部 | 606 | 2584 | 17613 |
+| `esoteric` | 密教部 | 606 | 2584 | 18490 |
 | `sutra-collection` | 经集部 | 422 | 1852 | 13874 |
-| `schools` | 经疏部（诸宗） | 184 | 1166 | 10249 |
+| `schools` | 经疏部（诸宗） | 184 | 1166 | 10261 |
+| `apocrypha` | 古逸部·疑似部 | 181 | 920 | 8075 |
 | `sutra-commentary` | 释经论部 | 110 | 825 | 7733 |
-| `apocrypha` | 古逸部·疑似部 | 181 | 920 | 7210 |
-| `history` | 史传部 | 95 | 643 | 5766 |
+| `history` | 史传部 | 95 | 643 | 5783 |
 | `vinaya-commentary-treatise-commentary` | 律疏部·论疏部 | 46 | 440 | 4299 |
 | `lotus-avatamsaka` | 法华部·华严部 | 96 | 514 | 4280 |
+| `vinaya` | 律部 | 87 | 427 | 3598 |
 | `agama` | 阿含部 | 155 | 548 | 3557 |
 | `misc-nonbuddhist-catalogue` | 事汇部·外教部·目录部 | 66 | 387 | 3148 |
-| `vinaya` | 律部 | 87 | 427 | 3056 |
 | `abhidharma` | 毗昙部 | 61 | 352 | 3011 |
 | `madhyamaka-yoga` | 中观部·瑜伽部 | 63 | 341 | 2877 |
-| `avadana` | 本缘部 | 71 | 351 | 2846 |
+| `avadana` | 本缘部 | 71 | 351 | 2875 |
 | `treatise-collection` | 论集部 | 69 | 349 | 2752 |
 | `ratnakuta-nirvana` | 宝积部·涅槃部 | 37 | 221 | 1923 |
-| `prajnaparamita` | 般若部 | 47 | 209 | 1636 |
+| `prajnaparamita` | 般若部 | 47 | 209 | 1739 |
 | `mahavaipulya` | 大集部 | 28 | 184 | 1616 |
 | `dharani` | 陀罗尼 | 5 | 19 | 94 |
-| **合计** | **19 部** | **2429** | **12332** | **97540** |
+| **合计** | **19 部** | **2429** | **12332** | **99985** |
 
 **不含**：上述之外的典籍、藏外文献、各家现代注疏与讲记。
 
@@ -79,7 +90,7 @@ Claude Code / Codex / OpenCode 等 Agent Skill。装进 agent 后，可以用自
 
 | 卡型 | 数量 | 性质 |
 | --- | ---: | --- |
-| `quote` | 29027 | **原文**：经文原句摘录 |
+| `quote` | 31472 | **原文**：经文原句摘录 |
 | `concept` | 21993 | AI 归纳：法相/概念定义 |
 | `case` | 12997 | AI 归纳：事例/公案 |
 | `method` | 11757 | AI 归纳：修法/操作步骤 |
