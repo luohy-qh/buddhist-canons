@@ -2,12 +2,12 @@
 
 # buddhist-canons-lineage
 
-**Turn 19 sections (2,429 texts) of the Buddhist canon into a searchable, traceable Agent Skill that keeps source quotes and AI summaries clearly separated.**
+**Turn 19 sections (2,494 texts) of the Buddhist canon into a searchable, traceable Agent Skill that keeps source quotes and AI summaries clearly separated.**
 
 An Agent Skill for Claude Code / Codex / OpenCode and similar tools. Once installed, you can search the canon in natural language by doctrine, practice method, scripture name, section, concept, or original quote — and get study-oriented syntheses, method/term comparisons, per-section review paths, and evidence traceable down to "scripture · fascicle · dynasty · translator · segment".
 
 [![Skill](https://img.shields.io/badge/Agent-Skill-orange.svg)](../SKILL.md)
-[![Canon](https://img.shields.io/badge/canon-19%20sections--2%2C429%20texts-8a2be2.svg)](../SKILL.md)
+[![Canon](https://img.shields.io/badge/canon-19%20sections--2%2C494%20texts-8a2be2.svg)](../SKILL.md)
 [![Cards](https://img.shields.io/badge/evidence%20cards-99985-blue.svg)](../references/citation_index.json)
 [![Coverage](https://img.shields.io/badge/coverage-99.55%25-brightgreen.svg)](../scripts/scan_empty_chunks.py)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](../LICENSE)
@@ -59,30 +59,30 @@ The distillation method comes from [lineage-skill](https://github.com/JuneYaooo/
 
 ## Coverage
 
-Distilled from **19 sections of the Buddhist canon, 2,429 texts, 12,332 text chunks**, into **99,985 evidence cards** (all LLM-extracted), of which **31,472** are `quote` cards (verbatim scripture).
+Distilled from **19 sections of the Buddhist canon, 2,494 texts, 12,632 text chunks**, into **99,985 evidence cards** (all LLM-extracted), of which **31,472** are `quote` cards (verbatim scripture).
 
 | Section (course) | 中文部名 | Texts | Chunks | Cards |
 | --- | --- | ---: | ---: | ---: |
-| `esoteric` | 密教部 | 606 | 2584 | 18490 |
-| `sutra-collection` | 经集部 | 422 | 1852 | 13874 |
+| `esoteric` | 密教部 | 622 | 2673 | 18490 |
+| `sutra-collection` | 经集部 | 444 | 1932 | 13874 |
+| `apocrypha` | 古逸部·疑似部 | 200 | 1019 | 8075 |
 | `schools` | 经疏部（诸宗） | 184 | 1166 | 10261 |
-| `apocrypha` | 古逸部·疑似部 | 181 | 920 | 8075 |
 | `sutra-commentary` | 释经论部 | 110 | 825 | 7733 |
-| `history` | 史传部 | 95 | 643 | 5783 |
-| `vinaya-commentary-treatise-commentary` | 律疏部·论疏部 | 46 | 440 | 4299 |
+| `agama` | 阿含部 | 155 | 548 | 3557 |
+| `history` | 史传部 | 97 | 649 | 5783 |
 | `lotus-avatamsaka` | 法华部·华严部 | 96 | 514 | 4280 |
 | `vinaya` | 律部 | 87 | 427 | 3598 |
-| `agama` | 阿含部 | 155 | 548 | 3557 |
-| `misc-nonbuddhist-catalogue` | 事汇部·外教部·目录部 | 66 | 387 | 3148 |
-| `abhidharma` | 毗昙部 | 61 | 352 | 3011 |
-| `madhyamaka-yoga` | 中观部·瑜伽部 | 63 | 341 | 2877 |
-| `avadana` | 本缘部 | 71 | 351 | 2875 |
+| `avadana` | 本缘部 | 73 | 357 | 2875 |
 | `treatise-collection` | 论集部 | 69 | 349 | 2752 |
+| `misc-nonbuddhist-catalogue` | 事汇部·外教部·目录部 | 66 | 387 | 3148 |
+| `madhyamaka-yoga` | 中观部·瑜伽部 | 65 | 351 | 2877 |
+| `abhidharma` | 毗昙部 | 61 | 352 | 3011 |
+| `prajnaparamita` | 般若部 | 49 | 219 | 1739 |
+| `vinaya-commentary-treatise-commentary` | 律疏部·论疏部 | 46 | 440 | 4299 |
 | `ratnakuta-nirvana` | 宝积部·涅槃部 | 37 | 221 | 1923 |
-| `prajnaparamita` | 般若部 | 47 | 209 | 1739 |
 | `mahavaipulya` | 大集部 | 28 | 184 | 1616 |
 | `dharani` | 陀罗尼 | 5 | 19 | 94 |
-| **Total** | **19 sections** | **2429** | **12332** | **99985** |
+| **Total** | **19 sections** | **2494** | **12632** | **99985** |
 
 **Not included**: texts outside the above, extra-canonical literature, and modern commentaries/lectures.
 

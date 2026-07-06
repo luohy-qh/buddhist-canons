@@ -2,12 +2,12 @@
 
 # buddhist-canons-lineage
 
-**把 19 部 2429 篇佛教大藏经整理成可检索、可追溯、原文与 AI 归纳分明的 Agent Skill。**
+**把 19 部 2494 篇佛教大藏经整理成可检索、可追溯、原文与 AI 归纳分明的 Agent Skill。**
 
 Claude Code / Codex / OpenCode 等 Agent Skill。装进 agent 后，可以用自然语言按法义、修法、经名、部类、概念或原文引用检索大藏经资料，输出源自经典的学习型梳理、法义/修法/术语对比、逐部复习路径，以及可追溯到「经名·卷数·朝代·译者·段落」的原文证据。
 
 [![Skill](https://img.shields.io/badge/Agent-Skill-orange.svg)](./SKILL.md)
-[![Canon](https://img.shields.io/badge/大藏经-19部-2429篇-8a2be2.svg)](./SKILL.md)
+[![Canon](https://img.shields.io/badge/大藏经-19部-2494篇-8a2be2.svg)](./SKILL.md)
 [![Cards](https://img.shields.io/badge/证据卡-99985-blue.svg)](./references/citation_index.json)
 [![Coverage](https://img.shields.io/badge/coverage-99.55%25-brightgreen.svg)](./scripts/scan_empty_chunks.py)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](./LICENSE)
@@ -59,30 +59,30 @@ Claude Code / Codex / OpenCode 等 Agent Skill。装进 agent 后，可以用自
 
 ## 覆盖范围
 
-由 **19 部佛教典籍、2429 篇文本、12332 个文本块**蒸馏出 **99985 张证据卡**（全部经大语言模型抽取），其中原文型 `quote` 卡 **31472 张**。
+由 **19 部佛教典籍、2494 篇文本、12632 个文本块**蒸馏出 **99985 张证据卡**(全部经大语言模型抽取),其中原文型 `quote` 卡 **31472 张**。
 
 | 部 (course) | 中文部名 | 篇 | 文本块 | 证据卡 |
 | --- | --- | ---: | ---: | ---: |
-| `esoteric` | 密教部 | 606 | 2584 | 18490 |
-| `sutra-collection` | 经集部 | 422 | 1852 | 13874 |
-| `schools` | 经疏部（诸宗） | 184 | 1166 | 10261 |
-| `apocrypha` | 古逸部·疑似部 | 181 | 920 | 8075 |
+| `esoteric` | 密教部 | 622 | 2673 | 18490 |
+| `sutra-collection` | 经集部 | 444 | 1932 | 13874 |
+| `apocrypha` | 古逸部·疑似部 | 200 | 1019 | 8075 |
+| `schools` | 经疏部(诸宗) | 184 | 1166 | 10261 |
 | `sutra-commentary` | 释经论部 | 110 | 825 | 7733 |
-| `history` | 史传部 | 95 | 643 | 5783 |
-| `vinaya-commentary-treatise-commentary` | 律疏部·论疏部 | 46 | 440 | 4299 |
+| `agama` | 阿含部 | 155 | 548 | 3557 |
+| `history` | 史传部 | 97 | 649 | 5783 |
 | `lotus-avatamsaka` | 法华部·华严部 | 96 | 514 | 4280 |
 | `vinaya` | 律部 | 87 | 427 | 3598 |
-| `agama` | 阿含部 | 155 | 548 | 3557 |
-| `misc-nonbuddhist-catalogue` | 事汇部·外教部·目录部 | 66 | 387 | 3148 |
-| `abhidharma` | 毗昙部 | 61 | 352 | 3011 |
-| `madhyamaka-yoga` | 中观部·瑜伽部 | 63 | 341 | 2877 |
-| `avadana` | 本缘部 | 71 | 351 | 2875 |
+| `avadana` | 本缘部 | 73 | 357 | 2875 |
 | `treatise-collection` | 论集部 | 69 | 349 | 2752 |
+| `misc-nonbuddhist-catalogue` | 事汇部·外教部·目录部 | 66 | 387 | 3148 |
+| `madhyamaka-yoga` | 中观部·瑜伽部 | 65 | 351 | 2877 |
+| `abhidharma` | 毗昙部 | 61 | 352 | 3011 |
+| `prajnaparamita` | 般若部 | 49 | 219 | 1739 |
+| `vinaya-commentary-treatise-commentary` | 律疏部·论疏部 | 46 | 440 | 4299 |
 | `ratnakuta-nirvana` | 宝积部·涅槃部 | 37 | 221 | 1923 |
-| `prajnaparamita` | 般若部 | 47 | 209 | 1739 |
 | `mahavaipulya` | 大集部 | 28 | 184 | 1616 |
 | `dharani` | 陀罗尼 | 5 | 19 | 94 |
-| **合计** | **19 部** | **2429** | **12332** | **99985** |
+| **合计** | **19 部** | **2494** | **12632** | **99985** |
 
 **不含**：上述之外的典籍、藏外文献、各家现代注疏与讲记。
 

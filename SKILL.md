@@ -72,4 +72,4 @@ Active role(s): Mentor, Practitioner.
 
 ## Course Note
 
-由 19 部佛教经典（2429 篇 文本）蒸馏生成的方法专家 Skill：mentor + practitioner 双角色。
+由 19 部佛教经典（2494 篇 文本）蒸馏生成的方法专家 Skill：mentor + practitioner 双角色。
